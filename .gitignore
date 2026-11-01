@@ -2,3 +2,5 @@
 __pycache__/
 *.py[cod]
 output/
+.cache/
+books/*/pdf-instructional-text.txt

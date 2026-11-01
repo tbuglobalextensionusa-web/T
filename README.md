@@ -1,6 +1,16 @@
 # T
 
-## Edge TTS
+## Children and Adolescent Counseling Curriculum
+
+- [Curriculum and MCQ coverage map](docs/curriculum.md)
+- [PDF book production requirements](docs/production-requirements.md)
+- [Book production plan and progress register](docs/book-production-plan.md)
+
+The curriculum contains 24 core courses, eight electives, and four integrative areas. The confirmed structure is **32 separate PDF books—one per course—with no voice or audio files**. The four integrative areas will be incorporated into relevant course books. The books are to use simple-English lecture-style writing, real-life applications, and diagrams or illustrations where appropriate. Each finished book PDF must contain at least 150,000 words, for a combined minimum of 4,800,000 words. Production follows curriculum order. **CAC.901 is complete:** [Advanced Developmental Psychology PDF](deliverables/CAC-901-advanced-developmental-psychology.pdf), 437 pages, with 153,737 conservative body-prose words verified from the PDF, excluding references and front matter. It includes new course lectures, diagrams, and exercises alongside attributed OpenStax adaptations. The remaining 31 books are pending; next is CAC.902.
+
+## Existing Repository Utility: Edge TTS
+
+The text-to-speech utility below was already present in this repository. It is not part of the PDF book deliverables and will not be used to produce audio for this project.
 
 [edge-tts](https://github.com/rany2/edge-tts) provides text-to-speech using
 Microsoft Edge's online service. No API key is required.

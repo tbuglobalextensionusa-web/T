@@ -1,0 +1,276 @@
+[
+  {
+    "number": 1,
+    "title": "Development through the lifespan",
+    "modules": [
+      "m82218"
+    ],
+    "source_titles": [
+      "What Is Lifespan Development?"
+    ],
+    "source_paragraph_words": 2791
+  },
+  {
+    "number": 2,
+    "title": "Observation, evidence, and research ethics",
+    "modules": [
+      "m82167",
+      "m82170"
+    ],
+    "source_titles": [
+      "Why Is Research Important?",
+      "Ethics"
+    ],
+    "source_paragraph_words": 4402
+  },
+  {
+    "number": 3,
+    "title": "Designing and interpreting longitudinal research",
+    "modules": [
+      "m82168",
+      "m82169"
+    ],
+    "source_titles": [
+      "Approaches to Research",
+      "Analyzing Findings"
+    ],
+    "source_paragraph_words": 10478
+  },
+  {
+    "number": 4,
+    "title": "Developmental theories in counseling perspective",
+    "modules": [
+      "m82219"
+    ],
+    "source_titles": [
+      "Lifespan Theories"
+    ],
+    "source_paragraph_words": 4163
+  },
+  {
+    "number": 5,
+    "title": "Prenatal development, childhood, and adolescence",
+    "modules": [
+      "m82220"
+    ],
+    "source_titles": [
+      "Stages of Development"
+    ],
+    "source_paragraph_words": 10853
+  },
+  {
+    "number": 6,
+    "title": "Genes, neurons, and developing systems",
+    "modules": [
+      "m82172",
+      "m82173"
+    ],
+    "source_titles": [
+      "Human Genetics",
+      "Cells of the Nervous System"
+    ],
+    "source_paragraph_words": 5788
+  },
+  {
+    "number": 7,
+    "title": "Brain development and biological context",
+    "modules": [
+      "m82175",
+      "m82176"
+    ],
+    "source_titles": [
+      "The Brain and Spinal Cord",
+      "The Endocrine System"
+    ],
+    "source_paragraph_words": 5610
+  },
+  {
+    "number": 8,
+    "title": "Learning, conditioning, and modeling",
+    "modules": [
+      "m82199",
+      "m82200",
+      "m82201",
+      "m82202"
+    ],
+    "source_titles": [
+      "What Is Learning?",
+      "Classical Conditioning",
+      "Operant Conditioning",
+      "Observational Learning (Modeling)"
+    ],
+    "source_paragraph_words": 12906
+  },
+  {
+    "number": 9,
+    "title": "Language, thought, and problem solving",
+    "modules": [
+      "m82205",
+      "m82206",
+      "m82207"
+    ],
+    "source_titles": [
+      "What Is Cognition?",
+      "Language",
+      "Problem Solving"
+    ],
+    "source_paragraph_words": 6573
+  },
+  {
+    "number": 10,
+    "title": "Intelligence: measurement and interpretation",
+    "modules": [
+      "m82208",
+      "m82209",
+      "m82211"
+    ],
+    "source_titles": [
+      "What Are Intelligence and Creativity?",
+      "Measures of Intelligence",
+      "The Source of Intelligence"
+    ],
+    "source_paragraph_words": 7190
+  },
+  {
+    "number": 11,
+    "title": "Memory development and children\u2019s accounts",
+    "modules": [
+      "m82213",
+      "m82215",
+      "m82216"
+    ],
+    "source_titles": [
+      "How Memory Functions",
+      "Problems with Memory",
+      "Ways to Enhance Memory"
+    ],
+    "source_paragraph_words": 10283
+  },
+  {
+    "number": 12,
+    "title": "Emotion, motivation, and regulation",
+    "modules": [
+      "m82225",
+      "m82229"
+    ],
+    "source_titles": [
+      "Motivation",
+      "Emotion"
+    ],
+    "source_paragraph_words": 7301
+  },
+  {
+    "number": 13,
+    "title": "Self, personality, and culture",
+    "modules": [
+      "m82233",
+      "m82235",
+      "m82239",
+      "m82240"
+    ],
+    "source_titles": [
+      "What Is Personality?",
+      "Neo-Freudians: Adler, Erikson, Jung, and Horney",
+      "Trait Theorists",
+      "Cultural Understandings of Personality"
+    ],
+    "source_paragraph_words": 5730
+  },
+  {
+    "number": 14,
+    "title": "Social cognition, self-presentation, and peer influence",
+    "modules": [
+      "m82273",
+      "m82247",
+      "m82249"
+    ],
+    "source_titles": [
+      "What Is Social Psychology?",
+      "Self-presentation",
+      "Conformity, Compliance, and Obedience"
+    ],
+    "source_paragraph_words": 8535
+  },
+  {
+    "number": 15,
+    "title": "Belonging, prejudice, aggression, and helping",
+    "modules": [
+      "m82250",
+      "m82251",
+      "m82252"
+    ],
+    "source_titles": [
+      "Prejudice and Discrimination",
+      "Aggression",
+      "Prosocial Behavior"
+    ],
+    "source_paragraph_words": 8086
+  },
+  {
+    "number": 16,
+    "title": "Stress, coping, and adaptation",
+    "modules": [
+      "m82259",
+      "m82260",
+      "m82262"
+    ],
+    "source_titles": [
+      "What Is Stress?",
+      "Stressors",
+      "Regulation of Stress"
+    ],
+    "source_paragraph_words": 11110
+  },
+  {
+    "number": 17,
+    "title": "Developmental pathways to distress and disorder",
+    "modules": [
+      "m82265",
+      "m82266",
+      "m82267",
+      "m82268",
+      "m82274"
+    ],
+    "source_titles": [
+      "What Are Psychological Disorders?",
+      "Diagnosing and Classifying Psychological Disorders",
+      "Perspectives on Psychological Disorders",
+      "Anxiety Disorders",
+      "Posttraumatic Stress Disorder"
+    ],
+    "source_paragraph_words": 10252
+  },
+  {
+    "number": 18,
+    "title": "Neurodevelopmental differences and support",
+    "modules": [
+      "m82278"
+    ],
+    "source_titles": [
+      "Disorders in Childhood"
+    ],
+    "source_paragraph_words": 3910
+  },
+  {
+    "number": 19,
+    "title": "Developmentally informed intervention",
+    "modules": [
+      "m82282",
+      "m82283",
+      "m82285"
+    ],
+    "source_titles": [
+      "Types of Treatment",
+      "Treatment Modalities",
+      "The Sociocultural Model and Therapy Utilization"
+    ],
+    "source_paragraph_words": 8612
+  },
+  {
+    "number": 20,
+    "title": "Integration, reflection, and doctoral practice",
+    "modules": [],
+    "source_titles": [],
+    "source_paragraph_words": 0
+  }
+]

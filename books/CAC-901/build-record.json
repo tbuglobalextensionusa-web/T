@@ -1,0 +1,38 @@
+{
+  "course": "CAC.901",
+  "title": "Advanced Developmental Psychology",
+  "estimated_substantive_manuscript_words": 169415,
+  "chapters": 20,
+  "original_vector_diagrams": 20,
+  "source_modules": 48,
+  "deduplicated_inherited_reference_entries": 1514,
+  "chapter_pages": {
+    "1": 6,
+    "2": 15,
+    "3": 28,
+    "4": 51,
+    "5": 63,
+    "6": 85,
+    "7": 100,
+    "8": 115,
+    "9": 143,
+    "10": 161,
+    "11": 178,
+    "12": 202,
+    "13": 219,
+    "14": 238,
+    "15": 260,
+    "16": 280,
+    "17": 306,
+    "18": 330,
+    "19": 339,
+    "20": 359
+  },
+  "section_pages": {
+    "frontmatter_start": 2,
+    "glossary_start": 368,
+    "references_start": 372,
+    "attribution_start": 436
+  },
+  "pdf": "deliverables/CAC-901-advanced-developmental-psychology.pdf"
+}
