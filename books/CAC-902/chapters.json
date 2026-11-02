@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "title": "What a Theory Does: Maps, Models, and Evidence",
+    "module": "Foundations",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "id": "m82281"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "The Helping Relationship and Common Factors",
+    "module": "Foundations",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "id": "m82283",
+        "include_sections": [
+          "fs-idm107115968",
+          "fs-idm91465696",
+          "fs-idm179627744"
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Psychoanalysis: Freud and the Unconscious",
+    "module": "Psychodynamic",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "id": "m58019"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Object Relations and Attachment-Informed Therapy",
+    "module": "Psychodynamic",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "id": "m58036"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Adler and Sullivan: Belonging, Goals, and Interpersonal Life",
+    "module": "Psychodynamic",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "id": "m58034"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Horney and Fromm: Anxiety, Culture, and Character",
+    "module": "Psychodynamic",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "id": "m58038"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Jung and Analytical Psychology",
+    "module": "Psychodynamic",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "id": "m58035"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Person-Centered Therapy: Rogers and Maslow",
+    "module": "Humanistic-existential",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "id": "m58071"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Existential Therapy: Frankl, May, and Meaning",
+    "module": "Humanistic-existential",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "id": "m58072"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Behavior Therapy and Learning Principles",
+    "module": "Behavioral-cognitive",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "id": "m58073"
+      },
+      {
+        "id": "m82282",
+        "include_sections": [
+          "fs-idm93488480"
+        ]
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Cognitive Therapy and CBT",
+    "module": "Behavioral-cognitive",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "id": "m58075"
+      },
+      {
+        "id": "m82282",
+        "include_sections": [
+          "fs-idm117707552",
+          "fs-idm80146528"
+        ]
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Social Cognitive Theory and Self-Efficacy",
+    "module": "Behavioral-cognitive",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "id": "m58074"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "title": "Contextual and Mindfulness-Based Approaches",
+    "module": "Behavioral-cognitive",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "id": "m58063",
+        "include_sections": [
+          "import-auto-id1168367002867",
+          "import-auto-id6303072",
+          "import-auto-id1168353277529",
+          "import-auto-id1168379526635"
+        ]
+      },
+      {
+        "id": "m58064",
+        "include_sections": [
+          "import-auto-id1168360232914"
+        ]
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "title": "Gestalt and Experiential Therapy",
+    "module": "Humanistic-existential",
+    "lecture_part": "part-03.md",
+    "sources": []
+  },
+  {
+    "number": 15,
+    "title": "Family Systems and Postmodern Conversations",
+    "module": "Systemic",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "id": "m82283",
+        "include_sections": [
+          "fs-idp4488464"
+        ]
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "title": "Play, Expressive Work, and Developmental Adaptation",
+    "module": "Child-adolescent application",
+    "lecture_part": "part-04.md",
+    "sources": [
+      {
+        "id": "m82282",
+        "include_sections": [
+          "fs-idp67732048"
+        ]
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "title": "Culture, African Perspectives, and Feminist Critique",
+    "module": "Integrative practice",
+    "lecture_part": "part-04.md",
+    "sources": [
+      {
+        "id": "m58016"
+      },
+      {
+        "id": "m58017"
+      },
+      {
+        "id": "m58039"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "title": "Assessment and Case Formulation Across Theories",
+    "module": "Integrative practice",
+    "lecture_part": "part-04.md",
+    "sources": [
+      {
+        "id": "m58007"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "title": "Choosing, Integrating, and Evaluating Treatment",
+    "module": "Integrative practice",
+    "lecture_part": "part-04.md",
+    "sources": [
+      {
+        "id": "m82285"
+      },
+      {
+        "id": "m82282",
+        "include_sections": [
+          "fs-idp5059168"
+        ]
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "title": "Doctoral Capstone: Ethics, Supervision, and Research",
+    "module": "Integrative practice",
+    "lecture_part": "part-04.md",
+    "sources": []
+  }
+]

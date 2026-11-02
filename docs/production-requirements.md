@@ -50,4 +50,5 @@ The full book register, integration plan, and acceptance checks are recorded in 
 - One-PDF-per-course structure confirmed: 32 books.
 - Book production plan saved.
 - CAC.901 is complete: the delivered PDF passed the 150,000-word minimum with 153,737 conservative body-prose words, excluding references and front matter. It includes attributed OpenStax adaptations alongside new course lectures and diagrams.
-- The remaining 31 course books have not yet been produced.
+- CAC.902 is complete: the delivered PDF passed the 150,000-word minimum with 245,750 conservative body-prose words, excluding references and front matter. It includes attributed CC BY adaptations alongside new course lectures, diagrams, and exercises.
+- The remaining 30 course books have not yet been produced.

@@ -6,7 +6,14 @@
 - [PDF book production requirements](docs/production-requirements.md)
 - [Book production plan and progress register](docs/book-production-plan.md)
 
-The curriculum contains 24 core courses, eight electives, and four integrative areas. The confirmed structure is **32 separate PDF books—one per course—with no voice or audio files**. The four integrative areas will be incorporated into relevant course books. The books are to use simple-English lecture-style writing, real-life applications, and diagrams or illustrations where appropriate. Each finished book PDF must contain at least 150,000 words, for a combined minimum of 4,800,000 words. Production follows curriculum order. **CAC.901 is complete:** [Advanced Developmental Psychology PDF](deliverables/CAC-901-advanced-developmental-psychology.pdf), 437 pages, with 153,737 conservative body-prose words verified from the PDF, excluding references and front matter. It includes new course lectures, diagrams, and exercises alongside attributed OpenStax adaptations. The remaining 31 books are pending; next is CAC.902.
+The curriculum contains 24 core courses, eight electives, and four integrative areas. The confirmed structure is **32 separate PDF books—one per course—with no voice or audio files**. The four integrative areas are incorporated into relevant course books. The books use simple-English lecture-style writing, real-life applications, and diagrams or illustrations where appropriate. Each finished book PDF must contain at least 150,000 words, for a combined minimum of 4,800,000 words. Production follows curriculum order.
+
+Completed books:
+
+- **CAC.901 — Advanced Developmental Psychology:** [PDF](deliverables/CAC-901-advanced-developmental-psychology.pdf), 437 pages, 153,737 conservative body-prose words verified from the PDF, excluding references and front matter.
+- **CAC.902 — Theories of Counseling and Psychotherapy:** [PDF](deliverables/CAC-902-theories-of-counseling-and-psychotherapy.pdf), 522 pages, 245,750 conservative body-prose words verified from the PDF, excluding references and front matter.
+
+Both books include new course lectures, diagrams, and exercises alongside attributed CC BY open educational adaptations. The remaining 30 books are pending; next is CAC.903.
 
 ## Existing Repository Utility: Edge TTS
 

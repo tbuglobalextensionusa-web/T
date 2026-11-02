@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "repo": "cnx-user-books/cnxbook-personality-theory-in-a-cultural-context",
+      "commit": "a5228369950933a4739cbeab9f617f652439f219",
+      "dir": "cnxbook-personality-theory-in-a-cultural-context-main",
+      "title": "Personality Theory in a Cultural Context",
+      "authors": "Mark D. Kelland",
+      "publisher": "OpenStax CNX / Lansing Community College",
+      "year": "2015",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "url": "https://github.com/cnx-user-books/cnxbook-personality-theory-in-a-cultural-context",
+      "retrieved": "2026-11-02",
+      "license_verified": true,
+      "modifications": "Text reformatted for PDF; selected sections adapted; original figures omitted and replaced by new diagrams; historical claims framed by new editorial lectures."
+    },
+    {
+      "repo": "cnx-user-books/cnxbook-psychology-2e",
+      "commit": "f5c9cf50686749d28cc5a594e0fdc487398f8307",
+      "dir": "cnxbook-psychology-2e-f5c9cf50686749d28cc5a594e0fdc487398f8307",
+      "title": "Psychology 2e",
+      "authors": "Rose M. Spielman, William J. Jenkins, and Marilyn D. Lovett",
+      "publisher": "OpenStax, Rice University",
+      "year": "2020",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "url": "https://github.com/cnx-user-books/cnxbook-psychology-2e",
+      "retrieved": "2026-11-02",
+      "license_verified": true,
+      "modifications": "Text reformatted for PDF; selected sections adapted; original figures omitted and replaced by new diagrams; historical claims framed by new editorial lectures."
+    }
+  ],
+  "blocks": 24,
+  "source_words": 236477,
+  "references": 1280
+}
