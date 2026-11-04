@@ -1,0 +1,250 @@
+[
+  {
+    "number": 1,
+    "title": "Assessment as a Decision Process",
+    "module": "Foundations",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "file": "intro.qmd"
+      },
+      {
+        "file": "clinical-assessment.qmd"
+      },
+      {
+        "file": "evidence-based-assessment.qmd"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Ethics, Consent, Assent, and Test Security",
+    "module": "Foundations",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "file": "ethics.qmd"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Cultural and Individual Diversity in Assessment",
+    "module": "Foundations",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "file": "diversity.qmd"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Constructs: What Are We Measuring?",
+    "module": "Measurement",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "file": "constructs.qmd"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Scores, Scales, and Norms",
+    "module": "Measurement",
+    "lecture_part": "part-01.md",
+    "sources": [
+      {
+        "file": "scores-scales.qmd"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Reliability and Measurement Error",
+    "module": "Measurement",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "file": "reliability.qmd"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Validity: Evidence for Interpretation and Use",
+    "module": "Measurement",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "file": "validity.qmd"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Test Bias, Fairness, and Equity",
+    "module": "Measurement",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "file": "test-bias.qmd"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "The Clinical Interview and Diagnostic Systems",
+    "module": "Methods",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "file": "interview-dsm.qmd"
+      },
+      {
+        "id": "m82265",
+        "source": "openstax"
+      },
+      {
+        "id": "m82266",
+        "source": "openstax"
+      },
+      {
+        "id": "m82267",
+        "source": "openstax"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Behavioral Observation and Functional Assessment",
+    "module": "Methods",
+    "lecture_part": "part-02.md",
+    "sources": [
+      {
+        "file": "behavioral-assessment.qmd"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Assessment of Cognition and Thought Processes",
+    "module": "Methods",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "file": "cognitive-assessment.qmd"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Intellectual and Adaptive Functioning Assessment",
+    "module": "Methods",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "file": "intellectual-assessment.qmd"
+      },
+      {
+        "id": "m82208",
+        "source": "openstax"
+      },
+      {
+        "id": "m82209",
+        "source": "openstax"
+      },
+      {
+        "id": "m82211",
+        "source": "openstax"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "title": "Objective Personality and Symptom Measures",
+    "module": "Methods",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "file": "objective-personality-testing.qmd"
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "title": "Projective, Expressive, and Play-Based Methods",
+    "module": "Methods",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "file": "projective-personality-testing.qmd"
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "title": "Clinical Judgment and Algorithmic Prediction",
+    "module": "Interpretation",
+    "lecture_part": "part-03.md",
+    "sources": [
+      {
+        "file": "clinical-actuarial-judgment.qmd"
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "title": "Prediction, Base Rates, and Decision Errors",
+    "module": "Interpretation",
+    "lecture_part": "part-04.md",
+    "sources": [
+      {
+        "file": "prediction.qmd"
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "title": "Repeated Assessment and Progress Monitoring",
+    "module": "Monitoring",
+    "lecture_part": "part-04.md",
+    "sources": [
+      {
+        "file": "repeated-assessments.qmd"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "title": "Generalizability, Technology, and Ambulatory Assessment",
+    "module": "Monitoring",
+    "lecture_part": "part-04.md",
+    "sources": [
+      {
+        "file": "generalizability-theory.qmd"
+      },
+      {
+        "file": "computerized-adaptive-testing.qmd"
+      },
+      {
+        "file": "psychophysiological-measures.qmd"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "title": "Report Writing, Feedback, and Communication",
+    "module": "Communication",
+    "lecture_part": "part-04.md",
+    "sources": []
+  },
+  {
+    "number": 20,
+    "title": "Integrated Child and Adolescent Case Formulation",
+    "module": "Integration",
+    "lecture_part": "part-04.md",
+    "sources": []
+  }
+]

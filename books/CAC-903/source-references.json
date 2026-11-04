@@ -1,0 +1,2010 @@
+[
+  {
+    "key": "Buros2021",
+    "text": "Buros Center for Testing (2021). The twenty-first mental measurements yearbook.."
+  },
+  {
+    "key": "Gandrud2020",
+    "text": "Gandrud, Christopher (2020). Reproducible Research with R and R Studio.. https://www.routledge.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/book/9780367143985"
+  },
+  {
+    "key": "Stevens1946",
+    "text": "Stevens, S. S. (1946). On the Theory of Scales of Measurement. Science, 103, 677--680. https://doi.org/10.1126/science.103.2684.677"
+  },
+  {
+    "key": "Lilienfeld2007",
+    "text": "Lilienfeld, Scott O. (2007). Psychological treatments that cause harm. Perspectives on Psychological Science, 2, 53--70. https://doi.org/10.1111/j.1745-6916.2007.00029.x"
+  },
+  {
+    "key": "Hunsley2015",
+    "text": "Hunsley, John and Lee, Catherine M. and Wood, James M. and Taylor, Whitney (2015). Controversial and questionable assessment techniques. Science and pseudoscience in clinical psychology, 42--82."
+  },
+  {
+    "key": "McFall1991",
+    "text": "McFall, Richard M. (1991). Manifesto for a science of clinical psychology. The Clinical Psychologist, 44, 75--91."
+  },
+  {
+    "key": "McFall2000",
+    "text": "McFall, Richard M. (2000). Elaborate reflections on a simple manifesto. Applied \\& Preventive Psychology, 9, 5--21. https://doi.org/10.1016/s0962-1849(05)80035-6"
+  },
+  {
+    "key": "Duncan2014",
+    "text": "Duncan, Greg J. and Engel, Mimi and Claessens, Amy and Dowsett, Chantelle J. (2014). Replication and robustness in developmental research. Developmental Psychology, 50, 2417--2425. https://doi.org/10.1037/a0037996"
+  },
+  {
+    "key": "Freese2017",
+    "text": "Freese, Jeremy and Peterson, David (2017). Replication in social science. Annual Review of Sociology."
+  },
+  {
+    "key": "Larson2017",
+    "text": "Larson, Michael J. and Carbine, Kaylie A. (2017). Sample size calculations in human electrophysiology (EEG and ERP) studies: A systematic review and recommendations for increased rigor. International Journal of Psychophysiology, 111, 33--41. https://doi.org/10.1016/j.ijpsycho.2016.06.015"
+  },
+  {
+    "key": "Lilienfeld2017a",
+    "text": "Lilienfeld, Scott O. (2017). Psychology’s replication crisis and the grant culture: Righting the ship. Perspectives on Psychological Science, 12, 660--664. https://doi.org/10.1177/1745691616687745"
+  },
+  {
+    "key": "OSC2015",
+    "text": "Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349. https://doi.org/10.1126/science.aac4716"
+  },
+  {
+    "key": "Shrout2018",
+    "text": "Shucard, David W. and Shucard, Janet L. and Thomas, David G. (1987). Auditory event-related potentials in waking infants and adults: A developmental perspective. Electroencephalography and Clinical Neurophysiology, 68, 303–310. https://doi.org/10.1146/annurev-psych-122216-011845"
+  },
+  {
+    "key": "Tackett2019",
+    "text": "Tackett, Jennifer L. and Brandes, Cassandra M. and King, Kevin M. and Markon, Kristian E. (2019). Psychology's replication crisis and clinical psychological science. Annual Review of Clinical Psychology, 15, 579--604. https://doi.org/10.1146/annurev-clinpsy-050718-095710"
+  },
+  {
+    "key": "Loken2017",
+    "text": "Loken, Eric and Gelman, Andrew (2017). Measurement error and the replication crisis. Science, 355, 584--585. https://doi.org/10.1126/science.aal3618"
+  },
+  {
+    "key": "Gelman2013",
+    "text": "Gelman, Andrew and Loken, Eric (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. Department of Statistics, Columbia University."
+  },
+  {
+    "key": "Quarto",
+    "text": "Allaire, J.J. and Teague, Charles and Scheidegger, Carlos and Xie, Yihui and Dervieux, Christophe and Woodhull, Gordon (2025). Quarto.. https://doi.org/10.5281/zenodo.5960048"
+  },
+  {
+    "key": "Gneiting2021",
+    "text": "Gneiting, Tilmann and Walz, Eva-Maria (2021). Receiver operating characteristic (ROC) movies, universal ROC (UROC) curves, and coefficient of predictive ability (CPA). Machine Learning. https://doi.org/10.1007/s10994-021-06114-3"
+  },
+  {
+    "key": "R-petersenlab",
+    "text": "Petersen, Isaac T. (2025). petersenlab: A collection of R functions by the Petersen Lab.. https://doi.org/10.32614/CRAN.package.petersenlab"
+  },
+  {
+    "key": "Tackett2019a",
+    "text": "Tackett, Jennifer L. and Brandes, Cassandra M. and Reardon, Kathleen W. (2019). Leveraging the Open Science Framework in clinical psychological assessment research. Psychological Assessment, 31, 1386--1394. https://doi.org/10.1037/pas0000583"
+  },
+  {
+    "key": "Benjamin2005",
+    "text": "Benjamin, L. T. (2005). A history of clinical psychology as a profession in America (and a glimpse of its future). Annual Review of Clinical Psychology, 1, 1--30. https://doi.org/10.1146/annurev.clinpsy.1.102803.143758"
+  },
+  {
+    "key": "Lilienfeld2015",
+    "text": "Lilienfeld, Scott O. and Sauvigne, Katheryn and Lynn, Steven Jay and Latzman, Robert D and Cautin, Robin and Waldman, Irwin D. (2015). Fifty psychological and psychiatric terms to avoid: A list of inaccurate, misleading, misused, ambiguous, and logically confused words and phrases. Frontiers in Psychology, 6. https://doi.org/10.3389/fpsyg.2015.01100"
+  },
+  {
+    "key": "Kriegman1965",
+    "text": "Kriegman, Lois S. and Kriegman, George (1965). The PaTE report: A new psychodynamic and therapeutic evaluative procedure. The Psychiatric Quarterly, 39, 646--674. https://doi.org/10.1007/BF01569493"
+  },
+  {
+    "key": "Gilovich1985",
+    "text": "Gilovich, Thomas and Vallone, Robert and Tversky, Amos (1985). The hot hand in basketball: On the misperception of random sequences. Cognitive Psychology, 17, 295--314. https://doi.org/10.1016/0010-0285(85)90010-6"
+  },
+  {
+    "key": "BarEli2006",
+    "text": "Bar-Eli, Michael and Avugos, Simcha and Raab, Markus (2006). Twenty years of “hot hand” research: Review and critique. Psychology of Sport and Exercise, 7, 525--553. https://doi.org/10.1016/j.psychsport.2006.03.001"
+  },
+  {
+    "key": "Avugos2013",
+    "text": "Avugos, Simcha and Köppen, Jörn and Czienskowski, Uwe and Raab, Markus and Bar-Eli, Michael (2013). The “hot hand” reconsidered: A meta-analytic approach. Psychology of Sport and Exercise, 14, 21--27. https://doi.org/10.1016/j.psychsport.2012.07.005"
+  },
+  {
+    "key": "Bocskocsky2014",
+    "text": "Bocskocsky, Andrew and Ezekowitz, John and Stein, Carolyn (2014). The hot hand: A new approach to an old “fallacy”. MIT Sloan Sports Analytics Conference."
+  },
+  {
+    "key": "Miller2014a",
+    "text": "Miller, Joshua Benjamin and Sanjurjo, Adam (2014). A cold shower for the hot hand fallacy. Innocenzo Gasparini Institute for Economic Research. https://repec.unibocconi.it/igier/igi/wp/2014/518.pdf"
+  },
+  {
+    "key": "Wood2002",
+    "text": "Wood, James M. and Garb, Howard N. and Lilienfeld, Scott O. and Nezworski, M. Teresa (2002). Clinical assessment. Annual Review of Psychology, 53, 519. https://doi.org/10.1146/annurev.psych.53.100901.135136"
+  },
+  {
+    "key": "Antony2005",
+    "text": "Antony, Martin M. and Rowa, Karen (2005). Evidence-based assessment of anxiety disorders in adults. Psychological Assessment, 17, 256--266. https://doi.org/10.1037/1040-3590.17.3.256"
+  },
+  {
+    "key": "Lutz2022",
+    "text": "Lutz, Wolfgang and Schwartz, Brian and Delgadillo, Jaime (2022). Measurement-based and data-informed psychological therapy. Annual Review of Clinical Psychology, 18, 71--98. https://doi.org/10.1146/annurev-clinpsy-071720-014821"
+  },
+  {
+    "key": "Youngstrom2017",
+    "text": "Youngstrom, Eric A. and Van Meter, Anna and Frazier, Thomas W. and Hunsley, John and Prinstein, Mitchell J. and Ong, Mian-Li and Youngstrom, Jennifer K. (2017). Evidence-based assessment as an integrative model for applying psychological science to guide the voyage of treatment. Clinical Psychology: Science and Practice, 24, 331--363. https://doi.org/10.1111/cpsp.12207"
+  },
+  {
+    "key": "Hinshaw1999",
+    "text": "Hinshaw, Stephen P. and Nigg, Joel T. (1999). Behavior rating scales in the assessment of disruptive behavior problems in childhood. Diagnostic assessment in child and adolescent psychopathology., 91--126."
+  },
+  {
+    "key": "Bauer2013b",
+    "text": "Bauer, Daniel J. and Howard, Andrea L. and Baldasaro, Ruth E. and Curran, Patrick J. and Hussong, Andrea M. and Chassin, Laurie and Zucker, Robert A. (2013). A trifactor model for integrating ratings across multiple informants. Psychological Methods, 18, 475--493. https://doi.org/10.1037/a0032475"
+  },
+  {
+    "key": "Shin2019",
+    "text": "Shin, Hyo Jeong and Rabe-Hesketh, Sophia and Wilson, Mark (2019). Trifactor Models for Multiple-Ratings Data. Multivariate Behavioral Research, 54, 360--381. https://doi.org/10.1080/00273171.2018.1530091"
+  },
+  {
+    "key": "Aitken2024",
+    "text": "Aitken, Madison and Plamondon, André and Krzeczkowski, John and Kil, Hali and Andrade, Brendan F. (2024). Systematic integration of multi-informant externalizing ratings in clinical settings. Research on Child and Adolescent Psychopathology, 52, 635--644. https://doi.org/10.1007/s10802-023-01119-z"
+  },
+  {
+    "key": "Markon2011",
+    "text": "Markon, Kristian E. and Chmielewski, Michael and Miller, Christopher J. (2011). The reliability and validity of discrete and continuous measures of psychopathology: A quantitative review. Psychological Bulletin, 137, 856--879. https://doi.org/10.1037/a0023678"
+  },
+  {
+    "key": "Ellard2010",
+    "text": "Ellard, Kristen K. and Fairholme, Christopher P. and Boisseau, Christina L. and Farchione, Todd J. and Barlow, David H. (2010). Unified protocol for the transdiagnostic treatment of emotional disorders: Protocol development and initial outcome data. Cognitive and Behavioral Practice, 17, 88--101. https://doi.org/10.1016/j.cbpra.2009.06.002"
+  },
+  {
+    "key": "Youngstrom2016",
+    "text": "Youngstrom, Eric A. and Van Meter, Anna (2016). Empirically supported assessment of children and adolescents. Clinical Psychology: Science and Practice, 23, 327--347. https://doi.org/10.1111/cpsp.12172"
+  },
+  {
+    "key": "Kazdin1995",
+    "text": "Kazdin, Alan E. (1995). Preparing and evaluating research reports. Psychological Assessment, 7, 228--237. https://doi.org/10.1037/1040-3590.7.3.228"
+  },
+  {
+    "key": "Rush2009",
+    "text": "Rush, A. J. and First, M. B. and Blacker, D. (2009). Handbook of psychiatric measures.."
+  },
+  {
+    "key": "Hunsley2007",
+    "text": "Hunsley, John and Mash, E.J. (2007). Evidence-based assessment. Annual Review of Clinical Psychology, 3, 29--51. https://doi.org/10.1146/annurev.clinpsy.3.022806.091419"
+  },
+  {
+    "key": "QuantitudeS2E15",
+    "text": "Curran, Patrick J. and Hancock, Gregory R. (2020). Quantitude: \"S2E15: Ethics in Quantitative Research\".. https://quantitudepod.org/s2e15-ethics-in-quantitative-research/"
+  },
+  {
+    "key": "Association2017",
+    "text": "American Psychological Association (2017). Ethical principles of psychologists and code of conduct.."
+  },
+  {
+    "key": "Campbell2010b",
+    "text": "Campbell, Linda and Vasquez, Melba and Behnke, Stephen and Kinscherff, Robert (2010). APA Ethics Code commentary and case illustrations., v, 392--v, 392."
+  },
+  {
+    "key": "Bersoff2012",
+    "text": "Bersoff, Donald N. and DeMatteo, David and Foster, Elizabeth E. (2012). Assessment and testing. APA handbook of ethics in psychology, Vol 2: Practice, teaching, and research, 45--74."
+  },
+  {
+    "key": "Nagy2011",
+    "text": "Nagy, Thomas F. (2011). Essential ethics for psychologists: A primer for understanding and mastering core issues., x, 252--x, 252."
+  },
+  {
+    "key": "John2012",
+    "text": "John, Leslie K. and Loewenstein, George and Prelec, Drazen (2012). Measuring the prevalence of questionable research practices with incentives for truth telling. Psychological Science, 23, 524--532. https://doi.org/10.1177/0956797611430953"
+  },
+  {
+    "key": "Wicherts2016",
+    "text": "Wicherts, Jelte M. and Veldkamp, Coosje L. S. and Augusteijn, Hilde E. M. and Bakker, Marjan and van Aert, Robbie C. M. and van Assen, Marcel A. L. M. (2016). Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid \\emphp-hacking. Frontiers in Psychology, 7, 1832. https://doi.org/10.3389/fpsyg.2016.01832"
+  },
+  {
+    "key": "Benning2019",
+    "text": "Benning, Stephen D. and Bachrach, Rachel L. and Smith, Edward A. and Freeman, Andrew J. and Wright, Aidan G. C. (2019). The registration continuum in clinical science: A guide toward transparent practices. Journal of Abnormal Psychology, 128, 528--540. https://doi.org/10.1037/abn0000451"
+  },
+  {
+    "key": "Lakens2024",
+    "text": "Lakens, Daniël (2024). When and how to deviate from a preregistration. Collabra: Psychology, 10. https://doi.org/10.1525/collabra.117094"
+  },
+  {
+    "key": "Petersen2024",
+    "text": "Petersen, Isaac T. and Apfelbaum, Keith S. and McMurray, Bob (2024). Adapting open science and pre-registration to longitudinal research. Infant and Child Development, 33, e2315. https://doi.org/10.1002/icd.2315"
+  },
+  {
+    "key": "AERA2014",
+    "text": "American Educational Research Association and American Psychological Association and National Council on Measurement in Education (2014). Standards for educational and psychological testing.."
+  },
+  {
+    "key": "Byrd2021",
+    "text": "Byrd, Desiree A. and Rivera Mindt, Monica M. and Clark, Uraina S. and Clarke, Yusuf and Thames, April D. and Gammada, Emnet Z. and Manly, Jennifer J. (2021). Creating an antiracist psychology by addressing professional complicity in psychological assessment. Psychological Assessment, 33, 279--285. https://doi.org/10.1037/pas0000993"
+  },
+  {
+    "key": "Suzuki2013",
+    "text": "Suzuki, Tokuro and Hirabayashi, Minato (1987). Age-Related Morophological Changes in Auditory Middle-Latency Response. Audiology, 26, 312–320."
+  },
+  {
+    "key": "Chen2015",
+    "text": "Chen, Frances R. and Jaffee, Sara R. (2015). The heterogeneity in the development of homotypic and heterotypic antisocial behavior. Journal of Developmental and Life-Course Criminology, 1, 269--288. https://doi.org/10.1007/s40865-015-0012-3"
+  },
+  {
+    "key": "Miller2009",
+    "text": "Miller, Jessie L. and Vaillancourt, Tracy and Boyle, Michael H. (2009). Examining the heterotypic continuity of aggression using teacher reports: Results from a national Canadian study. Social Development, 18, 164--180. https://doi.org/10.1111/j.1467-9507.2008.00480.x"
+  },
+  {
+    "key": "Moffitt1993",
+    "text": "Moffitt, Terrie E. (1993). Adolescence-limited and life-course-persistent antisocial behavior: A developmental taxonomy. Psychological Review, 100, 674--701. https://doi.org/10.1037/0033-295X.100.4.674"
+  },
+  {
+    "key": "Patterson1993",
+    "text": "Patterson, Gerald R. (1993). Orderly change in a stable world: The antisocial trait as a chimera. Journal of Consulting and Clinical Psychology, 61, 911--919. https://doi.org/10.1037/0022-006X.61.6.911"
+  },
+  {
+    "key": "Petersen2015",
+    "text": "Petersen, Isaac T. and Bates, John E. and Dodge, Kenneth A. and Lansford, Jennifer E. and Pettit, Gregory S. (2015). Describing and predicting developmental profiles of externalizing problems from childhood to adulthood. Development and Psychopathology, 27, 791--818. https://doi.org/10.1017/S0954579414000789"
+  },
+  {
+    "key": "Petersen2022",
+    "text": "Petersen, Isaac T. and LeBeau, Brandon (2022). Creating a developmental scale to chart the development of psychopathology with different informants and measures across time. Journal of Psychopathology and Clinical Science, 131, 611--625. https://doi.org/10.1037/abn0000649"
+  },
+  {
+    "key": "Wakschlag2010",
+    "text": "Wakschlag, Lauren S. and Tolan, Patrick H. and Leventhal, Bennett L. (2010). Research Review: ‘Ain’t misbehavin’: Towards a developmentally-specified nosology for preschool disruptive behavior. Journal of Child Psychology and Psychiatry, 51, 3--22. https://doi.org/10.1111/j.1469-7610.2009.02184.x"
+  },
+  {
+    "key": "Edwards2017a",
+    "text": "Edwards, Lisa M. and Burkard, Alan W. and Adams, Hadiya A. and Newcomb, Shirley A. (2017). A mixed-method study of psychologists’ use of multicultural assessment. Professional Psychology: Research and Practice, 48, 131--138. https://doi.org/10.1037/pro0000095"
+  },
+  {
+    "key": "Hays2016",
+    "text": "Hays, P.A. (2016). Addressing Cultural Complexities in Practice: Assessment, Diagnosis, and Therapy.."
+  },
+  {
+    "key": "LewisFernandez2014",
+    "text": "Lewis-Fernández, Roberto and Aggarwal, Neil Krishan and Bäärnhielm, Sofie and Rohlof, Hans and Kirmayer, Laurence J. and Weiss, Mitchell G. and Jadhav, Sushrut and Hinton, Ladson and Alarcón, Renato D. and Bhugra, Dinesh and Groen, Simon and Dijk, Rob van and Qureshi, Adil and Collazos, Francisco and Rousseau, Cécile and Caballero, Luis and Ramos, Mar and Lu, Francis (2014). Culture and psychiatric evaluation: Operationalizing cultural formulation for DSM-5. Psychiatry: Interpersonal and Biological Processes, 77, 130--154. https://doi.org/10.1521/psyc.2014.77.2.130"
+  },
+  {
+    "key": "Ridley1998",
+    "text": "Ridley, Charles R. and Li, Lisa C. and Hill, Carrie L. (1998). Multicultural assessment: Reexamination, reconceptualization, and practical application. The Counseling Psychologist, 26, 827--910. https://doi.org/10.1177/0011000098266001"
+  },
+  {
+    "key": "Ridley2001",
+    "text": "Ridley, Charles R. and Hill, Carrie L. and Wiese, Deborah L. (2001). Ethics in multicultural assessment A model of reasoned application. Handbook of multicultural assessment: Clinical, psychological, and educational applications, 29."
+  },
+  {
+    "key": "Dana1998",
+    "text": "Dana, Richard H. (1998). Multicultural assessment of personality and psychopathology in the United States: Still art, not yet science, and controversial. European Journal of Psychological Assessment, 14, 62--70. https://doi.org/10.1027/1015-5759.14.1.62"
+  },
+  {
+    "key": "Okazaki1995",
+    "text": "Okazaki, Sumie and Sue, Stanley (1995). Methodological issues in assessment research with ethnic minorities. Psychological Assessment, 7, 367--375. https://doi.org/10.1037/1040-3590.7.3.367"
+  },
+  {
+    "key": "Burlew2019",
+    "text": "Burlew, A. Kathleen and Peteet, Bridgette J. and McCuistian, Caravella and Miller-Roenigk, Brittany D. (2019). Best practices for researching diverse groups. American Journal of Orthopsychiatry, 89, 354--368. https://doi.org/10.1037/ort0000350"
+  },
+  {
+    "key": "Eaton1980",
+    "text": "Eaton, W. W. (1980). The sociology of mental disorders.."
+  },
+  {
+    "key": "Helms2005",
+    "text": "Helms, Janet E. and Jernigan, Maryam and Mascher, Jackquelyn (2005). The meaning of race in psychology and how to change it: A methodological perspective. American Psychologist, 60, 27--36. https://doi.org/10.1037/0003-066X.60.1.27"
+  },
+  {
+    "key": "Sternberg2005",
+    "text": "Robert J. Sternberg and Elena L. Grigorenko and Kenneth K. Kidd (2005). Intelligence, race, and genetics. American Psychologist, 60, 46--59. https://doi.org/10.1037/0003-066x.60.1.46"
+  },
+  {
+    "key": "Yudell2016",
+    "text": "Yudell, Michael and Roberts, Dorothy and DeSalle, Rob and Tishkoff, Sarah (2016). Taking race out of human genetics. Science, 351, 564--565. https://doi.org/10.1126/science.aac4951"
+  },
+  {
+    "key": "Zuckerman1990",
+    "text": "Zuckerman, Marvin (1990). Some dubious premises in research and theory on racial differences: Scientific, social, and ethical issues. American Psychologist, 45, 1297--1303. https://doi.org/10.1037/0003-066X.45.12.1297"
+  },
+  {
+    "key": "AAA1998",
+    "text": "Executive Board of the American Anthropological Association (1998). AAA Statement on Race. American Anthropologist, 100, 712--713. https://doi.org/10.1525/aa.1998.100.3.712"
+  },
+  {
+    "key": "Smedley2005",
+    "text": "Smedley, Audrey and Smedley, Brian D. (2005). Race as biology is fiction, racism as a social problem is real: Anthropological and historical perspectives on the social construction of race. American Psychologist, 60, 16--26. https://doi.org/10.1037/0003-066X.60.1.16"
+  },
+  {
+    "key": "Henrich2010",
+    "text": "Henrich, Joseph and Heine, Steven J. and Norenzayan, Ara (2010). Most people are not WEIRD. Nature, 466, 29--29. https://doi.org/10.1038/466029a"
+  },
+  {
+    "key": "RiveraMindt2010",
+    "text": "Rivera Mindt, Monica and Byrd, Desiree and Saez, Pedro and Manly, Jennifer (2010). Increasing culturally competent neuropsychological services for ethnic minority populations: A call to action. The Clinical Neuropsychologist, 24, 429--453. https://doi.org/10.1080/13854040903058960"
+  },
+  {
+    "key": "APAOfficeEthnicMinorityAffairs1993",
+    "text": "American Psychological Association Office of Ethnic Minority Affairs (1993). Guidelines for providers of psychological services to ethnic, linguistic, and culturally diverse populations. American Psychologist, 48, 45--48. https://doi.org/10.1037/0003-066X.48.1.45"
+  },
+  {
+    "key": "Brickman2006",
+    "text": "Brickman, Adam M. and Cabo, Raquel and Manly, Jennifer J. (2006). Ethical issues in cross-cultural neuropsychology. Applied Neuropsychology, 13, 91--100. https://doi.org/10.1207/s15324826an1302_4"
+  },
+  {
+    "key": "Leong2016",
+    "text": "Leong, Frederick T. L. and Kalibatseva, Zornitsa (2016). Threats to cultural validity in clinical diagnosis and assessment: Illustrated with the case of Asian Americans. Evidence-based psychological practice with ethnic minorities: Culturally informed research and clinical strategies, 57--74."
+  },
+  {
+    "key": "Tervalon1998",
+    "text": "Tervalon, Melanie and Murray-Garcia, Jann (1998). Cultural humility versus cultural competence: A critical distinction in defining physician training outcomes in multicultural education. Journal of health care for the poor and underserved, 9, 117--125."
+  },
+  {
+    "key": "Lysell2018",
+    "text": "Lysell, Henrik and Dahlin, Marie and Viktorin, Alexander and Ljungberg, Elsa and D'Onofrio, Brian M. and Dickman, Paul and Runeson, Bo (2018). Maternal suicide – Register based study of all suicides occurring after delivery in Sweden 1974–2009. PLOS ONE, 13, e0190133. https://doi.org/10.1371/journal.pone.0190133"
+  },
+  {
+    "key": "Manly2005",
+    "text": "Manly, Jennifer J. (2005). Advantages and disadvantages of separate norms for African Americans. The Clinical Neuropsychologist, 19, 270--275. https://doi.org/10.1080/13854040590945346"
+  },
+  {
+    "key": "Sattler2006",
+    "text": "Sattler, Jerome M and Hoge, Robert D (2006). Assessment of children: Behavioral, social, and clinical foundations.."
+  },
+  {
+    "key": "Chen2008",
+    "text": "Chen, Fang Fang (2008). What happens if we compare chopsticks with forks? The impact of making inappropriate comparisons in cross-cultural research. Journal of Personality and Social Psychology, 95, 1005--1018. https://doi.org/10.1037/a0013193"
+  },
+  {
+    "key": "Wicherts2010",
+    "text": "Wicherts, Jelte M. and Dolan, Conor V. (2010). Measurement invariance in confirmatory factor analysis: An illustration using IQ test performance of minorities. Educational Measurement: Issues and Practice, 29, 39--47. https://doi.org/10.1111/j.1745-3992.2010.00182.x"
+  },
+  {
+    "key": "Han2019",
+    "text": "Han, Kyunghee and Colarelli, Stephen M. and Weed, Nathan C. (2019). Methodological and statistical advances in the consideration of cultural diversity in assessment: A critical review of group classification and measurement invariance testing. Psychological Assessment, 31, 1481--1496. https://doi.org/10.1037/pas0000731"
+  },
+  {
+    "key": "Fernandez2018",
+    "text": "Fernández, Alberto Luis and Abe, Jennifer (2018). Bias in cross-cultural neuropsychological testing: Problems and possible solutions. Culture and Brain, 6, 1--35. https://doi.org/10.1007/s40167-017-0050-2"
+  },
+  {
+    "key": "Daugherty2017",
+    "text": "Daugherty, Julia C. and Puente, Antonio E. and Fasfous, Ahmed F. and Hidalgo-Ruzzante, Natalia and Pérez-Garcia, Miguel (2017). Diagnostic mistakes of culturally diverse individuals when using North American neuropsychological tests. Applied Neuropsychology: Adult, 24, 16--22. https://doi.org/10.1080/23279095.2015.1036992"
+  },
+  {
+    "key": "Garb1997",
+    "text": "Garb, Howard N. (1997). Race bias, social class bias, and gender bias in clinical judgment. Clinical Psychology: Science and Practice, 4, 99--120. https://doi.org/10.1111/j.1468-2850.1997.tb00104.x"
+  },
+  {
+    "key": "Fadus2020",
+    "text": "Fadus, Matthew C. and Ginsburg, Kenneth R. and Sobowale, Kunmi and Halliday-Boykins, Colleen A. and Bryant, Brittany E. and Gray, Kevin M. and Squeglia, Lindsay M. (2020). Unconscious bias and the diagnosis of disruptive behavior disorders and ADHD in African American and Hispanic youth. Academic Psychiatry, 44, 95--102. https://doi.org/10.1007/s40596-019-01127-6"
+  },
+  {
+    "key": "McNiel1995",
+    "text": "McNiel, Dale E. and Binder, Renée L. (1995). Correlates of accuracy in the assessment of psychiatric inpatients' risk of violence. American Journal of Psychiatry, 152, 901--906. https://doi.org/10.1176/ajp.152.6.901"
+  },
+  {
+    "key": "BaronCohen2002",
+    "text": "Baron-Cohen, Simon (2002). The extreme male brain theory of autism. Trends in Cognitive Sciences, 6, 248--254. https://doi.org/10.1016/S1364-6613(02)01904-6"
+  },
+  {
+    "key": "BaronCohen2010",
+    "text": "Baron-Cohen, Simon (2010). Empathizing, systemizing, and the extreme male brain theory of autism. Progress in Brain Research, 186, 167--175."
+  },
+  {
+    "key": "Greenberg2018",
+    "text": "Greenberg, David M. and Warrier, Varun and Allison, Carrie and Baron-Cohen, Simon (2018). Testing the Empathizing–Systemizing theory of sex differences and the Extreme Male Brain theory of autism in half a million people. Proceedings of the National Academy of Sciences, 115, 12152--12157. https://doi.org/10.1073/pnas.1811032115"
+  },
+  {
+    "key": "Frazier2014",
+    "text": "Frazier, Thomas W. and Georgiades, Stelios and Bishop, Somer L. and Hardan, Antonio Y. (2014). Behavioral and cognitive characteristics of females and males with autism in the Simons Simplex Collection. Journal of the American Academy of Child \\& Adolescent Psychiatry, 53, 329--340.e3. https://doi.org/10.1016/j.jaac.2013.12.004"
+  },
+  {
+    "key": "Manly2007",
+    "text": "Manly, Jennifer J. and Echemendia, Ruben J. (2007). Race-specific norms: Using the model of hypertension to understand issues of race, culture, and education in neuropsychology. Archives of Clinical Neuropsychology, 22, 319--325. https://doi.org/10.1016/j.acn.2007.01.006"
+  },
+  {
+    "key": "Toomey2018",
+    "text": "Toomey, Russell B. and Syvertsen, Amy K. and Shramko, Maura (2018). Transgender adolescent suicide behavior. Pediatrics, 142. https://doi.org/10.1542/peds.2017-4218"
+  },
+  {
+    "key": "APA2020",
+    "text": "American Psychological Association (2020). Publication manual of the American Psychological Association.."
+  },
+  {
+    "key": "Bollen1991",
+    "text": "Bollen, Kenneth A. and Lennox, Richard D. (1991). Conventional wisdom on measurement: A structural equation perspective. Psychological Bulletin, 110, 305--314. https://doi.org/10.1037/0033-2909.110.2.305"
+  },
+  {
+    "key": "Edwards2000",
+    "text": "Edwards, Jeffrey R. and Bagozzi, Richard P. (2000). On the nature and direction of relationships between constructs and measures. Psychological Methods, 5, 155--174. https://doi.org/10.1037/1082-989X.5.2.155"
+  },
+  {
+    "key": "Edwards2011",
+    "text": "Edwards, Jeffrey R. (2011). The fallacy of formative measurement. Organizational Research Methods, 14, 370--388. https://doi.org/10.1177/1094428110378369"
+  },
+  {
+    "key": "Hardin2011",
+    "text": "Hardin, Andrew M. and Chang, Jerry Cha-Jan and Fuller, Mark A. and Torkzadeh, Gholamreza (2011). Formative measurement and academic research: In search of measurement theory. Educational and Psychological Measurement, 71, 281--305. https://doi.org/10.1177/0013164410370208"
+  },
+  {
+    "key": "Howell2007",
+    "text": "Howell, Roy D. and Breivik, Einar and Wilcox, James B. (2007). Reconsidering formative measurement. Psychological Methods, 12, 205--218. https://doi.org/10.1037/1082-989X.12.2.205"
+  },
+  {
+    "key": "Markus2018",
+    "text": "Markus, Keith A. (2018). Three conceptual impediments to developing scale theory for formative scales. Methodology, 14, 156--164. https://doi.org/10.1027/1614-2241/a000154"
+  },
+  {
+    "key": "Bollen2011",
+    "text": "Bollen, Kenneth A. and Bauldry, Shawn (2011). Three Cs in measurement models: Causal indicators, composite indicators, and covariates. Psychological Methods, 16, 265--284. https://doi.org/10.1037/a0024448"
+  },
+  {
+    "key": "Bollen2017",
+    "text": "Bollen, Kenneth A. and Diamantopoulos, Adamantios (2017). In defense of causal-formative indicators: A minority report. Psychological Methods, 22, 581--596. https://doi.org/10.1037/met0000056"
+  },
+  {
+    "key": "Diamantopoulos2008",
+    "text": "Diamantopoulos, Adamantios and Riefler, Petra and Roth, Katharina P. (2008). Advancing formative measurement models. Journal of Business Research, 61, 1203--1218. https://doi.org/10.1016/j.jbusres.2008.01.009"
+  },
+  {
+    "key": "TimmermanInPress",
+    "text": "Timmerman, Marieke E. and De Bildt, Annelies and Urban, Julian (in press). The GRoNC: Guidelines for Reporting on Norm-Referenced and Criterion-Referenced Scores. Assessment. https://doi.org/10.1177/10731911251371395"
+  },
+  {
+    "key": "Bandalos2018",
+    "text": "Bandalos, Deborah L. (2018). Measurement theory and applications for the social sciences.."
+  },
+  {
+    "key": "Borsboom2003",
+    "text": "Borsboom, Denny (2003). Conceptual issues in psychological measurement.."
+  },
+  {
+    "key": "Klein1969",
+    "text": "Klein, Donald F. and Cleary, T. Anne (1969). Platonic true scores: Further comment. Psychological Bulletin, 71, 278--280. https://doi.org/10.1037/h0026852"
+  },
+  {
+    "key": "Pearl2013",
+    "text": "Pearl, Judea (2013). Linear models: A useful ``microscope\" for causal analysis. Journal of Causal Inference, 1, 155--170. https://doi.org/10.1515/jci-2013-0003"
+  },
+  {
+    "key": "Nunnally1994",
+    "text": "Nunnally, Jum C and Bernstein, Ira H. (1994). Psychometric theory.."
+  },
+  {
+    "key": "Graham2006a",
+    "text": "Graham, James M. (2006). Congeneric and (essentially) tau-equivalent estimates of score reliability: What they are and how to use them. Educational and Psychological Measurement, 66, 930--944. https://doi.org/10.1177/0013164406288165"
+  },
+  {
+    "key": "Willett2012",
+    "text": "Willett, Walter (2012). Correction for the effects of measurement error. Nutritional Epidemiology, 287--304."
+  },
+  {
+    "key": "Furr2017",
+    "text": "Furr, R. Michael (2017). Psychometrics: An introduction.."
+  },
+  {
+    "key": "Lek2018a",
+    "text": "Lek, Kimberley M. and Van De Schoot, Rens (2018). A comparison of the single, conditional and person-specific standard error of measurement: What do they measure and when to use them?. Frontiers in Applied Mathematics and Statistics, 4. https://doi.org/10.3389/fams.2018.00040"
+  },
+  {
+    "key": "Geldhof2014",
+    "text": "Geldhof, G. John and Preacher, Kristopher J. and Zyphur, Michael J. (2014). Reliability estimation in a multilevel confirmatory factor analysis framework. Psychological Methods, 19, 72--91. https://doi.org/10.1037/a0032138"
+  },
+  {
+    "key": "Hove2022",
+    "text": "ten Hove, Debby and Jorgensen, Terrence D. and van der Ark, L. Andries (2022). Interrater reliability for multilevel data: A generalizability theory approach. Psychological Methods, 27, 650--666. https://doi.org/10.1037/met0000391"
+  },
+  {
+    "key": "Revelle2019",
+    "text": "Revelle, William and Condon, David M. (2019). Reliability from $\\alpha$ to $\\omega$: A tutorial. Psychological Assessment, 31, 1395--1411. https://doi.org/10.1037/pas0000754"
+  },
+  {
+    "key": "Vaz2013",
+    "text": "Vaz, Sharmila and Falkmer, Torbjörn and Passmore, Anne Elizabeth and Parsons, Richard and Andreou, Pantelis (2013). The case for using the repeatability coefficient when calculating test–retest reliability. PLOS ONE, 8, e73990. https://doi.org/10.1371/journal.pone.0073990"
+  },
+  {
+    "key": "Goodwin2006",
+    "text": "Goodwin, Laura D. and Leech, Nancy L. (2006). Understanding correlation: Factors that affect the size of \\emphr. The Journal of Experimental Education, 74, 249--266. https://doi.org/10.3200/JEXE.74.3.249-266"
+  },
+  {
+    "key": "Bland1986",
+    "text": "Bland, J. Martin and Altman, Douglas G. (1986). Statistical methods for assessing agreement between two methods of clinical measurement. The Lancet, 327, 307--310. https://doi.org/10.1016/S0140-6736(86)90837-8"
+  },
+  {
+    "key": "Bland1999",
+    "text": "Bland, J. Martin and Altman, Douglas G. (1999). Measuring agreement in method comparison studies. Statistical Methods in Medical Research, 8, 135--160. https://doi.org/10.1177/096228029900800204"
+  },
+  {
+    "key": "Shrout1979",
+    "text": "Shrout, Patrick E. and Fleiss, Joseph L. (1979). Intraclass correlations: Uses in assessing rater reliability. Psychological Bulletin, 86, 420--428. https://doi.org/10.1037/0033-2909.86.2.420"
+  },
+  {
+    "key": "McGraw1996",
+    "text": "McGraw, Kenneth O. and Wong, S. P. (1996). Forming inferences about some intraclass correlation coefficients. Psychological Methods, 1, 30--46. https://doi.org/10.1037/1082-989X.1.1.30"
+  },
+  {
+    "key": "Bakeman2020",
+    "text": "Bakeman, Roger and Goodman, Sherryl H. (2020). Interobserver reliability in clinical research: Current issues and discussion of how to establish best practices. Journal of Abnormal Psychology, 129, 5--13. https://doi.org/10.1037/abn0000487"
+  },
+  {
+    "key": "Falotico2010",
+    "text": "Falotico, Rosa and Quatto, Piero (2010). On avoiding paradoxes in assessing inter-rater agreement. Italian Journal of Applied Statistics, 22, 151--160."
+  },
+  {
+    "key": "Gwet2008",
+    "text": "Gwet, Kilem Li (2008). Computing inter-rater reliability and its variance in the presence of high agreement. British Journal of Mathematical and Statistical Psychology, 61, 29--48. https://doi.org/10.1348/000711006X126600"
+  },
+  {
+    "key": "Gwet2021a",
+    "text": "Gwet, Kilem L. (2021). Handbook of inter-rater reliability: The definitive guide to measuring the extent of agreement among raters, Vol. 1: Analysis of categorical ratings.."
+  },
+  {
+    "key": "Gwet2021b",
+    "text": "Gwet, Kilem L. (2021). Handbook of inter-rater reliability: The definitive guide to measuring the extent of agreement among raters, Vol. 2: Analysis of quantitative ratings.."
+  },
+  {
+    "key": "Cohen1968",
+    "text": "Cohen, Jacob (1968). Weighted kappa: Nominal scale agreement provision for scaled disagreement or partial credit. Psychological Bulletin, 70, 213--220. https://doi.org/10.1037/h0026256"
+  },
+  {
+    "key": "Hussong2020",
+    "text": "Hussong, Andrea M. and Bauer, Daniel J. and Giordano, Michael L. and Curran, Patrick J. (2020). Harmonizing altered measures in integrative data analysis: A methods analogue study. Behavior Research Methods. https://doi.org/10.3758/s13428-020-01472-7"
+  },
+  {
+    "key": "Hussong2013",
+    "text": "Hussong, Andrea M. and Curran, Patrick J. and Bauer, Daniel J. (2013). Integrative data analysis in clinical psychology research. Annual Review of Clinical Psychology, 9, 61--89. https://doi.org/10.1146/annurev-clinpsy-050212-185522"
+  },
+  {
+    "key": "Revelle2024",
+    "text": "Revelle, William (2024). The seductive beauty of latent variable models: Or why I don't believe in the Easter Bunny. Personality and Individual Differences, 221, 112552. https://doi.org/10.1016/j.paid.2024.112552"
+  },
+  {
+    "key": "Cattell1973",
+    "text": "Cattell, Raymond B. (1973). Personality and mood by questionnaire: A handbook of interpretive theory, psychometrics, and practical procedures.."
+  },
+  {
+    "key": "Cooper2023",
+    "text": "Cooper, Colin (2023). An introduction to psychometrics and psychological assessment: Using, interpreting and developing tests.."
+  },
+  {
+    "key": "Ronkko2020",
+    "text": "Rönkkö, Mikko and Cho, Eunseong (2020). An updated guideline for assessing discriminant validity. Organizational Research Methods, 1094428120968614. https://doi.org/10.1177/1094428120968614"
+  },
+  {
+    "key": "R-performance",
+    "text": "Lüdecke, Daniel and Ben-Shachar, Mattan S. and Patil, Indrajeet and Waggoner, Philip and Makowski, Dominique (2021). performance: An R package for assessment, comparison and testing of statistical models. Journal of Open Source Software, 6, 3139. https://doi.org/10.21105/joss.03139"
+  },
+  {
+    "key": "Cortina1993",
+    "text": "Cortina, Jose M. (1993). What is coefficient alpha? An examination of theory and applications.. Journal of Applied Psychology, 78, 98--104. https://doi.org/10.1037/0021-9010.78.1.98"
+  },
+  {
+    "key": "Dunn2014",
+    "text": "Dunn, Thomas J. and Baguley, Thom and Brunsden, Vivienne (2014). From alpha to omega: A practical solution to the pervasive problem of internal consistency estimation. British Journal of Psychology, 105, 399--412. https://doi.org/10.1111/bjop.12046"
+  },
+  {
+    "key": "Flora2020",
+    "text": "Flora, David B. (2020). Your coefficient alpha is probably wrong, but which coefficient omega Is right? A tutorial on using R to obtain better reliability estimates. Advances in Methods and Practices in Psychological Science, 3, 484--501. https://doi.org/10.1177/2515245920951747"
+  },
+  {
+    "key": "Green2015",
+    "text": "Green, Samuel B. and Yang, Yanyun (2015). Evaluation of dimensionality in the assessment of internal consistency reliability: Coefficient alpha and omega coefficients. Educational Measurement: Issues and Practice, 34, 14--20. https://doi.org/10.1111/emip.12100"
+  },
+  {
+    "key": "Hayes2020",
+    "text": "Hayes, Andrew F. and Coutts, Jacob J. (2020). Use omega rather than Cronbach's alpha for estimating reliability. But…. Communication Methods and Measures, 14, 1--24. https://doi.org/10.1080/19312458.2020.1718629"
+  },
+  {
+    "key": "Kelley2016",
+    "text": "Kelley, Ken and Pornprasertmanit, Sunthud (2016). Confidence intervals for population reliability coefficients: Evaluation of methods, recommendations, and software for composite measures. Psychological Methods, 21, 69--92. https://doi.org/10.1037/a0040086"
+  },
+  {
+    "key": "McNeish2018",
+    "text": "McNeish, Daniel (2018). Thanks coefficient alpha, we’ll take it from here. Psychological Methods, 23, 412--433. https://doi.org/10.1037/met0000144"
+  },
+  {
+    "key": "Peters2014a",
+    "text": "Peters, Gjalt-Jorn (2014). The alpha and the omega of scale reliability and validity: Why and how to abandon Cronbach’s alpha and the route towards more comprehensive assessment of scale quality. European Health Psychologist, 16, 56--69."
+  },
+  {
+    "key": "Raykov2001",
+    "text": "Raykov, Tenko (2001). Bias of coefficient $\\alpha$ for fixed congeneric measures with correlated errors., 25, 69--76. https://doi.org/10.1177/01466216010251005"
+  },
+  {
+    "key": "Sijtsma2008",
+    "text": "Sijtsma, Klaas (2008). On the use, the misuse, and the very limited usefulness of Cronbach’s alpha. Psychometrika, 74, 107. https://doi.org/10.1007/s11336-008-9101-0"
+  },
+  {
+    "key": "Raykov2019",
+    "text": "Raykov, Tenko and Marcoulides, George A. (2019). Thanks coefficient alpha, we still need you!. Educational and Psychological Measurement, 79, 200--210. https://doi.org/10.1177/0013164417725127"
+  },
+  {
+    "key": "Trafimow2015",
+    "text": "Trafimow, David (2015). A defense against the alleged unreliability of difference scores. Cogent Mathematics, 2, 1064626. https://doi.org/10.1080/23311835.2015.1064626"
+  },
+  {
+    "key": "Aguinis2017",
+    "text": "Aguinis, Herman and Edwards, Jeffrey R. and Bradley, Kyle J. (2017). Improving Our Understanding of Moderation and Mediation in Strategic Management Research. Organizational Research Methods, 20, 665--685. https://doi.org/10.1177/1094428115627498"
+  },
+  {
+    "key": "Busemeyer1983",
+    "text": "Busemeyer, Jerome R. and Jones, Lawrence E. (1983). Analysis of multiplicative combination rules when the causal variables are measured with error. Psychological Bulletin, 93, 549--562. https://doi.org/10.1037/0033-2909.93.3.549"
+  },
+  {
+    "key": "Jaccard1995",
+    "text": "Jaccard, James and Wan, Choi K. (1995). Measurement error in the analysis of interaction effects between continuous predictors using multiple regression: Multiple indicator and structural equation approaches. Psychological Bulletin, 117, 348--357. https://doi.org/10.1037/0033-2909.117.2.348"
+  },
+  {
+    "key": "McClelland1993",
+    "text": "McClelland, Gary H. and Judd, Charles M. (1993). Statistical difficulties of detecting interactions and moderator effects. Psychological Bulletin, 114, 376--390. https://doi.org/10.1037/0033-2909.114.2.376"
+  },
+  {
+    "key": "Cronbach1941",
+    "text": "Cronbach, Lee J. (1941). The reliability of ratio scores. Educational and Psychological Measurement, 1, 269--277. https://doi.org/10.1177/001316444100100121"
+  },
+  {
+    "key": "Arndt1991",
+    "text": "Arndt, Stephan and Cohen, Gregg and Alliger, Randall J. and Swayze, Victor W. and Andreasen, Nancy C. (1991). Problems with ratio and proportion measures of imaged cerebral structures. Psychiatry Research: Neuroimaging, 40, 79--89. https://doi.org/10.1016/0925-4927(91)90031-K"
+  },
+  {
+    "key": "Hsiao2018",
+    "text": "Hsiao, Yu-Yu and Kwok, Oi-Man and Lai, Mark H. C. (2018). Evaluation of Two Methods for Modeling Measurement Errors When Testing Interaction Effects With Observed Composite Scores. Educational and Psychological Measurement, 78, 181--202. https://doi.org/10.1177/0013164416679877"
+  },
+  {
+    "key": "Ng2020",
+    "text": "Ng, Jacky C. K. and Chan, Wai (2020). Latent Moderation Analysis: A Factor Score Approach. Structural Equation Modeling: A Multidisciplinary Journal, 27, 629--648. https://doi.org/10.1080/10705511.2019.1664304"
+  },
+  {
+    "key": "Podsakoff2012",
+    "text": "Podsakoff, Philip M. and MacKenzie, Scott B. and Podsakoff, Nathan P. (2012). Sources of method bias in social science research and recommendations on how to control it. Annual Review of Psychology, 63, 539--569. https://doi.org/10.1146/annurev-psych-120710-100452"
+  },
+  {
+    "key": "Clark1998",
+    "text": "Clark, Stephen J. and Desharnais, Robert A. (1998). Honest answers to embarrassing questions: Detecting cheating in the randomized response model. Psychological Methods, 3, 160--168. https://doi.org/10.1037/1082-989X.3.2.160"
+  },
+  {
+    "key": "Kievit2013",
+    "text": "Kievit, Rogier and Frankenhuis, Willem and Waldorp, Lourens and Borsboom, Denny (2013). Simpson's paradox in psychological science: a practical guide. Frontiers in Psychology, 4. https://doi.org/10.3389/fpsyg.2013.00513"
+  },
+  {
+    "key": "Brennan1992",
+    "text": "Brennan, Robert L. (1992). Generalizability theory. Educational Measurement: Issues and Practice, 11, 27--34. https://doi.org/10.1111/j.1745-3992.1992.tb00260.x"
+  },
+  {
+    "key": "Rigdon2010",
+    "text": "Rigdon, Edward E. (2010). Polychoric correlation coefficient. Encyclopedia of research design. https://doi.org/10.4135/9781412961288"
+  },
+  {
+    "key": "Royal2016",
+    "text": "Royal, Kenneth (2016). “Face validity” is not a legitimate type of validity evidence!. The American Journal of Surgery, 212, 1026--1027. https://doi.org/10.1016/j.amjsurg.2016.02.018"
+  },
+  {
+    "key": "Fok2015",
+    "text": "Fok, Carlotta Ching Ting and Henry, David (2015). Increasing the sensitivity of measures to change. Prevention Science, 16, 978--986. https://doi.org/10.1007/s11121-015-0545-z"
+  },
+  {
+    "key": "Myers2002",
+    "text": "Myers, Kathleen and Winters, Nancy C. (2002). Ten-Year Review of Rating Scales. I: Overview of Scale Functioning, Psychometric Properties, and Selection. Journal of the American Academy of Child \\& Adolescent Psychiatry, 41, 114--122. https://doi.org/10.1097/00004583-200202000-00004"
+  },
+  {
+    "key": "Silver2012",
+    "text": "Silver, Nate (2012). The signal and the noise: why so many predictions fail–but some don't.."
+  },
+  {
+    "key": "Stallworthy2025",
+    "text": "Stallworthy, Isabella C. and DeJoseph, Meriah L. and van den Heuvel, Marion I. and Berry, Daniel and Frankenhuis, Willem E. (in press). Developmental frameworks, what have you done for me lately?. Development and Psychopathology. https://doi.org/10.1017/S0954579425101016"
+  },
+  {
+    "key": "MontyPythonPenguinResearch",
+    "text": "BBC (1973). Monty Python's Flying Circus: S3E38 - A Book at Bedtime.. https://osf.io/gc79d"
+  },
+  {
+    "key": "Cronbach1955",
+    "text": "Cronbach, Lee J. and Meehl, Paul E. (1955). Construct validity in psychological tests. Psychological Bulletin, 52, 281--302. https://doi.org/10.1037/h0040957"
+  },
+  {
+    "key": "Shadish2002",
+    "text": "Shadish, W.R. and Cook, T.D. and Campbell, D.T. (2002). Experimental and quasi-experimental designs for generalized causal inference.."
+  },
+  {
+    "key": "Campbell1959",
+    "text": "Campbell, Donald T. and Fiske, Donald W. (1959). Convergent and discriminant validation by the multitrait-multimethod matrix. Psychological Bulletin, 56, 81--105. https://doi.org/10.1037/h0046016"
+  },
+  {
+    "key": "Henseler2015",
+    "text": "Henseler, Jörg and Ringle, Christian M. and Sarstedt, Marko (2015). A new criterion for assessing discriminant validity in variance-based structural equation modeling. Journal of the Academy of Marketing Science, 43, 115--135. https://doi.org/10.1007/s11747-014-0403-8"
+  },
+  {
+    "key": "Roemer2021",
+    "text": "Roemer, Ellen and Schuberth, Florian and Henseler, Jörg (2021). HTMT2–an improved criterion for assessing discriminant validity in structural equation modeling. Industrial Management \\& Data Systems, 121, 2637--2650. https://doi.org/10.1108/IMDS-02-2021-0082"
+  },
+  {
+    "key": "Voorhees2016",
+    "text": "Voorhees, Clay M. and Brady, Michael K. and Calantone, Roger and Ramirez, Edward (2016). Discriminant validity testing in marketing: An analysis, causes for concern, and proposed remedies. Journal of the Academy of Marketing Science, 44, 119--134. https://doi.org/10.1007/s11747-015-0455-4"
+  },
+  {
+    "key": "Fornell1981",
+    "text": "Claes Fornell and David F. Larcker (1981). Evaluating Structural Equation Models with Unobservable Variables and Measurement Error. Journal of Marketing Research, 18, 39--50. https://doi.org/10.2307/3151312"
+  },
+  {
+    "key": "Furr2019",
+    "text": "Furr, R. Michael and Heuckeroth, Sarah (2019). The “quantifying construct validity” procedure: Its role, value, interpretations, and computation. Assessment, 26, 555--566. https://doi.org/10.1177/1073191118820638"
+  },
+  {
+    "key": "Fiske1992",
+    "text": "Fiske, Donald W. and Campbell, Donald T. (1992). Citations do not solve problems. Psychological Bulletin, 112, 393--395. https://doi.org/10.1037/0033-2909.112.3.393"
+  },
+  {
+    "key": "Marsh2026",
+    "text": "Marsh, Herbert W. and Guo, Jiesi and Lüdtke, Oliver and Pekrun, Reinhard (2026). Throwing out the bathwater but keeping the baby: Extending Campbell-Fiske’s multitrait-multimethod framework. Advances in Methods and Practices in Psychological Science, 9, 1--24. https://doi.org/10.1177/25152459251407652"
+  },
+  {
+    "key": "Sechrest1963",
+    "text": "Sechrest, L (1963). Incremental validity: A recommendation. Educational and Psychological Measurement, 23, 153--158. https://doi.org/10.1177/001316446302300113"
+  },
+  {
+    "key": "Hayes1987",
+    "text": "Hayes, S. C. and Nelson, R. O. and Jarrett, R. B. (1987). The treatment utility of assessment: A functional approach to evaluating assessment quality. American Psychologist, 42, 963--974. https://doi.org/10.1037/0003-066X.42.11.963"
+  },
+  {
+    "key": "Sayal2025",
+    "text": "Sayal, Kapil and Wyatt, Laura and Partlett, Christopher and Ewart, Colleen and Bhardwaj, Anupam and Dubicka, Bernadka and Marshall, Tamsin and Gledhill, Julia and Lang, Alexandra and Sprange, Kirsty and Thomson, Louise and Moody, Sebastian and Holt, Grace and Bould, Helen and Upton, Clare and Keane, Matthew and Cox, Edward and James, Marilyn and Montgomery, Alan (2025). The clinical and cost effectiveness of a STAndardised DIagnostic Assessment for children and adolescents with emotional difficulties: the STADIA multi-centre randomised controlled trial. Journal of Child Psychology and Psychiatry, 66, 805--820. https://doi.org/10.1111/jcpp.14090"
+  },
+  {
+    "key": "NelsonGray2003",
+    "text": "Nelson-Gray, Rosemery O. (2003). Treatment utility of psychological assessment. Psychological Assessment, 15, 521--531. https://doi.org/10.1037/1040-3590.15.4.521"
+  },
+  {
+    "key": "Bornstein2011",
+    "text": "Bornstein, Robert F. (2011). Toward a process-focused model of test score validity: Improving psychological assessment in science and practice. Psychological Assessment, 23, 532--544. https://doi.org/10.1037/a0022402"
+  },
+  {
+    "key": "Slack2001",
+    "text": "Slack, Marion K. and Draugalis, Jolaine R., Jr (2001). Establishing the internal and external validity of experimental studies. American Journal of Health-System Pharmacy, 58, 2173--2181. https://doi.org/10.1093/ajhp/58.22.2173"
+  },
+  {
+    "key": "Achenbach2001c",
+    "text": "Achenbach, Thomas M. (2001). What are norms and why do we need valid ones?. Clinical Psychology: Science and Practice, 8, 446--450. https://doi.org/10.1093/clipsy.8.4.446"
+  },
+  {
+    "key": "Exner1974",
+    "text": "Exner, John E. (1974). The Rorschach: A comprehensive system.."
+  },
+  {
+    "key": "Exner2005",
+    "text": "Exner, John E. and Erdberg, S. Philip (2005). The Rorschach, a comprehensive system: Advanced interpretation., 2."
+  },
+  {
+    "key": "Wood2001a",
+    "text": "Wood, James M. and Teresa, Paso M. and Garb, Howard N. and Lilienfeld, Scott O. (2001). The misperception of psychopathology: Problems with the norms of the Comprehensive System for the Rorschach. Clinical Psychology: Science and Practice, 8, 350--373. https://doi.org/10.1093/clipsy.8.3.350"
+  },
+  {
+    "key": "Wood2001b",
+    "text": "Wood, James M. and Nezworski, M. Teresa and Garb, Howard N. and Lilienfeld, Scott O. (2001). Problems with the norms of the Comprehensive System for the Rorschach: Methodological and conceptual considerations. Clinical Psychology: Science and Practice, 8, 397--402. https://doi.org/10.1093/clipsy.8.3.397"
+  },
+  {
+    "key": "Schmidt1996",
+    "text": "Schmidt, Frank L. and Hunter, John E. (1996). Measurement error in psychological research: Lessons from 26 research scenarios. Psychological Methods, 1, 199--223. https://doi.org/10.1037/1082-989X.1.2.199"
+  },
+  {
+    "key": "Clark2019",
+    "text": "Clark, Lee Anna and Watson, David (2019). Constructing validity: New developments in creating objective measuring instruments. Psychological Assessment, 31, 1412--1427. https://doi.org/10.1037/pas0000626"
+  },
+  {
+    "key": "Reynolds2012",
+    "text": "Reynolds, Cecil R. and Suzuki, Lisa A. (2012). Bias in psychological assessment: An empirical review and recommendations. Handbook of psychology, Vol. 10: Assessment psychology, Part 1: Assessment issues, 82--113."
+  },
+  {
+    "key": "Brown1999",
+    "text": "Brown, Robert T. and Reynolds, Cecil R. and Whitaker, Jean S. (1999). Bias in mental testing since Bias in Mental Testing. School Psychology Quarterly, 14, 208--238. https://doi.org/10.1037/h0089007"
+  },
+  {
+    "key": "Hall1999",
+    "text": "Hall, Gordon C. Nagayama and Bansal, Anita and Lopez, Irene R. (1999). Ethnicity and psychopathology: A meta-analytic review of 31 years of comparative MMPI/MMPI-2 research. Psychological Assessment, 11, 186--197. https://doi.org/10.1037/1040-3590.11.2.186"
+  },
+  {
+    "key": "Jensen1980",
+    "text": "Jensen, Arthur R. (1980). Précis of bias in mental testing. Behavioral and Brain Sciences, 3, 325--333. https://doi.org/10.1017/S0140525X00005161"
+  },
+  {
+    "key": "Kuncel2010a",
+    "text": "Kuncel, Nathan R. and Hezlett, Sarah A. (2010). Fact and fiction in cognitive ability testing for admissions and hiring decisions. Current Directions in Psychological Science, 19, 339--345. https://doi.org/10.1177/0963721410389459"
+  },
+  {
+    "key": "Reynolds2021",
+    "text": "Reynolds, Cecil R. and Altmann, Robert A. and Allen, Daniel N. (2021). The problem of bias in psychological assessment. Mastering modern psychological testing: Theory and methods, 573--613. https://doi.org/10.1007/978-3-030-59455-8_15"
+  },
+  {
+    "key": "Sackett1994",
+    "text": "Sackett, Paul R. and Wilk, Steffanie L. (1994). Within-group norming and other forms of score adjustment in preemployment testing. American Psychologist, 49, 929--954. https://doi.org/10.1037/0003-066X.49.11.929"
+  },
+  {
+    "key": "Sackett2008",
+    "text": "Sackett, Paul R. and Borneman, M.J. and Connelly, B.S. (2008). High stakes testing in higher education and employment: Appraising the evidence for validity and fairness. American Psychologist, 63, 215--227. https://doi.org/10.1037/0003-066X.63.4.215"
+  },
+  {
+    "key": "Woo2023",
+    "text": "Woo, Sang Eun and LeBreton, James M. and Keith, Melissa G. and Tay, Louis (2023). Bias, fairness, and validity in graduate-school admissions: A psychometric perspective. Perspectives on Psychological Science, 18, 3--31. https://doi.org/10.1177/17456916211055374"
+  },
+  {
+    "key": "Cole1981",
+    "text": "Cole, Nancy S. (1981). Bias in testing. American Psychologist, 36, 1067--1077. https://doi.org/10.1037/0003-066X.36.10.1067"
+  },
+  {
+    "key": "Aguinis2010a",
+    "text": "Aguinis, Herman and Culpepper, Steven A. and Pierce, Charles A. (2010). Revival of test bias research in preemployment testing. Journal of Applied Psychology, 95, 648--680. https://doi.org/10.1037/a0018714"
+  },
+  {
+    "key": "Clark1984",
+    "text": "Clark, Mary Jo and Grandy, Jerilee (1984). Sex differences in the academic performance of Scholastic Aptitude Test takers: College Board Report No. 84-8.."
+  },
+  {
+    "key": "Gottfredson1994",
+    "text": "Gottfredson, Linda S. (1994). The science and politics of race-norming. American Psychologist, 49, 955--963. https://doi.org/10.1037/0003-066X.49.11.955"
+  },
+  {
+    "key": "Lee2013",
+    "text": "Lee, Kerry and Bull, Rebecca and Ho, Ringo M. H. (2013). Developmental changes in executive functioning. Child Development, 84, 1933--1953. https://doi.org/10.1111/cdev.12096"
+  },
+  {
+    "key": "Putnick2016",
+    "text": "Putnick, Diane L. and Bornstein, Marc H. (2016). Measurement invariance conventions and reporting: The state of the art and future directions for psychological research. Developmental Review, 41, 71--90. https://doi.org/10.1016/j.dr.2016.06.004"
+  },
+  {
+    "key": "Petersen2020",
+    "text": "Petersen, Isaac T. and Choe, Daniel Ewon and LeBeau, Brandon (2020). Studying a moving target in development: The challenge and opportunity of heterotypic continuity. Developmental Review, 58, 100935. https://doi.org/10.1016/j.dr.2020.100935"
+  },
+  {
+    "key": "Schmidt1981",
+    "text": "Schmidt, Frank L. and Hunter, John E. (1981). Employment testing: Old theories and new research findings. American Psychologist, 36, 1128--1137. https://doi.org/10.1037/0003-066X.36.10.1128"
+  },
+  {
+    "key": "Camilli2013",
+    "text": "Camilli, Gregory (2013). Ongoing issues in test fairness. Educational Research and Evaluation, 19, 104--120. https://doi.org/10.1080/13803611.2013.767602"
+  },
+  {
+    "key": "Dorans2017",
+    "text": "Dorans, Neil J. (2017). Contributions to the quantitative assessment of item, test, and score fairness. Advancing human assessment, 201--230."
+  },
+  {
+    "key": "GeneralAptitudeTestBattery1989",
+    "text": "Committee on the General Aptitude Test Battery and Commission on Behavioral and Social Sciences and Education and National Research Council (1989). Fairness in employment testing: Validity generalization, minority issues, and the General Aptitude Test Battery.."
+  },
+  {
+    "key": "Fletcher2021",
+    "text": "Fletcher, Richard Ribón and Nakeshimana, Audace and Olubeko, Olusubomi (2021). Addressing fairness, bias, and appropriate use of artificial intelligence and machine learning in global health. Frontiers in Artificial Intelligence, 3. https://doi.org/10.3389/frai.2020.561802"
+  },
+  {
+    "key": "Gipps2009",
+    "text": "Gipps, Caroline and Stobart, Gordon (2009). Fairness in assessment. Educational assessment in the 21st century: Connecting theory and practice, 105--118. https://doi.org/10.1007/978-1-4020-9964-9_6"
+  },
+  {
+    "key": "Helms2006",
+    "text": "Helms, Janet E. (2006). Fairness is not validity or cultural bias in racial-group assessment: A quantitative perspective. American Psychologist, 61, 845--859. https://doi.org/10.1037/0003-066X.61.8.845"
+  },
+  {
+    "key": "Jonson2022",
+    "text": "Jonson, Jessica L and Geisinger, Kurt F (2022). Fairness in educational and psychological testing: Examining theoretical, research, practice, and policy implications of the 2014 standards.."
+  },
+  {
+    "key": "Melikyan2019",
+    "text": "Melikyan, Zarui A. and Agranovich, Anna V. and Puente, Antonio E. (2019). Fairness in psychological testing. Handbook of Psychological Assessment (Fourth Edition), 551--572. https://doi.org/10.1016/B978-0-12-802203-0.00018-3"
+  },
+  {
+    "key": "Thorndike1971",
+    "text": "Thorndike, Robert L. (1971). Concepts of culture-fairness. Journal of Educational Measurement, 8, 63--70. https://doi.org/10.1111/j.1745-3984.1971.tb00907.x"
+  },
+  {
+    "key": "Zieky2006",
+    "text": "Zieky, Michael J. (2006). Fairness review in assessment. Handbook of test development, 359--376. https://doi.org/10.4324/9780203874776.ch16"
+  },
+  {
+    "key": "Zieky2013",
+    "text": "Zieky, Michael J. (2013). Fairness review in assessment. APA handbook of testing and assessment in psychology, Vol. 1: Test theory and testing and assessment in industrial and organizational psychology, 293--302. https://doi.org/10.1037/14047-017"
+  },
+  {
+    "key": "Paulus2020",
+    "text": "Paulus, Jessica K. and Kent, David M. (2020). Predictably unequal: understanding and addressing concerns that algorithmic clinical prediction may increase health disparities. npj Digital Medicine, 3, 99. https://doi.org/10.1038/s41746-020-0304-9"
+  },
+  {
+    "key": "Hagquist2017",
+    "text": "Hagquist, Curt and Andrich, David (2017). Recent advances in analysis of differential item functioning in health research using the Rasch model. Health and Quality of Life Outcomes, 15, 181. https://doi.org/10.1186/s12955-017-0755-0"
+  },
+  {
+    "key": "Barrash2010",
+    "text": "Barrash, Joseph and Stillman, Ashley and Anderson, Steven W. and Uc, Ergun Y. and Dawson, Jeffrey D. and Rizzo, Matthew (2010). Prediction of driving ability with neuropsychological tests: Demographic adjustments diminish accuracy. Journal of the International Neuropsychological Society, 16, 679--686. https://doi.org/10.1017/S1355617710000470"
+  },
+  {
+    "key": "Silverberg2009",
+    "text": "Silverberg, Noah D. and Millis, Scott R. (2009). Impairment versus deficiency in neuropsychological assessment: Implications for ecological validity. Journal of the International Neuropsychological Society, 15, 94--102. https://doi.org/10.1017/S1355617708090139"
+  },
+  {
+    "key": "Sackett2001",
+    "text": "Sackett, Paul R. and Schmitt, N. and Ellingson, J.E. and Kabin, M.B. (2001). High-stakes testing in employment, credentialing, and higher education. American Psychologist, 56, 301--318. https://doi.org/10.1037/0003-066X.56.4.302"
+  },
+  {
+    "key": "Hagquist2019",
+    "text": "Hagquist, Curt (2019). Explaining differential item functioning focusing on the crucial role of external information – an example from the measurement of adolescent mental health. BMC Medical Research Methodology, 19, 185. https://doi.org/10.1186/s12874-019-0828-3"
+  },
+  {
+    "key": "McClelland1973",
+    "text": "McClelland, D.C. (1973). Testing for competence rather than for ``intelligence.''. American Psychologist, 28, 1--14. https://doi.org/10.1037/h0034092"
+  },
+  {
+    "key": "Meade2010",
+    "text": "Meade, Adam W. (2010). A taxonomy of effect size measures for the differential functioning of items and scales. Journal of Applied Psychology, 95, 728--743. https://doi.org/10.1037/a0018966"
+  },
+  {
+    "key": "Gonzalez2021",
+    "text": "Gonzalez, Oscar and Pelham, William E. (2021). When does differential item functioning matter for screening? A method for empirical evaluation. Assessment, 28, 446--456. https://doi.org/10.1177/1073191120913618"
+  },
+  {
+    "key": "Millsap2011",
+    "text": "Millsap, Roger E. (2011). Statistical approaches to measurement invariance.."
+  },
+  {
+    "key": "Wang2014a",
+    "text": "Wang, Ting and Merkle, Edgar C. and Zeileis, Achim (2014). Score-based tests of measurement invariance: use in practice. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00438"
+  },
+  {
+    "key": "Lai2021",
+    "text": "Lai, Mark H. C. (2021). Adjusting for measurement noninvariance with alignment in growth modeling. Multivariate Behavioral Research, 1--18. https://doi.org/10.1080/00273171.2021.1941730"
+  },
+  {
+    "key": "Jorgensen2018",
+    "text": "Jorgensen, Terrence D. and Kite, Benjamin A. and Chen, Po-Yi and Short, Stephen D. (2018). Permutation randomization methods for testing measurement equivalence and detecting differential item functioning in multiple-group confirmatory factor analysis. Psychological Methods, 23, 708--728. https://doi.org/10.1037/met0000152"
+  },
+  {
+    "key": "Cheng2016",
+    "text": "Cheng, Ying and Shao, Can and Lathrop, Quinn N. (2016). The mediated MIMIC model for understanding the underlying mechanism of DIF. Educational and Psychological Measurement, 76, 43--63. https://doi.org/10.1177/0013164415576187"
+  },
+  {
+    "key": "Wang2009b",
+    "text": "Wang, Wen-Chung and Shih, Ching-Lin and Yang, Chih-Chien (2009). The MIMIC method with scale purification for detecting differential item functioning. Educational and Psychological Measurement, 69, 713--731. https://doi.org/10.1177/0013164409332228"
+  },
+  {
+    "key": "Bauer2020",
+    "text": "Bauer, Daniel J. and Belzak, William C. M. and Cole, Veronica T. (2020). Simplifying the assessment of measurement invariance over multiple background variables: Using regularized moderated nonlinear factor analysis to detect differential item functioning. Structural Equation Modeling: A Multidisciplinary Journal, 27, 43--55. https://doi.org/10.1080/10705511.2019.1642754"
+  },
+  {
+    "key": "Curran2014",
+    "text": "Curran, Patrick J. and Howard, Andrea L. and Bainter, Sierra A. and Lane, Stephanie T. and McGinley, James S. (2014). The separation of between-person and within-person components of individual change over time: A latent curve model with structured residuals. Journal of Consulting and Clinical Psychology, 82, 8--94. https://doi.org/10.1037/a0035297"
+  },
+  {
+    "key": "Gottfredson2019",
+    "text": "Gottfredson, Nisha C. and Cole, Veronica T. and Giordano, Michael L. and Bauer, Daniel J. and Hussong, Andrea M. and Ennett, Susan T. (2019). Simplifying the implementation of modern scale scoring methods with an automated R package: Automated moderated nonlinear factor analysis (aMNLFA). Addictive Behaviors, 94, 65--73. https://doi.org/10.1016/j.addbeh.2018.10.031"
+  },
+  {
+    "key": "Muthen2019",
+    "text": "Muthén, Linda K. and Muthén, Bengt O. (2019). Mplus version 8.4.."
+  },
+  {
+    "key": "Cheung2002",
+    "text": "Cheung, Gordon W. and Rensvold, Roger B. (2002). Evaluating goodness-of-fit indexes for testing measurement invariance. Structural Equation Modeling: A Multidisciplinary Journal, 9, 233--255. https://doi.org/10.1207/s15328007sem0902_5"
+  },
+  {
+    "key": "Chen2007a",
+    "text": "Chen, Fang Fang (2007). Sensitivity of goodness of fit indexes to lack of measurement invariance. Structural Equation Modeling: A Multidisciplinary Journal, 14, 464--504. https://doi.org/10.1080/10705510701301834"
+  },
+  {
+    "key": "Little2007",
+    "text": "Little, Todd D. and Preacher, Kristopher J. and Selig, James P. and Card, Noel A. (2007). New developments in latent variable panel analyses of longitudinal data. International Journal of Behavioral Development, 31, 357--365. https://doi.org/10.1177/0165025407077757"
+  },
+  {
+    "key": "Little2013",
+    "text": "Little, Todd D. (2013). Longitudinal structural equation modeling.."
+  },
+  {
+    "key": "Raykov2020",
+    "text": "Raykov, Tenko and Marcoulides, George A. and Harrison, Michael and Zhang, Mingcai (2020). On the dependability of a popular procedure for studying measurement invariance: A cause for concern?. Structural Equation Modeling: A Multidisciplinary Journal, 27, 649--656. https://doi.org/10.1080/10705511.2019.1610409"
+  },
+  {
+    "key": "Belzak2020",
+    "text": "Belzak, William C. M. and Bauer, Daniel J. (2020). Improving the assessment of measurement invariance: Using regularization to select anchor items and identify differential item functioning. Psychological Methods, 25, 673--690. https://doi.org/10.1037/met0000253"
+  },
+  {
+    "key": "Little2006a",
+    "text": "Little, Todd D. and Slegers, David W. and Card, Noel A. (2006). A non-arbitrary method of identifying and scaling latent variables in SEM and MACS models. Structural Equation Modeling, 13, 59--72. https://doi.org/10.1207/s15328007sem1301_3"
+  },
+  {
+    "key": "VanDeSchoot2015",
+    "text": "Van De Schoot, Rens and Schmidt, Peter and De Beuckelaer, Alain and Lek, Kimberley and Zondervan-Zwijnenburg, Marielle (2015). Editorial: Measurement Invariance. Frontiers in Psychology, 6. https://doi.org/10.3389/fpsyg.2015.01064"
+  },
+  {
+    "key": "VanDeSchoot2013",
+    "text": "Van De Schoot, Rens and Kluytmans, Anouck and Tummers, Lars and Lugtig, Peter and Hox, Joop and Muthen, Bengt (2013). Facing off with Scylla and Charybdis: a comparison of scalar, partial, and the novel possibility of approximate measurement invariance. Frontiers in Psychology, 4. https://doi.org/10.3389/fpsyg.2013.00770"
+  },
+  {
+    "key": "Counsell2020",
+    "text": "Counsell, Alyssa and Cribbie, Robert A. and Flora, David B. (2020). Evaluating equivalence testing methods for measurement invariance. Multivariate Behavioral Research, 55, 312--328. https://doi.org/10.1080/00273171.2019.1633617"
+  },
+  {
+    "key": "Liu2017a",
+    "text": "Liu, Yu and Millsap, Roger E. and West, Stephen G. and Tein, Jenn-Yun and Tanaka, Rika and Grimm, Kevin J. (2017). Testing measurement invariance in longitudinal data with ordered-categorical measures. Psychological Methods, 22, 486--506. https://doi.org/10.1037/met0000075"
+  },
+  {
+    "key": "Gunn2020",
+    "text": "Gunn, Heather J. and Grimm, Kevin J. and Edwards, Michael C. (2020). Evaluation of six effect size measures of measurement non-invariance for continuous outcomes. Structural Equation Modeling: A Multidisciplinary Journal, 27, 503--514. https://doi.org/10.1080/10705511.2019.1689507"
+  },
+  {
+    "key": "Newsom2015",
+    "text": "Newsom, Jason T. (2015). Longitudinal structural equation modeling: A comprehensive introduction.."
+  },
+  {
+    "key": "Nye2019",
+    "text": "Nye, Christopher D. and Bradburn, Jacob and Olenick, Jeffrey and Bialko, Christopher and Drasgow, Fritz (2019). How big are my effects? Examining the magnitude of effect sizes in studies of measurement equivalence. Organizational Research Methods, 22, 678--709. https://doi.org/10.1177/1094428118761122"
+  },
+  {
+    "key": "Oberski2014",
+    "text": "Oberski, Daniel L. (2014). Evaluating Sensitivity of Parameters of Interest to Measurement Invariance in Latent Variable Models. Political Analysis, 22, 45--60. https://doi.org/10.1093/pan/mpt014"
+  },
+  {
+    "key": "Oberski2015",
+    "text": "Oberski, Daniel L. and Vermunt, Jeroen K. and Moors, Guy B. D. (2015). Evaluating Measurement Invariance in Categorical Data Latent Variable Models with the EPC-Interest. Political Analysis, 23, 550--563. https://doi.org/10.1093/pan/mpv020"
+  },
+  {
+    "key": "Sharp2013",
+    "text": "Sharp, Katie L. and Williams, Alexander J. and Rhyner, Kathleen T. and Ilardi, Stephen S. (2013). The clinical interview. APA handbook of testing and assessment in psychology, Vol. 2: Testing and assessment in clinical and counseling psychology, 103--117."
+  },
+  {
+    "key": "Faraone1994",
+    "text": "Faraone, S. V. and Tsuang, M. T. (1994). Measuring diagnostic accuracy in the absence of a ``gold standard''. American Journal of Psychiatry, 151, 650--657. https://doi.org/10.1176/ajp.151.5.650"
+  },
+  {
+    "key": "DellArmo2025",
+    "text": "Dell'Armo, Kristin and Tassé, Marc J. (2025). How intellectual disability may bias psychologists’ clinical impressions: An examination of diagnostic overshadowing. Psychological Assessment, 37, 161--171. https://doi.org/10.1037/pas0001367"
+  },
+  {
+    "key": "Fleck2010",
+    "text": "Fleck, Mathias S. and Samei, Ehsan and Mitroff, Stephen R. (2010). Generalized “satisfaction of search”: Adverse influences on dual-target search accuracy. Journal of Experimental Psychology: Applied, 16, 60--71. https://doi.org/10.1037/a0018629"
+  },
+  {
+    "key": "Sullivan1970",
+    "text": "Sullivan, Harry Stack (1970). The psychiatric interview.."
+  },
+  {
+    "key": "Widiger2002",
+    "text": "Widiger, Thomas A. (2002). Personality disorders. Handbook of assessment and treatment planning for psychological disorders, 453--480."
+  },
+  {
+    "key": "Summerfeldt2010",
+    "text": "Summerfeldt, Laura J. and Kloosterman, Patricia H. and Antony, Martin M. (2010). Structured and semistructured diagnostic interviews. Handbook of assessment and treatment planning for psychological disorders, 95--137."
+  },
+  {
+    "key": "Ahuvia2024",
+    "text": "Ahuvia, Isaac L. and Schleider, Jessica L. and Kneeland, Elizabeth T. and Moser, Jason S. and Schroder, Hans S. (2024). Depression self-labeling in U.S. college students: Associations with perceived control and coping strategies. Journal of Affective Disorders, 351, 202--210. https://doi.org/10.1016/j.jad.2024.01.229"
+  },
+  {
+    "key": "Schaefer2017",
+    "text": "Schaefer, Jonathan D. and Caspi, Avshalom and Belsky, Daniel W. and Harrington, Honalee and Houts, Renate and Horwood, L. John and Hussong, Andrea and Ramrakha, Sandhya and Poulton, Richie and Moffitt, Terrie E. (2017). Enduring mental health: Prevalence and prediction. Journal of Abnormal Psychology, 126, 212--224. https://doi.org/10.1037/abn0000232"
+  },
+  {
+    "key": "Gambrill2014",
+    "text": "Gambrill, Eileen (2014). The Diagnostic and Statistical Manual of Mental Disorders as a major form of dehumanization in the modern world. Research on Social Work Practice, 24, 13--36. https://doi.org/10.1177/1049731513499411"
+  },
+  {
+    "key": "Fried2022",
+    "text": "Eiko I. Fried (2022). Studying Mental Health Problems as Systems, Not Syndromes. Current Directions in Psychological Science, 31, 500--508. https://doi.org/10.1177/09637214221114089"
+  },
+  {
+    "key": "GalatzerLevy2013",
+    "text": "Isaac R. Galatzer-Levy and Richard A. Bryant (2013). 636,120 Ways to Have Posttraumatic Stress Disorder. Perspectives on Psychological Science, 8, 651--662. https://doi.org/10.1177/1745691613504115"
+  },
+  {
+    "key": "Caspi2020",
+    "text": "Caspi, Avshalom and Houts, Renate M. and Ambler, Antony and Danese, Andrea and Elliott, Maxwell L. and Hariri, Ahmad and Harrington, HonaLee and Hogan, Sean and Poulton, Richie and Ramrakha, Sandhya and Rasmussen, Line J. Hartmann and Reuben, Aaron and Richmond-Rakerd, Leah and Sugden, Karen and Wertz, Jasmin and Williams, Benjamin S. and Moffitt, Terrie E. (2020). Longitudinal assessment of mental health disorders and comorbidities across 4 decades among participants in the Dunedin Birth Cohort Study. JAMA Network Open, 3, e203221--e203221. https://doi.org/10.1001/jamanetworkopen.2020.3221"
+  },
+  {
+    "key": "Blashfield2014",
+    "text": "Blashfield, Roger K. and Keeley, Jared W. and Flanagan, Elizabeth H. and Miles, Shannon R. (2014). The cycle of classification: DSM-I through DSM-5. Annual Review of Clinical Psychology, 10, 25--51. https://doi.org/10.1146/annurev-clinpsy-032813-153639"
+  },
+  {
+    "key": "MullinsSweatt2009",
+    "text": "Mullins-Sweatt, Stephanie N. and Widiger, Thomas A. (2009). Clinical utility and DSM-V. Psychological Assessment, 21, 302--312. https://doi.org/10.1037/a0016607"
+  },
+  {
+    "key": "Tiego2023",
+    "text": "Jeggan Tiego and Elizabeth A. Martin and Colin G. DeYoung and Kelsey Hagan and Samuel E. Cooper and Rita Pasion and Liam Satchell and Alexander J. Shackman and Mark A. Bellgrove and Alex Fornito and Rany Abend and Natalie Goulter and Nicholas R. Eaton and Antonia N. Kaczkurkin and Robin Nusslock and (2023). Precision behavioral phenotyping as a strategy for uncovering the biological correlates of psychopathology. Nature Mental Health, 1, 304--315. https://doi.org/10.1038/s44220-023-00057-5"
+  },
+  {
+    "key": "Lobbestael2011",
+    "text": "Lobbestael, Jill and Leurgans, Maartje and Arntz, Arnoud (2011). Inter-rater reliability of the Structured Clinical Interview for DSM-IV Axis I Disorders (SCID I) and Axis II Disorders (SCID II). Clinical Psychology \\& Psychotherapy, 18, 75--79. https://doi.org/10.1002/cpp.693"
+  },
+  {
+    "key": "Caspi2014",
+    "text": "Caspi, Avshalom and Houts, Renate M. and Belsky, Daniel W. and Goldman-Mellor, Sidra J. and Harrington, HonaLee and Israel, Salomon and Meier, Madeline H. and Ramrakha, Sandhya and Shalev, Idan and Poulton, Richie and Moffitt, Terrie E. (2014). The p factor: One general psychopathology factor in the structure of psychiatric disorders?. Clinical Psychological Science, 2, 119--137. https://doi.org/10.1177/2167702613497473"
+  },
+  {
+    "key": "Smith2020",
+    "text": "Smith, Gregory T. and Atkinson, Emily A. and Davis, Heather A. and Riley, Elizabeth N. and Oltmanns, Joshua R. (2020). The general factor of psychopathology. Annual Review of Clinical Psychology, 16, 75--98. https://doi.org/10.1146/annurev-clinpsy-071119-115848"
+  },
+  {
+    "key": "Kotov2017",
+    "text": "Kotov, Roman and Krueger, Robert F. and Watson, David and Achenbach, Thomas M. and Althoff, Robert R. and Bagby, R. Michael and Brown, Timothy A. and Carpenter, William T. and Caspi, Avshalom and Clark, Lee Anna and Eaton, Nicholas R. and Forbes, Miriam K. and Forbush, Kelsie T. and Goldberg, David and Hasin, Deborah and Hyman, Steven E. and Ivanova, Masha Y. and Lynam, Donald R. and Markon, Kristian and Miller, Joshua D. and Moffitt, Terrie E. and Morey, Leslie C. and Mullins-Sweatt, Stephanie N. and Ormel, Johan and Patrick, Christopher J. and Regier, Darrel A. and Rescorla, Leslie and Ruggero, Camilo J. and Samuel, Douglas B. and Sellbom, Martin and Simms, Leonard J. and Skodol, Andrew E. and Slade, Tim and South, Susan C. and Tackett, Jennifer L. and Waldman, Irwin D. and Waszczuk, Monika A. and Widiger, Thomas A. and Wright, Aidan G. C. and Zimmerman, Mark (2017). The hierarchical taxonomy of psychopathology (HiTOP): A dimensional alternative to traditional nosologies. Journal of Abnormal Psychology, 126, 454--477. https://doi.org/10.1037/abn0000258"
+  },
+  {
+    "key": "Kotov2021",
+    "text": "Kotov, Roman and Krueger, Robert F. and Watson, David and Cicero, David C. and Conway, Christopher C. and DeYoung, Colin G. and Eaton, Nicholas R. and Forbes, Miriam K. and Hallquist, Michael N. and Latzman, Robert D. and Mullins-Sweatt, Stephanie N. and Ruggero, Camilo J. and Simms, Leonard J. and Waldman, Irwin D. and Waszczuk, Monika A. and Wright, Aidan G.C. (2021). The hierarchical taxonomy of psychopathology (HiTOP): A quantitative nosology based on consensus of evidence. Annual Review of Clinical Psychology, 17, 83--108. https://doi.org/10.1146/annurev-clinpsy-081219-093304"
+  },
+  {
+    "key": "McNally2021",
+    "text": "McNally, Richard J. (2021). Network analysis of psychopathology: Controversies and challenges. Annual Review of Clinical Psychology, 17, 31--53. https://doi.org/10.1146/annurev-clinpsy-081219-092850"
+  },
+  {
+    "key": "SommersFlanagan2016",
+    "text": "Sommers-Flanagan, J. and Sommers-Flanagan, R. (2016). Clinical interviewing.."
+  },
+  {
+    "key": "Girard2016",
+    "text": "Girard, Jeffrey M. and Cohn, Jeffrey F. (2016). A primer on observational measurement. Assessment, 23, 404--413. https://doi.org/10.1177/1073191116635807"
+  },
+  {
+    "key": "Petersen2024a",
+    "text": "Petersen, Isaac T. (2024). Assessing externalizing behaviors in school-aged children: Implications for school and community providers.. https://doi.org/10.17077/rep.006639"
+  },
+  {
+    "key": "Haynes2001",
+    "text": "Haynes, Stephen N. (2001). Clinical applications of analogue behavioral observation: dimensions of psychometric evaluation. Psychological Assessment, 13, 73--85. https://doi.org/10.1037/1040-3590.13.1.73"
+  },
+  {
+    "key": "Korotitsch1999",
+    "text": "Korotitsch, William J. and Nelson-Gray, Rosemery O. (1999). An overview of self-monitoring research in assessment and treatment. Psychological Assessment, 11, 415--425. https://doi.org/10.1037/1040-3590.11.4.415"
+  },
+  {
+    "key": "Piasecki2007",
+    "text": "Piasecki, Thomas M. and Hufford, Michael R. and Solhan, Marika and Trull, Timothy J. (2007). Assessing clients in their natural environments with electronic diaries: Rationale, benefits, limitations, and barriers. Psychological Assessment, 19, 25--43. https://doi.org/10.1037/1040-3590.19.1.25"
+  },
+  {
+    "key": "Petersen2026a",
+    "text": "Petersen, Isaac T. and Demko, Zachary and Doebler, Philipp and Sabel, Loreen and Oleson, Jacob J. and Krueger, Robert F. (2026). How often is “often”? Improving assessment of the externalizing spectrum using absolute frequency. Psychological Assessment, 38, 295--306. https://doi.org/10.1037/pas0001441"
+  },
+  {
+    "key": "Dunkley2019",
+    "text": "Dunkley, David M. and Segal, Zindel V. and Blankstein, Kirk R. (2019). Cognitive assessment: Issues and methods. Handbook of cognitive-behavioral therapies, 85--119."
+  },
+  {
+    "key": "Nisbett1977",
+    "text": "Nisbett, Richard E. and Wilson, Timothy D. (1977). Telling more than we can know: Verbal reports on mental processes. Psychological Review, 84, 231--259. https://doi.org/10.1037/0033-295x.84.3.231"
+  },
+  {
+    "key": "Davison1997",
+    "text": "Davison, Gerald C. and Vogel, Ralph S. and Coffman, Sandra G. (1997). Think-aloud approaches to cognitive assessment and the articulated thoughts in simulated situations paradigm. Journal of Consulting and Clinical Psychology, 65, 950--958. https://doi.org/10.1037/0022-006X.65.6.950"
+  },
+  {
+    "key": "Hurlburt1997",
+    "text": "Hurlburt, Russell T. (1997). Randomly sampling thinking in the natural environment. Journal of Consulting and Clinical Psychology, 65, 941--949. https://doi.org/10.1037/0022-006X.65.6.941"
+  },
+  {
+    "key": "Busemeyer2002",
+    "text": "Busemeyer, Jerome R. and Stout, Julie C. (2002). A contribution of cognitive decision models to clinical assessment: Decomposing performance on the Bechara gambling task. Psychological Assessment, 14, 253--262. https://doi.org/10.1037/1040-3590.14.3.253"
+  },
+  {
+    "key": "Treat2007",
+    "text": "Treat, Teresa A. and McFall, Richard M. and Viken, Richard J. and Kruschke, John K. and Nosofsky, Robert M. and Wang, Shirley S. (2007). Clinical cognitive science: Applying quantitative models of cognitive processing to examine cognitive aspects of psychopathology. Advances in clinical cognitive science: Formal modeling of processes and symptoms, 179--205."
+  },
+  {
+    "key": "Frank2026",
+    "text": "Frank, Michael C. and Goodman, Noah D. (2026). Cognitive modeling using artificial intelligence. Annual Review of Psychology, 77, 543--566. https://doi.org/10.1146/annurev-psych-030625-040748"
+  },
+  {
+    "key": "Draheim2024",
+    "text": "Draheim, Christopher and Tshukara, Jason S. and Engle, Randall W. (2024). Replication and extension of the toolbox approach to measuring attention control. Behavior Research Methods, 56, 2135--2157. https://doi.org/10.3758/s13428-023-02140-2"
+  },
+  {
+    "key": "Rodebaugh2016",
+    "text": "Rodebaugh, Thomas L. and Scullin, Rachel B. and Langer, Julia K. and Dixon, David J. and Huppert, Jonathan D. and Bernstein, Amit and Zvielli, Ariel and Lenze, Eric J. (2016). Unreliability as a threat to understanding psychopathology: The cautionary tale of attentional bias. Journal of Abnormal Psychology, 125, 840--851. https://doi.org/10.1037/abn0000184"
+  },
+  {
+    "key": "Hedge2018",
+    "text": "Hedge, Craig and Powell, Georgina and Sumner, Petroc (2018). The reliability paradox: Why robust cognitive tasks do not produce reliable individual differences. Behavior Research Methods, 50, 1166--1186. https://doi.org/10.3758/s13428-017-0935-1"
+  },
+  {
+    "key": "Draheim2019",
+    "text": "Draheim, Christopher and Mashburn, Cody A. and Martin, Jessie D. and Engle, Randall W. (2019). Reaction time in differential and developmental research: A review and commentary on the problems and alternatives. Psychological Bulletin, 145, 508--535. https://doi.org/10.1037/bul0000192"
+  },
+  {
+    "key": "Burgoyne2023",
+    "text": "Burgoyne, Alexander P. and Tsukahara, Jason S. and Mashburn, Cody A. and Pak, Richard and Engle, Randall W. (2023). Nature and measurement of attention control. Journal of Experimental Psychology: General, 152, 2369--2402. https://doi.org/10.1037/xge0001408"
+  },
+  {
+    "key": "Sechrest1998",
+    "text": "Sechrest, Lee and Stickle, TIMOTHY R and Stewart, Michelle (1998). The role of assessment in clinical psychology. Comprehensive clinical psychology, Vol. 4: Assessment."
+  },
+  {
+    "key": "Park2013",
+    "text": "Park, Denise C. and Bischof, Gérard N. (2013). The aging mind: neuroplasticity in response to cognitive training. Dialogues in Clinical Neuroscience, 15, 109--119. https://doi.org/10.31887/DCNS.2013.15.1/dpark"
+  },
+  {
+    "key": "Dombrowski2021",
+    "text": "Dombrowski, Stefan C. and McGill, Ryan J. and Morgan, Grant B. (2021). Monte Carlo modeling of contemporary intelligence test (IQ) factor structure: Implications for IQ assessment, interpretation, and theory. Assessment, 28, 977--993. https://doi.org/10.1177/1073191119869828"
+  },
+  {
+    "key": "Arvey1994",
+    "text": "Arvey, Richard D. and Bouchard, Thomas J. and Carroll, John B. and Cattell, Raymond B. and Cohen, David B. and Dawis, Rene V. and Detterman, Douglas K. and Dunnette, Marvin and Eysenck, Hans and Feldman, Jack M. and Fleishman, Edwin A. and Gilmore, Grover C. and Gordon, Robert A. and Gottfredson, Linda S. and Greene, Robert L. and Haier, Richard J. and Hardin, Garrett and Hogan, Robert and Horn, Joseph M. and Humphreys, Lloyd G. and Hunter, John E. and Itzkoff, Seymour W. and Jackson, Douglas N. and Jenkins, James J. and Jensen, Arthur R. and Kaufman, Alan S. and Kaufman, Nadeen L. and Keith, Timothy Z. and Lambert, Nadine and Loehlin, John C. and Lubinski, David and Lykken, David T. and Lynn, Richard and Meehl, Paul E. and Osborne, R. Travis and Perloff, Robert and Plomin, Robert and Reynolds, Cecil R. and Rowe, David C. and Rushton, J. Philippe and Sarich, Vincent and Scarr, Sandra and Schmidt, Frank L. and Schoenfeldt, Lyle F. and Sharf, James C. and Spitz, Herman and Stanley, Julian C. and Thiessen, Del and Thompson, Lee A. and Thorndike, Robert M. and Vernon, Philip Anthony and Willerman, Lee (1994). Mainstream science on intelligence. Wall Street Journal, 13, 18--25."
+  },
+  {
+    "key": "Gottfredson1997",
+    "text": "Gottfredson, Linda S. (1997). Mainstream science on intelligence: An editorial with 52 signatories, history, and bibliography. Intelligence, 24, 13--23."
+  },
+  {
+    "key": "Boring1923",
+    "text": "Boring, Edwing G. (1923). Intelligence as the tests test it. New Republic, 36, 35--37."
+  },
+  {
+    "key": "McClelland1994",
+    "text": "McClelland, David C. (1994). The knowledge-testing-educational complex strikes back. American Psychologist, 49, 66--69. https://doi.org/10.1037/0003-066X.49.1.66"
+  },
+  {
+    "key": "Ackerman2013",
+    "text": "Ackerman, Phillip L. (2013). Assessment of intellectual functioning in adults. APA handbook of testing and assessment in psychology, Vol 2: Testing and assessment in clinical and counseling psychology, 119--132."
+  },
+  {
+    "key": "Wiggins1973",
+    "text": "Wiggins, Jerry S. (1973). Personality and prediction: Principles of personality assessment.."
+  },
+  {
+    "key": "Watkins1995",
+    "text": "Watkins, C. Edward and Campbell, Vicki L. and Nieberding, Ron and Hallmark, Rebecca (1995). Contemporary practice of psychological assessment by clinical psychologists. Professional Psychology: Research and Practice, 26, 54--60. https://doi.org/10.1037/0735-7028.26.1.54"
+  },
+  {
+    "key": "Graham2022",
+    "text": "Graham, John R. and Veltri, Carlo O. C. and Lee, Tayla T. C. (2022). MMPI instruments: Assessing personality and psychopathology.."
+  },
+  {
+    "key": "Sellbom2019",
+    "text": "Sellbom, Martin (2019). The MMPI-2-Restructured Form (MMPI-2-RF): Assessment of personality and psychopathology in the twenty-first century. Annual Review of Clinical Psychology, 15, 149--177. https://doi.org/10.1146/annurev-clinpsy-050718-095701"
+  },
+  {
+    "key": "Burisch1984",
+    "text": "Burisch, M. (1984). Approaches to personality inventory construction: A comparison of merits.. American Psychologist, 39, 214--227. https://doi.org/10.1037/0003-066X.39.3.214"
+  },
+  {
+    "key": "Clark1995",
+    "text": "Clark, Lee Anna and Watson, David (1995). Constructing validity: Basic issues in objective scale development. Psychological Assessment, 7, 309--319. https://doi.org/10.1037/1040-3590.7.3.309"
+  },
+  {
+    "key": "Loevinger1957",
+    "text": "Loevinger, Jane (1957). Objective tests as instruments of psychological theory. Psychological Reports, 3, 635--694. https://doi.org/10.2466/pr0.1957.3.3.635"
+  },
+  {
+    "key": "Simms2019",
+    "text": "Simms, Leonard J. and Zelazny, Kerry and Williams, Trevor F. and Bernstein, Lee (2019). Does the number of response options matter? Psychometric perspectives using personality questionnaire data. Psychological Assessment, 31, 557--566. https://doi.org/10.1037/pas0000648"
+  },
+  {
+    "key": "Wright2019b",
+    "text": "Wright, Aidan G. C. and Gates, Kathleen M. and Arizmendi, Cara and Lane, Stephanie T. and Woods, William C. and Edershile, Elizabeth A. (2019). Focusing personality assessment on the person: Modeling general, shared, and person specific processes in personality and psychopathology. Psychological Assessment, 31, 502--515. https://doi.org/10.1037/pas0000617"
+  },
+  {
+    "key": "AustinInPress",
+    "text": "Austin, Kyle D. and Crawley, Hannah K. and Fleeson, William and Furr, R. Michael (in press). Using generative artificial intelligence to advance hypothesis-driven scale validation: Identifying criterion measures and generating precise a priori hypotheses. Assessment, 10731911251401321. https://doi.org/10.1177/10731911251401321"
+  },
+  {
+    "key": "Bensch2019",
+    "text": "Bensch, Doreen and Maaß, Ulrike and Greiff, Samuel and Horstmann, Kai Tobias and Ziegler, Matthias (2019). The nature of faking: A homogeneous and predictable construct?. Psychological Assessment, 31, 532--544. https://doi.org/10.1037/pas0000619"
+  },
+  {
+    "key": "Burchett2019",
+    "text": "Burchett, Danielle and Ben-Porath, Yossef S. (2019). Methodological considerations for developing and evaluating response bias indicators. Psychological Assessment, 31, 1497--1511. https://doi.org/10.1037/pas0000680"
+  },
+  {
+    "key": "Zhang2024",
+    "text": "Zhang, Xijuan and Savalei, Victoria (2024). An overview of alternative formats to the Likert format: A comment on Wilson et al. (2022). Psychological Methods, 29, 606--612. https://doi.org/10.1037/met0000631"
+  },
+  {
+    "key": "Kahneman2011",
+    "text": "Kahneman, Daniel (2011). Thinking, fast and slow.."
+  },
+  {
+    "key": "Krosnick1999",
+    "text": "Krosnick, Jon A. (1999). Survey research. Annual Review of Psychology, 50, 537--67. https://doi.org/10.1146/annurev.psych.50.1.537"
+  },
+  {
+    "key": "Tackett2019b",
+    "text": "Tackett, Jennifer L. and Lang, Jonas W. B. and Markon, Kristian E. and Herzhoff, Kathrin (2019). A correlated traits, correlated methods model for thin-slice child personality assessment. Psychological Assessment, 31, 545--556. https://doi.org/10.1037/pas0000635"
+  },
+  {
+    "key": "Costa2019",
+    "text": "Costa Jr., Paul T and McCrae, Robert R. and Löckenhoff, Corinna E. (2019). Personality Across the Life Span. Annual Review of Psychology, 70, 423--448. https://doi.org/10.1146/annurev-psych-010418-103244"
+  },
+  {
+    "key": "Dunning2004",
+    "text": "Dunning, D. and Heath, C. and Suls, J.M. (2004). Flawed self-assessment: Implications for health, education, and the workplace. Psychological Science in the Public Interest, 5, 69--106. https://doi.org/10.1111/j.1529-1006.2004.00018.x"
+  },
+  {
+    "key": "Frank1939",
+    "text": "Frank, Lawrence K. (1939). Projective methods for the study of personality. Journal of Psychology, 8, 389--413. https://doi.org/10.1080/00223980.1939.9917671"
+  },
+  {
+    "key": "Freud1911",
+    "text": "Freud, Sigmund (1911). Psycho-analytic notes on an autobiographical account of a case of paranoia (dementia paranoides). The standard edition of the complete psychological works of Sigmund Freud: The case of Schreber, papers on technique and other works, Vol. 12 (1911--1913), 1--82."
+  },
+  {
+    "key": "Meyer2011",
+    "text": "Meyer, Gregory J and Erard, Robert E and Erdberg, Philip and Mihura, Joni L and Viglione, Donald J (2011). Rorschach Performance Assessment System: Administration, coding, interpretation, and technical manual.."
+  },
+  {
+    "key": "Choca2018",
+    "text": "Choca, James P and Rossini, Edward D (2018). Assessment using the Rorschach Inkblot Test.."
+  },
+  {
+    "key": "Lindzey1952",
+    "text": "Lindzey, G. (1952). Thematic Apperception Test: Interpretive assumptions and related empirical evidence. Psychological Bulletin, 49, 1--25. https://doi.org/10.1037/h0062363"
+  },
+  {
+    "key": "Morgan1935",
+    "text": "Morgan, Christiana D. and Murray, Henry A. (1935). A method for investigating fantasies: The Thematic Apperception Test. Archives of Neurology \\& Psychiatry, 34, 289--306. https://doi.org/10.1001/archneurpsyc.1935.02250200049005"
+  },
+  {
+    "key": "Cashel2002",
+    "text": "Cashel, Mary Louise (2002). Child and adolescent psychological assessment: Current clinical practices and the impact of managed care. Professional Psychology: Research and Practice, 33, 446--453. https://doi.org/10.1037/0735-7028.33.5.446"
+  },
+  {
+    "key": "Lilienfeld2000",
+    "text": "Lilienfeld, Scott O. and Wood, James M. and Garb, Howard N. (2000). The scientific status of projective techniques. Psychological Science in the Public Interest, 1, 27--66. https://doi.org/10.1111/1529-1006.002"
+  },
+  {
+    "key": "Wood1996",
+    "text": "Wood, James M. and Nezworski, M. Teresa and Stejskal, William J. (1996). The Comprehensive System for the Rorschach: A critical examination. Psychological Science, 7, 3--10. https://doi.org/10.1111/j.1467-9280.1996.tb00658.x"
+  },
+  {
+    "key": "Wood1996a",
+    "text": "Wood, James M. and Nezworski, M. Teresa and Stejskal, William J. (1996). Thinking critically about the Comprehensive System for the Rorschach: A reply to Exner. Psychological Science, 7, 14--17. https://doi.org/10.1111/j.1467-9280.1996.tb00660.x"
+  },
+  {
+    "key": "Garb2005a",
+    "text": "Howard N. Garb and James M. Wood and Scott O. Lilienfeld and M. Teresa Nezworski (2005). Roots of the Rorschach controversy. Clinical Psychology Review, 25, 97--118. https://doi.org/10.1016/j.cpr.2004.09.002"
+  },
+  {
+    "key": "Rice2013",
+    "text": "Rice, Marnie E. and Harris, Grant T. and Lang, Carol (2013). Validation of and revision to the VRAG and SORAG: The Violence Risk Appraisal Guide—Revised (VRAG-R). Psychological Assessment, 25, 951--965. https://doi.org/10.1037/a0032878"
+  },
+  {
+    "key": "Dana2006",
+    "text": "Dana, Jason and Thomas, Rick (2006). In defense of clinical judgment … and mechanical prediction. Journal of Behavioral Decision Making, 19, 413--428. https://doi.org/10.1002/bdm.537"
+  },
+  {
+    "key": "Dawes1989",
+    "text": "Dawes, R.M. and Faust, D. and Meehl, P.E. (1989). Clinical versus actuarial judgment. Science, 243, 1668--1674. https://doi.org/10.1126/science.2648573"
+  },
+  {
+    "key": "Aegisdottir2006",
+    "text": "\\AEgisdóttir, Stefanía and White, Michael J. and Spengler, Paul M. and Maugherman, Alan S. and Anderson, Linda A. and Cook, Robert S. and Nichols, Cassandra N. and Lampropoulos, Georgios K. and Walker, Blain S. and Cohen, Genna and Rush, Jeffrey D. (2006). The meta-analysis of clinical judgment project: Fifty-six years of accumulated research on clinical versus statistical prediction. The Counseling Psychologist, 34, 341--382. https://doi.org/10.1177/0011000005285875"
+  },
+  {
+    "key": "Baird2000",
+    "text": "Baird, Christopher and Wagner, Dennis (2000). The relative validity of actuarial- and consensus-based risk assessment systems. Children and Youth Services Review, 22, 839--871. https://doi.org/10.1016/S0190-7409(00)00122-5"
+  },
+  {
+    "key": "Grove1996",
+    "text": "Grove, William M. and Meehl, Paul E. (1996). Comparative efficiency of informal (subjective, impressionistic) and formal (mechanical, algorithmic) prediction procedures: The clinical–statistical controversy. Psychology, Public Policy, and Law, 2, 293--323. https://doi.org/10.1037/1076-8971.2.2.293"
+  },
+  {
+    "key": "Grove2000",
+    "text": "Grove, William M. and Zald, David H. and Lebow, Boyd S. and Snitz, Beth E. and Nelson, Chad (2000). Clinical versus mechanical prediction: A meta-analysis. Psychological Assessment, 12, 19--30. https://doi.org/10.1037/1040-3590.12.1.19"
+  },
+  {
+    "key": "Garb2019",
+    "text": "Garb, Howard N. and Wood, James M. (2019). Methodological advances in statistical prediction. Psychological Assessment, 31, 1456--1466. https://doi.org/10.1037/pas0000673"
+  },
+  {
+    "key": "Garb2005",
+    "text": "Garb, Howard N. (2005). Clinical judgment and decision making. Annual Review of Clinical Psychology, 1, 67--89. https://doi.org/10.1146/annurev.clinpsy.1.102803.143810"
+  },
+  {
+    "key": "Meehl1957",
+    "text": "Meehl, Paul E. (1957). When shall we use our heads instead of the formula?. Journal of Counseling Psychology, 4, 268--273. https://doi.org/10.1037/h0047554"
+  },
+  {
+    "key": "Dawes1986",
+    "text": "Dawes, R.M. (1986). Representative thinking in clinical judgment. Clinical Psychology Review, 6, 425--441. https://doi.org/10.1016/0272-7358(86)90030-9"
+  },
+  {
+    "key": "Meehl1986",
+    "text": "Meehl, Paul E. (1986). Causes and effects of my disturbing little book. Journal of Personality Assessment, 50, 370--375. https://doi.org/10.1207/s15327752jpa5003_6"
+  },
+  {
+    "key": "Youngstrom2018",
+    "text": "Youngstrom, Eric A. and Halverson, Tate F. and Youngstrom, Jennifer K. and Lindhiem, Oliver and Findling, Robert L. (2018). Evidence-based assessment from simple clinical judgments to statistical learning: Evaluating a range of options using pediatric bipolar disorder as a diagnostic challenge. Clinical Psychological Science, 6, 243--265. https://doi.org/10.1177/2167702617741845"
+  },
+  {
+    "key": "Wainer1976",
+    "text": "Wainer, Howard (1976). Estimating coefficients in linear models: It don't make no nevermind. Psychological Bulletin, 83, 213--217. https://doi.org/10.1037/0033-2909.83.2.213"
+  },
+  {
+    "key": "Ursenbach2019",
+    "text": "Ursenbach, Jake and O'Connell, Megan E. and Neiser, Jennafer and Tierney, Mary C. and Morgan, Debra and Kosteniuk, Julie and Spiteri, Raymond J. (2019). Scoring algorithms for a computer-based cognitive screening tool: An illustrative example of overfitting machine learning approaches and the impact on estimates of classification accuracy. Psychological Assessment, 31, 1377--1382. https://doi.org/10.1037/pas0000764"
+  },
+  {
+    "key": "Venables2002",
+    "text": "Venables, W.N. and Ripley, B.D. (2002). Modern applied statistics with S.."
+  },
+  {
+    "key": "DeRubeis2014",
+    "text": "DeRubeis, Robert J. and Cohen, Zachary D. and Forand, Nicholas R. and Fournier, Jay C. and Gelfand, Lois A. and Lorenzo-Luaces, Lorenzo (2014). The personalized advantage index: Translating research on prediction into individualized treatment recommendations. A demonstration. PLoS ONE, 9, e83875. https://doi.org/10.1371/journal.pone.0083875"
+  },
+  {
+    "key": "Cohen2018a",
+    "text": "Cohen, Zachary D. and DeRubeis, Robert J. (2018). Treatment selection in depression. Annual Review of Clinical Psychology, 14, 209--236. https://doi.org/10.1146/annurev-clinpsy-050817-084746"
+  },
+  {
+    "key": "Lindhiem2015a",
+    "text": "Lindhiem, Oliver and Yu, Lan and Grasso, Damion J. and Kolko, David J. and Youngstrom, Eric A. (2015). Adapting the posterior probability of diagnosis index to enhance evidence-based screening: An application to ADHD in primary care. Assessment, 22, 198--207. https://doi.org/10.1177/1073191114540748"
+  },
+  {
+    "key": "Dwyer2018",
+    "text": "Dwyer, Dominic B. and Falkai, Peter and Koutsouleris, Nikolaos (2018). Machine learning approaches for clinical psychology and psychiatry. Annual Review of Clinical Psychology, 14, 91--118. https://doi.org/10.1146/annurev-clinpsy-032816-045037"
+  },
+  {
+    "key": "AafjesvanDoornInPress",
+    "text": "Aafjes-van Doorn, Katie and Ty, Francine Cheng and Hua, Antonia Yuxin and An, Chunlin and Van Meter, Anna (in press). Large language model applications for real-time clinical mental health assessment: Current potential and future directions. Journal of Psychopathology and Clinical Science. https://doi.org/10.1037/abn0001155"
+  },
+  {
+    "key": "Williams2021",
+    "text": "Williams, Alexander J. and Botanov, Yevgeny and Kilshaw, Robyn E. and Wong, Ryan E. and Sakaluk, John Kitchener (2021). Potentially harmful therapies: A meta-scientific review of evidential value. Clinical Psychology: Science and Practice, 28, 5--18. https://doi.org/10.1111/cpsp.12331"
+  },
+  {
+    "key": "Jacinto2018",
+    "text": "Jacinto, Sofia B. and Lewis, Cara C. and Braga, João N. and Scott, Kelli (2018). A conceptual model for generating and validating in-session clinical judgments. Psychotherapy Research, 28, 91--105. https://doi.org/10.1080/10503307.2016.1169329"
+  },
+  {
+    "key": "Posner2011",
+    "text": "Posner, Kelly and Brown, Gregory K. and Stanley, Barbara and Brent, David A. and Yershova, Kseniya V. and Oquendo, Maria A. and Currier, Glenn W. and Melvin, Glenn A. and Greenhill, Laurence and Shen, Sa and Mann, J. John (2011). The Columbia–Suicide Severity Rating Scale: Initial Validity and Internal Consistency Findings From Three Multisite Studies With Adolescents and Adults. American Journal of Psychiatry, 168, 1266--1277. https://doi.org/10.1176/appi.ajp.2011.10111704"
+  },
+  {
+    "key": "PetersenFantasyFootballText",
+    "text": "Petersen, Isaac T. (2026). Fantasy Football Analytics: Statistics, Prediction, and Empiricism Using R.. https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook"
+  },
+  {
+    "key": "Partnow2021",
+    "text": "Partnow, Seth (2021). The Midrange Theory: Basketball's Evolution in the Age of Analytics.."
+  },
+  {
+    "key": "Massey2013",
+    "text": "Massey, Cade and Thaler, Richard H. (2013). The loser's curse: Decision making and market efficiency in the National Football League draft. Management Science, 59, 1479--1495. https://doi.org/10.1287/mnsc.1120.1657"
+  },
+  {
+    "key": "BallesterosPerez2018",
+    "text": "Ballesteros-Pérez, Pablo and González-Cruz, M Carmen and Mora-Melià, Daniel (2018). Explaining the Bayes' theorem graphically. Proceedings of the International Technology, Education and Development Conference."
+  },
+  {
+    "key": "Meehl1955",
+    "text": "Meehl, Paul E. and Rosen, Albert (1955). Antecedent probability and the efficiency of psychometric signs, patterns, or cutting scores. Psychological Bulletin, 52, 194--216. https://doi.org/10.1037/h0048070"
+  },
+  {
+    "key": "Kessler2020",
+    "text": "Kessler, Ronald C. and Bossarte, Robert M. and Luedtke, Alex and Zaslavsky, Alan M. and Zubizarreta, Jose R. (2020). Suicide prediction models: a critical review of recent research with recommendations for the way forward. Molecular Psychiatry, 25, 168--179. https://doi.org/10.1038/s41380-019-0531-0"
+  },
+  {
+    "key": "Farris2008",
+    "text": "Farris, Coreen and Treat, Teresa A. and Viken, Richard J. and McFall, Richard M. (2008). Perceptual mechanisms that characterize gender differences in decoding women's sexual intent. Psychological Science, 19, 348--354. https://doi.org/10.1111/j.1467-9280.2008.02092.x"
+  },
+  {
+    "key": "Farris2006",
+    "text": "Farris, Coreen and Viken, Richard J. and Treat, Teresa A. and McFall, Richard M. (2006). Heterosocial perceptual organization: Application of the choice model to sexual coercion. Psychological Science (0956-7976), 17, 869--875. https://doi.org/10.1111/j.1467-9280.2006.01796.x"
+  },
+  {
+    "key": "Hyndman2018",
+    "text": "Hyndman, Rob J and Athanasopoulos, George (2018). Forecasting: principles and practice.."
+  },
+  {
+    "key": "Tofallis2015",
+    "text": "Tofallis, Chris (2015). A better measure of relative prediction accuracy for model selection and model estimation. Journal of the Operational Research Society, 66, 1352--1362. https://doi.org/10.1057/jors.2014.103"
+  },
+  {
+    "key": "Morley2018",
+    "text": "Morley, S. K. and Brito, T. V. and Welling, D. T. (2018). Measures of model performance based on the log accuracy ratio. Space Weather, 16, 69--88. https://doi.org/10.1002/2017SW001669"
+  },
+  {
+    "key": "Harrell2015",
+    "text": "Harrell, Frank (2015). Regression modeling strategies: with applications to linear models, logistic and ordinal regression, and survival analysis.."
+  },
+  {
+    "key": "Lindhiem2020",
+    "text": "Lindhiem, Oliver and Petersen, Isaac T. and Mentch, Lucas K. and Youngstrom, Eric A. (2020). The importance of calibration in clinical psychology. Assessment, 27, 840--854. https://doi.org/10.1177/1073191117752055"
+  },
+  {
+    "key": "Charba1980",
+    "text": "Charba, Jerome P and Klein, William H (1980). Skill in precipitation forecasting in the National Weather Service. Bulletin of the American Meteorological Society, 61, 1546--1555. https://doi.org/10.1175/1520-0477(1980)061<1546:SIPFIT>2.0.CO;2"
+  },
+  {
+    "key": "Bickel2008",
+    "text": "Bickel, J Eric and Kim, Seong Dae (2008). Verification of The Weather Channel probability of precipitation forecasts. Monthly Weather Review, 136, 4867--4881. https://doi.org/10.1175/2008MWR2547.1"
+  },
+  {
+    "key": "Steyerberg2014",
+    "text": "Steyerberg, Ewout W. and Vergouwe, Yvonne (2014). Towards better clinical prediction models: seven steps for development and an ABCD for validation. European Heart Journal, 35, 1925--1931. https://doi.org/10.1093/eurheartj/ehu207"
+  },
+  {
+    "key": "Stevens2020",
+    "text": "Stevens, Richard J. and Poppe, Katrina K. (2020). Validation of clinical prediction models: what does the “calibration slope” really measure?. Journal of Clinical Epidemiology, 118, 93--99. https://doi.org/10.1016/j.jclinepi.2019.09.016"
+  },
+  {
+    "key": "Austin2014",
+    "text": "Austin, Peter C. and Steyerberg, Ewout W. (2014). Graphical assessment of internal and external calibration of logistic regression models by using loess smoothers. Statistics in Medicine, 33, 517--535. https://doi.org/10.1002/sim.5941"
+  },
+  {
+    "key": "Farrington1989",
+    "text": "Farrington, David P. and Loeber, Rolf (1989). Relative improvement over chance (RIOC) and phi as measures of predictive efficiency and strength of association in 2×2 tables. Journal of Quantitative Criminology, 5, 201--213. https://doi.org/10.1007/BF01062737"
+  },
+  {
+    "key": "Treat2023",
+    "text": "Treat, Teresa A. and Viken, Richard J. (2023). Measuring test performance with signal detection theory techniques. APA handbook of research methods in psychology: Foundations, planning, measures, and psychometrics, 1, 837--858."
+  },
+  {
+    "key": "Stanislaw1999",
+    "text": "Stanislaw, Harold and Todorov, Natasha (1999). Calculation of signal detection theory measures. Behavior Research Methods, Instruments, \\& Computers, 31, 137--149. https://doi.org/10.3758/bf03207704"
+  },
+  {
+    "key": "Zhang2005",
+    "text": "Zhang, Jun and Mueller, Shane T. (2005). A note on ROC analysis and non-parametric estimate of sensitivity. Psychometrika, 70, 203--212. https://doi.org/10.1007/s11336-003-1119-8"
+  },
+  {
+    "key": "Swets2000",
+    "text": "Swets, J.A. and Dawes, R.M. and Monahan, J. (2000). Psychological science can improve diagnostic decisions. Psychological Science in the Public Interest, 1, 1--26. https://doi.org/10.1111/1529-1006.001"
+  },
+  {
+    "key": "Somoza1989",
+    "text": "Somoza, Eugene and Soutullo-Esperon, Luis and Mossman, Douglas (1989). Evaluation and optimization of diagnostic tests using receiver operating characteristic analysis and information theory. International Journal of Bio-Medical Computing, 24, 153--189. https://doi.org/10.1016/0020-7101(89)90029-9"
+  },
+  {
+    "key": "Metz1973",
+    "text": "Metz, Charles E. and Goodenough, David J. and Rossmann, Kurt (1973). Evaluation of receiver operating characteristic curve data in terms of information theory, with applications in radiography. Radiology, 109, 297--303. https://doi.org/10.1148/109.2.297"
+  },
+  {
+    "key": "Kenny1979a",
+    "text": "Kenny, David A. (1979). Correlation and causality. New York: Wiley."
+  },
+  {
+    "key": "Tetlock2017",
+    "text": "Tetlock, Philip E. (2017). Expert political judgment: How good is it? How can we know? - New edition.."
+  },
+  {
+    "key": "Koehler2002",
+    "text": "Koehler, Derek J and Brenner, Lyle and Griffin, Dale (2002). The calibration of expert judgment: Heuristics and biases beyond the laboratory. Heuristics and biases: The psychology of intuitive judgment."
+  },
+  {
+    "key": "Oskamp1965",
+    "text": "Oskamp, Stuart (1965). Overconfidence in case-study judgments. Journal of Consulting Psychology, 29, 261--265. https://doi.org/10.1037/h0022125"
+  },
+  {
+    "key": "Skala2008",
+    "text": "Skala, Dorota (2008). Overconfidence in psychology and finance--an interdisciplinary literature review. Bank i Kredyt, 33--50."
+  },
+  {
+    "key": "Hough2016",
+    "text": "Hough, Susan Elizabeth (2016). Predicting the unpredictable: The tumultuous science of earthquake prediction.."
+  },
+  {
+    "key": "Makridakis2009",
+    "text": "Makridakis, Spyros and Hogarth, Robin M. and Gaba, Anil (2009). Forecasting and uncertainty in the economic and business world. International Journal of Forecasting, 25, 794--812. https://doi.org/10.1016/j.ijforecast.2009.05.012"
+  },
+  {
+    "key": "Russo1992",
+    "text": "Russo, J Edward and Schoemaker, Paul JH (1992). Managing overconfidence. Sloan management review, 33, 7."
+  },
+  {
+    "key": "Tversky1974",
+    "text": "Tversky, Amos and Kahneman, Daniel (1974). Judgment under Uncertainty: Heuristics and Biases. Science, 185, 1124--1131. https://doi.org/10.1126/science.185.4157.1124"
+  },
+  {
+    "key": "Hoch1985",
+    "text": "Hoch, Stephen J. (1985). Counterfactual reasoning and accuracy in predicting personal events. Journal of Experimental Psychology: Learning, Memory, and Cognition, 11, 719--731. https://doi.org/10.1037/0278-7393.11.1-4.719"
+  },
+  {
+    "key": "Koriat1980",
+    "text": "Koriat, Asher and Lichtenstein, Sarah and Fischhoff, Baruch (1980). Reasons for confidence. Journal of Experimental Psychology: Human Learning and Memory, 6, 107--118. https://doi.org/10.1037/0278-7393.6.2.107"
+  },
+  {
+    "key": "Eddy1982",
+    "text": "Eddy, David M. (1982). Probabilistic reasoning in clinical medicine: Problems and opportunities. Judgment Under Uncertainty: Heuristics and Biases, 249--267."
+  },
+  {
+    "key": "Murphy1984",
+    "text": "Murphy, Allan H. and Winkler, Robert L. (1984). Probability forecasting in meterology. Journal of the American Statistical Association, 79, 489--500. https://doi.org/10.2307/2288395"
+  },
+  {
+    "key": "Johnson2001",
+    "text": "Johnson, Johnnie E. V. and Bruce, Alistair C. (2001). Calibration of Subjective Probability Judgments in a Naturalistic Setting. Organizational Behavior and Human Decision Processes, 85, 265--290. https://doi.org/10.1006/obhd.2000.2949"
+  },
+  {
+    "key": "Keren1987",
+    "text": "Keren, Gideon (1987). Facing uncertainty in the game of bridge: A calibration study. Organizational Behavior and Human Decision Processes, 39, 98--114. https://doi.org/10.1016/0749-5978(87)90047-1"
+  },
+  {
+    "key": "Trafimow2025",
+    "text": "Trafimow, David and Hyman, Michael R. and Kostyk, Alena (2025). Enhancing predictive power by unamalgamating multi-item scales. Psychological Methods, 30, 1043--1055. https://doi.org/10.1037/met0000599"
+  },
+  {
+    "key": "Bolger2004",
+    "text": "Bolger, Fergus and Önkal-Atay, Dilek (2004). The effects of feedback on judgmental interval predictions. International Journal of Forecasting, 20, 29--39. https://doi.org/10.1016/S0169-2070(03)00009-8"
+  },
+  {
+    "key": "Atanasov2020",
+    "text": "Atanasov, Pavel and Witkowski, Jens and Ungar, Lyle and Mellers, Barbara and Tetlock, Philip (2020). Small steps to accuracy: Incremental belief updaters are better forecasters. Organizational Behavior and Human Decision Processes, 160, 19--35. https://doi.org/10.1016/j.obhdp.2020.02.001"
+  },
+  {
+    "key": "Steyerberg2010",
+    "text": "Steyerberg, Ewout W. and Vickers, Andrew J. and Cook, Nancy R. and Gerds, Thomas and Gonen, Mithat and Obuchowski, Nancy and Pencina, Michael J. and Kattan, Michael W. (2010). Assessing the performance of prediction models: A framework for traditional and novel measures. Epidemiology, 21, 128--138. https://doi.org/10.1097/EDE.0b013e3181c30fb2"
+  },
+  {
+    "key": "Berry2017",
+    "text": "Berry, Daniel and Willoughby, Michael T. (2017). On the practical interpretability of cross-lagged panel models: Rethinking a developmental workhorse. Child Development, 88, 1186--1206. https://doi.org/10.1111/cdev.12660"
+  },
+  {
+    "key": "Hamaker2015",
+    "text": "Hamaker, Ellen L. and Kuiper, Rebecca M. and Grasman, Raoul P. P. P. (2015). A critique of the cross-lagged panel model. Psychological Methods, 20, 102--116. https://doi.org/10.1037/a0038889"
+  },
+  {
+    "key": "Sobell2008a",
+    "text": "Sobell, Linda Carter and Sobell, Mark B. (2008). Timeline followback (TLFB). Handbook of psychiatric measures, 466--468."
+  },
+  {
+    "key": "Carpenter2016",
+    "text": "Carpenter, Ryan W. and Wycoff, Andrea M. and Trull, Timothy J. (2016). Ambulatory assessment: New adventures in characterizing dynamic processes. Assessment, 23, 414--424. https://doi.org/10.1177/1073191116632341"
+  },
+  {
+    "key": "Matthews2016",
+    "text": "Matthews, Mark and Abdullah, Saeed and Murnane, Elizabeth and Voida, Stephen and Choudhury, Tanzeem and Gay, Geri and Frank, Ellen (2016). Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder. Assessment, 23, 472--483. https://doi.org/10.1177/1073191116656794"
+  },
+  {
+    "key": "Moeller2015",
+    "text": "Moeller, Julia (2015). A word on standardization in longitudinal studies: don't. Frontiers in Psychology, 6, 1--4. https://doi.org/10.3389/fpsyg.2015.01389"
+  },
+  {
+    "key": "Hertzog2003",
+    "text": "Hertzog, Christopher and Nesselroade, John R. (2003). Assessing psychological change in adulthood: An overview of methodological issues. Psychology and Aging, 18, 639--657. https://doi.org/10.1037/0882-7974.18.4.639"
+  },
+  {
+    "key": "Rogosa1983",
+    "text": "Rogosa, David R. and Willett, John B. (1983). Demonstrating the Reliability of the Difference Score in the Measurement of Change. Journal of Educational Measurement, 20, 335--343. https://doi.org/10.1111/j.1745-3984.1983.tb00211.x"
+  },
+  {
+    "key": "Orth2021",
+    "text": "Orth, Ulrich and Clark, D. Angus and Donnellan, M. Brent and Robins, Richard W. (2021). Testing prospective effects in longitudinal research: Comparing seven competing cross-lagged models. Journal of Personality and Social Psychology, 120, 1013--1034. https://doi.org/10.1037/pspp0000358"
+  },
+  {
+    "key": "Evans2023",
+    "text": "Evans, Spencer C. and Shaughnessy, Shannon (2024). Emotion regulation as central to psychopathology across childhood and adolescence: a commentary on Nobakht et al. (2023). Journal of Child Psychology and Psychiatry, 65, 354--357. https://doi.org/10.1111/jcpp.13910"
+  },
+  {
+    "key": "Petersen2013a",
+    "text": "Petersen, Isaac T. and Bates, John E. and D’Onofrio, Brian M. and Coyne, Claire A. and Lansford, Jennifer E. and Dodge, Kenneth A. and Pettit, Gregory S. and Van Hulle, Carol A. (2013). Language ability predicts the development of behavior problems in children. Journal of Abnormal Psychology, 122, 542--557. https://doi.org/10.1037/a0031963"
+  },
+  {
+    "key": "PetersenLeBeau2021",
+    "text": "Petersen, Isaac T. and LeBeau, Brandon (2021). Language ability in the development of externalizing behavior problems in childhood. Journal of Educational Psychology, 113, 68--85. https://doi.org/10.1037/edu0000461"
+  },
+  {
+    "key": "Kievit2018",
+    "text": "Kievit, Rogier A. and Brandmaier, Andreas M. and Ziegler, Gabriel and van Harmelen, Anne-Laura and de Mooij, Susanne M. M. and Moutoussis, Michael and Goodyer, Ian and Bullmore, Ed and Jones, Peter B. and Fonagy, Peter and Lindenberger, Ulman and Dolan, Raymond J. (2018). Developmental cognitive neuroscience using latent change score models: A tutorial and applications. Developmental Cognitive Neuroscience, 33, 99--117. https://doi.org/10.1016/j.dcn.2017.11.007"
+  },
+  {
+    "key": "Fontaine2017",
+    "text": "Fontaine, Nathalie M. G. and Petersen, Isaac T. (2017). Developmental trajectories of psychopathology: An overview of approaches and applications. The Wiley handbook of developmental psychopathology, 5--28."
+  },
+  {
+    "key": "vanderNest2020",
+    "text": "van der Nest, Gavin and Lima Passos, Valéria and Candel, Math J. J. M. and van Breukelen, Gerard J. P. (2020). An overview of mixture modelling for latent evolutions in longitudinal data: Modelling approaches, fit statistics and software. Advances in Life Course Research, 43, 100323. https://doi.org/10.1016/j.alcr.2019.100323"
+  },
+  {
+    "key": "Moffitt2006",
+    "text": "Moffitt, Terrie E. (2006). Life-course-persistent versus adolescence-limited antisocial behavior. Developmental psychopathology, Vol 3: Risk, disorder, and adaptation (2nd ed.), 570--598."
+  },
+  {
+    "key": "Moffitt2006a",
+    "text": "Moffitt, Terrie E. (2006). A review of research on the taxonomy of life-course persistent versus adolescence-limited antisocial behavior. Taking stock: The status of criminological theory, 15, 277--312."
+  },
+  {
+    "key": "Wright2020",
+    "text": "Wright, Aidan G.C. and Woods, William C. (2020). Personalized Models of Psychopathology. Annual Review of Clinical Psychology, 16, 49--74. https://doi.org/10.1146/annurev-clinpsy-102419-125032"
+  },
+  {
+    "key": "Beltz2016",
+    "text": "Beltz, Adriene M. and Wright, Aidan G. C. and Sprague, Briana N. and Molenaar, Peter C. M. (2016). Bridging the nomothetic and idiographic approaches to the analysis of clinical data. Assessment, 23, 447--458. https://doi.org/10.1177/1073191116648209"
+  },
+  {
+    "key": "Schaie1965",
+    "text": "Schaie, K. Warner (1965). A general model for the study of developmental problems. Psychological Bulletin, 64, 92--107. https://doi.org/10.1037/h0022371"
+  },
+  {
+    "key": "Baltes1968",
+    "text": "Baltes, Paul B. (1968). Longitudinal and cross-sectional sequences in the study of age and generation effects. Human Development, 11, 145--171. http://www.jstor.org/stable/26761719"
+  },
+  {
+    "key": "Schaie1975",
+    "text": "Schaie, K. Warner and Baltes, P. B. (1975). On sequential strategies in developmental research. Human Development, 18, 384--390. https://doi.org/10.1159/000271498"
+  },
+  {
+    "key": "Schaie2005",
+    "text": "Schaie, K. Warner (2005). Developmental influences on adult intelligence: The Seattle Longitudinal Study.."
+  },
+  {
+    "key": "Masche2004",
+    "text": "Masche, J. Gowert and van Dulmen, Manfred H. M. (2004). Advances in disentangling age, cohort, and time effects: No quadrature of the circle, but a help. Developmental Review, 24, 322--342. https://doi.org/10.1016/j.dr.2004.04.002"
+  },
+  {
+    "key": "Whitbourne2019",
+    "text": "Whitbourne, Susan Krauss (2019). Longitudinal, cross-sectional, and sequential designs in lifespan developmental psychology.."
+  },
+  {
+    "key": "Yang2013",
+    "text": "Yang, Yang and Land, Kenneth C. (2013). Age-period-cohort analysis: New models, methods, and empirical applications.."
+  },
+  {
+    "key": "Rohrer2025",
+    "text": "Rohrer, Julia M. (2025). Thinking clearly about age, period, and cohort effects. Advances in Methods and Practices in Psychological Science, 8, 25152459251342750. https://doi.org/10.1177/25152459251342750"
+  },
+  {
+    "key": "Petersen2024b",
+    "text": "Petersen, Isaac T. (2024). Reexamining developmental continuity and discontinuity in the 21st century: Better aligning behaviors, functions, and mechanisms. Developmental Psychology, 60, 1992--2007. https://doi.org/10.1037/dev0001657"
+  },
+  {
+    "key": "Schulenberg2006",
+    "text": "Schulenberg, John E. and Zarrett, Nicole R. (2006). Mental health during emerging adulthood: Continuity and discontinuity in courses, causes, and functions. Emerging adults in America: Coming of age in the 21st century., 135--172."
+  },
+  {
+    "key": "Schulenberg2014",
+    "text": "Schulenberg, John E. and Patrick, Megan E. and Maslowsky, Julie and Maggs, Jennifer L. (2014). The epidemiology and etiology of adolescent substance use in developmental perspective. Handbook of Developmental Psychopathology, 601--620."
+  },
+  {
+    "key": "Kagan1969",
+    "text": "Kagan, Jerome (1969). The three faces of continuity in human development. Handbook of socialization theory and research, 983--1002."
+  },
+  {
+    "key": "Caspi2006a",
+    "text": "Caspi, Avshalom and Shiner, Rebecca L. (2006). Personality development. Handbook of child psychology, 3, 300--365."
+  },
+  {
+    "key": "Cicchetti2002",
+    "text": "Cicchetti, Dante and Rogosch, Fred A. (2002). A developmental psychopathology perspective on adolescence. Journal of Consulting and Clinical Psychology, 70, 6--20. https://doi.org/10.1037/0022-006X.70.1.6"
+  },
+  {
+    "key": "Arnett2012",
+    "text": "Arnett, Anne and Pennington, Bruce and Willcutt, Erik and Dmitrieva, Julia and Byrne, Brian and Samuelsson, Stefan and Olson, Richard (2012). A cross-lagged model of the development of ADHD inattention symptoms and rapid naming speed. Journal of Abnormal Child Psychology, 40, 1313--1326. https://doi.org/10.1007/s10802-012-9644-5"
+  },
+  {
+    "key": "Lubke2018",
+    "text": "Lubke, Gitta H. and McArtor, Daniel B. and Boomsma, Dorret I. and Bartels, Meike (2018). Genetic and environmental contributions to the development of childhood aggression. Developmental Psychology, 54, 39--50. https://doi.org/10.1037/dev0000403"
+  },
+  {
+    "key": "Weems2008",
+    "text": "Weems, Carl F. (2008). Developmental trajectories of childhood anxiety: Identifying continuity and change in anxious emotion. Developmental Review, 28, 488--502. https://doi.org/10.1016/j.dr.2008.01.001"
+  },
+  {
+    "key": "Weiss2003",
+    "text": "Weiss, Bahr and Garber, Judy (2003). Developmental differences in the phenomenology of depression. Development and Psychopathology, 15, 403--430. https://doi.org/10.1017/S0954579403000221"
+  },
+  {
+    "key": "Garber2010",
+    "text": "Garber, Judy and Weersing, V. Robin (2010). Comorbidity of anxiety and depression in youth: Implications for treatment and prevention. Clinical Psychology: Science and Practice, 17, 293--306. https://doi.org/10.1111/j.1468-2850.2010.01221.x"
+  },
+  {
+    "key": "Petersen2018a",
+    "text": "Petersen, Isaac T. and Lindhiem, Oliver and LeBeau, Brandon and Bates, John E. and Pettit, Gregory S. and Lansford, Jennifer E. and Dodge, Kenneth A. (2018). Development of internalizing problems from adolescence to emerging adulthood: Accounting for heterotypic continuity with vertical scaling. Developmental Psychology, 54, 586--599. https://doi.org/10.1037/dev0000449"
+  },
+  {
+    "key": "Petersen2021b",
+    "text": "Petersen, Isaac T. and Bates, John E. and McQuillan, Maureen E. and Hoyniak, Caroline P. and Staples, Angela D. and Rudasill, Kathleen M. and Molfese, Dennis L. and Molfese, Victoria J. (2021). Heterotypic continuity of inhibitory control in early childhood: Evidence from four widely used measures. Developmental Psychology, 57, 1755--1771. https://doi.org/10.1037/dev0001025"
+  },
+  {
+    "key": "Petersen2016b",
+    "text": "Petersen, Isaac T. and Hoyniak, Caroline P. and McQuillan, Maureen E. and Bates, John E. and Staples, Angela D. (2016). Measuring the development of inhibitory control: The challenge of heterotypic continuity. Developmental Review, 40, 25--71. https://doi.org/10.1016/j.dr.2016.02.001"
+  },
+  {
+    "key": "Schulenberg2009",
+    "text": "Schulenberg, John E. and Maslowsky, Julie (2009). Taking substance use and development seriously: Developmentally distal and proximal influences on adolescence drug use. Monographs of the Society for Research in Child Development, 74, 121--130. https://doi.org/10.1111/j.1540-5834.2009.00544.x"
+  },
+  {
+    "key": "Blumberg2013",
+    "text": "Blumberg, Mark S. (2013). Homology, correspondence, and continuity across development: The case of sleep. Developmental Psychobiology, 55, 92--100. https://doi.org/10.1002/dev.21024"
+  },
+  {
+    "key": "Putnam2008",
+    "text": "Putnam, Samuel P. and Rothbart, Mary Klevjord and Gartstein, Maria A. (2008). Homotypic and heterotypic continuity of fine-grained temperament during infancy, toddlerhood, and early childhood. Infant \\& Child Development, 17, 387--405. https://doi.org/10.1002/ICD.582"
+  },
+  {
+    "key": "Petscher2018",
+    "text": "Petscher, Yaacov and Justice, Laura M. and Hogan, Tiffany (2018). Modeling the early language trajectory of language development when the measures change and its relation to poor reading comprehension. Child Development, 89, 2136--2156. https://doi.org/10.1111/cdev.12880"
+  },
+  {
+    "key": "McArdle2011",
+    "text": "McArdle, John J. and Grimm, Kevin J. (2011). An empirical example of change analysis by linking longitudinal item response data from multiple tests. Statistical models for test equating, scaling, and linking, 71--88."
+  },
+  {
+    "key": "McArdle2009a",
+    "text": "McArdle, John J. and Grimm, Kevin J. and Hamagami, Fumiaki and Bowles, Ryan P. and Meredith, William (2009). Modeling life-span growth curves of cognition using longitudinal data with multiple samples and changing scales of measurement. Psychological Methods, 14, 126--149. https://doi.org/10.1037/a0015857"
+  },
+  {
+    "key": "Tong2007",
+    "text": "Tonnquist-Uhlen, I. and Borg, E. and Spens, K.E. (1995). Topography of auditory evoked long-latency potentials in normal children, with particular reference to the N1 component. Electroencephalography and Clinical Neurophysiology, 95, 34–41. https://doi.org/10.1080/08957340701301207"
+  },
+  {
+    "key": "Petersen2026b",
+    "text": "Petersen, Isaac T. and Demko, Zachary and Lee, Won-Chan and Oleson, Jacob J. (2026). Studying development of psychopathology using changing measures to account for heterotypic continuity. JAACAP Open, 4, 111--123. https://doi.org/10.1016/j.jaacop.2025.10.008"
+  },
+  {
+    "key": "Petersen2021",
+    "text": "Petersen, Isaac T. and LeBeau, Brandon and Choe, Daniel E. (2021). Creating a developmental scale to account for heterotypic continuity in development: A simulation study. Child Development, 92, e1--e19. https://doi.org/10.1111/cdev.13433"
+  },
+  {
+    "key": "Wang2013a",
+    "text": "Wang, Shudong and Jiao, Hong and Zhang, Liru (2013). Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach. International Journal of Quantitative Research in Education, 1, 383--407. https://doi.org/10.1504/IJQRE.2013.058307"
+  },
+  {
+    "key": "Weintraub2013",
+    "text": "Weintraub, Sandra and Bauer, Patricia J. and Zelazo, Philip David and Wallner-Allen, Kathleen and Dikmen, Sureyya S. and Heaton, Robert K. and Tulsky, David S. and Slotkin, Jerry and Blitz, David L. and Carlozzi, Noelle E. and Havlik, Richard J. and Beaumont, Jennifer L. and Mungas, Dan and Manly, Jennifer J. and Borosh, Beth G. and Nowinski, Cindy J. and Gershon, Richard C. (2013). I. NIH Toolbox Cognition Battery (CB): Introduction and pediatric data. Monographs of the Society for Research in Child Development, 78, 1--15. https://doi.org/10.1111/mono.12031"
+  },
+  {
+    "key": "Carlson2014",
+    "text": "Carlson, Stephanie M. and Zelazo, Philip D. (2014). Minnesota Executive Function Scale. Test manual.."
+  },
+  {
+    "key": "Rushton1983",
+    "text": "Rushton, J. Philippe and Brainerd, Charles J. and Pressley, Michael (1983). Behavioral development and construct validity: The principle of aggregation. Psychological Bulletin, 94, 18--38. https://doi.org/10.1037/0033-2909.94.1.18"
+  },
+  {
+    "key": "Shavelson1989",
+    "text": "Shavelson, R. J. and Webb, N. M. and Rawley, R. L. (1989). Generalizability theory. American Psychologist, 44, 922--932. https://doi.org/10.1037/0003-066X.44.6.922"
+  },
+  {
+    "key": "Webb2005",
+    "text": "Webb, Noreen M. and Shavelson, Richard J. (2005). Generalizability theory: Overview. Encyclopedia of Statistics in Behavioral Science, 2, 717--719."
+  },
+  {
+    "key": "Dumenci2024",
+    "text": "Dumenci, Levent (2024). Principles of psychological assessment, with applied examples in R. by Isaac T. Petersen, Chapman and Hall/CRC, 2024, ISBN: 9781032413068 https://www.routledge.com/Principles-of-psychological-assessment-with-applied-examples-in-R/Petersen/p/book/9781032413068. Biometrics, 80. https://doi.org/10.1093/biomtc/ujae133"
+  },
+  {
+    "key": "Huebner2019",
+    "text": "Huebner, Alan and Lucht, Marisa (2019). Generalizability theory in R. Practical Assessment, Research \\& Evaluation, 24, 2. https://doi.org/10.7275/5065-gc10"
+  },
+  {
+    "key": "Jiang2018a",
+    "text": "Jiang, Zhehan (2018). Using the linear mixed-effect model framework to estimate generalizability variance components in R. Methodology, 14, 133--142. https://doi.org/10.1027/1614-2241/a000149"
+  },
+  {
+    "key": "Brennan2001",
+    "text": "Brennan, Robert L. (2001). Generalizability theory.. https://books.google.com/books?id=nbHbBwAAQBAJ"
+  },
+  {
+    "key": "Buchanan2002",
+    "text": "Buchanan, Tom (2002). Online assessment: Desirable or dangerous?. Professional Psychology: Research and Practice, 33, 148--154. https://doi.org/10.1037/0735-7028.33.2.148"
+  },
+  {
+    "key": "GalatzerLevy2023",
+    "text": "Galatzer-Levy, Isaac R. and Onnela, Jukka-Pekka (2023). Machine learning and the digital measurement of psychological health. Annual Review of Clinical Psychology, 19, 133--154. https://doi.org/10.1146/annurev-clinpsy-080921-073212"
+  },
+  {
+    "key": "Garb2007",
+    "text": "Garb, Howard N. (2007). Computer-administered interviews and rating scales. Psychological Assessment, 19, 4--13. https://doi.org/10.1037/1040-3590.19.1.4"
+  },
+  {
+    "key": "Chandler2020",
+    "text": "Chandler, Jesse and Sisso, Itay and Shapiro, Danielle (2020). Participant carelessness and fraud: Consequences for clinical research and potential solutions. Journal of Abnormal Psychology, 129, 49--55. https://doi.org/10.1037/abn0000479"
+  },
+  {
+    "key": "Ruiz2002",
+    "text": "Ruiz, Mark A. and Drake, Evan B. and Glass, Aviva and Marcotte, David and van Gorp, Wilfred G. (2002). Trying to beat the system: Misuse of the internet to assist in avoiding the detection of psychological symptom dissimulation. Professional Psychology: Research and Practice, 33, 294--299. https://doi.org/10.1037/0735-7028.33.3.294"
+  },
+  {
+    "key": "LeeMeeuwKjoe2021",
+    "text": "Lee Meeuw Kjoe, Philippe R. and Agelink van Rentergem, Joost A. and Vermeulen, Ivar E. and Schagen, Sanne B. (2021). How to correct for computer experience in online cognitive testing?. Assessment, 28, 1247--1255. https://doi.org/10.1177/1073191120911098"
+  },
+  {
+    "key": "Granziol2022",
+    "text": "Granziol, Umberto and Brancaccio, Andrea and Pizziconi, Giulia and Spangaro, Marco and Gentili, Federica and Bosia, Marta and Gregori, Eleonora and Luperini, Chiara and Pavan, Chiara and Santarelli, Valeria and Cavallaro, Roberto and Cremonese, Carla and Favaro, Angela and Rossi, Alessandro and Vidotto, Giulio and Spoto, Andrea (2022). On the implementation of computerized adaptive observations for psychological assessment. Assessment, 29, 225--241. https://doi.org/10.1177/1073191120960215"
+  },
+  {
+    "key": "Forbey2007",
+    "text": "Forbey, Johnathan D. and Ben-Porath, Yossef S. (2007). Computerized adaptive personality testing: A review and illustration with the MMPI-2 computerized adaptive version. Psychological Assessment, 19, 14--24. https://doi.org/10.1037/1040-3590.19.1.14"
+  },
+  {
+    "key": "Gibbons2016",
+    "text": "Gibbons, Robert D. and Weiss, David J. and Frank, Ellen and Kupfer, David (2016). Computerized adaptive diagnosis and testing of mental health disorders. Annual Review of Clinical Psychology, 12, 83--104. https://doi.org/10.1146/annurev-clinpsy-021815-093634"
+  },
+  {
+    "key": "Smith2000",
+    "text": "Smith, Gregory T. and McCarthy, Denis M. and Anderson, Kristen G. (2000). On the sins of short-form development. Psychological Assessment, 12, 102--111. https://doi.org/10.1037/1040-3590.12.1.102"
+  },
+  {
+    "key": "Chalmers2016",
+    "text": "Chalmers, R. Philip (2016). Generating Adaptive and Non-Adaptive Test Interfaces for Multidimensional Item Response Theory Applications. 2016, 71, 38. https://doi.org/10.18637/jss.v071.i05"
+  },
+  {
+    "key": "Stanton2020",
+    "text": "Stanton, Kasey and McDonnell, Christina G. and Hayden, Elizabeth P. and Watson, David (2020). Transdiagnostic approaches to psychopathology measurement: Recommendations for measure selection, data analysis, and participant recruitment. Journal of Abnormal Psychology, 129, 21--28. https://doi.org/10.1037/abn0000464"
+  },
+  {
+    "key": "Kozak2016",
+    "text": "Kozak, Michael J. and Cuthbert, Bruce N. (2016). The NIMH research domain criteria initiative: Background, issues, and pragmatics. Psychophysiology, 53, 286--297. https://doi.org/10.1111/psyp.12518"
+  },
+  {
+    "key": "Miller2016",
+    "text": "Miller, Gregory A. and Rockstroh, Brigitte S. and Hamilton, Holly K. and Yee, Cindy M. (2016). Psychophysiology as a core strategy in RDoC. Psychophysiology, 53, 410--414. https://doi.org/10.1111/psyp.12581"
+  },
+  {
+    "key": "Conradt2021",
+    "text": "Conradt, Elisabeth and Crowell, Sheila E. and Cicchetti, Dante (2021). Using development and psychopathology principles to inform the Research Domain Criteria (RDoC) framework. Development and Psychopathology, 33, 1521--1525. https://doi.org/10.1017/S0954579421000985"
+  },
+  {
+    "key": "Durbin2022",
+    "text": "Durbin, C. Emily and Wilson, Sylia and MacDonald, Angus W., III (2022). Integrating development into the Research Domain Criteria (RDoC) framework: Introduction to the special section. Journal of Psychopathology and Clinical Science, 131, 535--541. https://doi.org/10.1037/abn0000767"
+  },
+  {
+    "key": "Lupien2017",
+    "text": "Lupien, S. J. and Sasseville, M. and François, N. and Giguère, C. E. and Boissonneault, J. and Plusquellec, P. and Godbout, R. and Xiong, L. and Potvin, S. and Kouassi, E. and Lesage, A. (2017). The DSM5/RDoC debate on the future of mental health research: implication for studies on human stress and presentation of the signature bank. Stress, 20, 2--18. https://doi.org/10.1080/10253890.2017.1286324"
+  },
+  {
+    "key": "Woody2015",
+    "text": "Woody, Mary L. and Gibb, Brandon E. (2015). Integrating NIMH Research Domain Criteria (RDoC) into depression research. Current Opinion in Psychology, 4, 6--12. https://doi.org/10.1016/j.copsyc.2015.01.004"
+  },
+  {
+    "key": "Miller2007",
+    "text": "Miller, Gregory A. and Elbert, Thomas and Sutton, Bradley P. and Heller, Wendy (2007). Innovative clinical assessment technologies: Challenges and opportunities in neuroimaging. Psychological Assessment, 19, 58--73. https://doi.org/10.1037/1040-3590.19.1.58"
+  },
+  {
+    "key": "Dubois2016",
+    "text": "Dubois, Julien and Adolphs, Ralph (2016). Building a science of individual differences from fMRI. Trends in Cognitive Sciences, 20, 425--443. https://doi.org/10.1016/j.tics.2016.03.014"
+  },
+  {
+    "key": "Calamia2019",
+    "text": "Calamia, Matthew (2019). Practical considerations for evaluating reliability in ambulatory assessment studies. Psychological Assessment, 31, 285--291. https://doi.org/10.1037/pas0000599"
+  },
+  {
+    "key": "Bennett2009",
+    "text": "Bennett, C. M. and Miller, M. B. and Wolford, G. L. (2009). Neural correlates of interspecies perspective taking in the post-mortem Atlantic Salmon: an argument for multiple comparisons correction. NeuroImage, 47, S125. https://doi.org/10.1016/S1053-8119(09)71202-9"
+  },
+  {
+    "key": "Bennett2010",
+    "text": "Bennett, C. M. and Miller, M. B. and Wolford, G. L. (2010). Neural correlates of interspecies perspective taking in the post-mortem Atlantic Salmon: an argument for multiple comparisons correction. Journal of Serendipitous and Unexpected Results, 1--5. https://teenspecies.github.io/pdfs/NeuralCorrelates.pdf"
+  },
+  {
+    "key": "Button2013",
+    "text": "Button, Katherine S. and Ioannidis, John P. A. and Mokrysz, Claire and Nosek, Brian A. and Flint, Jonathan and Robinson, Emma S. J. and Munafo, Marcus R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14, 365--376. https://doi.org/10.1038/nrn3475"
+  },
+  {
+    "key": "Button2013a",
+    "text": "Button, Katherine S. and Ioannidis, John P. A. and Mokrysz, Claire and Nosek, Brian A. and Flint, Jonathan and Robinson, Emma S. J. and Munafo, Marcus R. (2013). Confidence and precision increase with high statistical power. Nature Reviews Neuroscience, 14, 585--585. https://doi.org/10.1038/nrn3475-c4"
+  },
+  {
+    "key": "Haynes2007",
+    "text": "Haynes, Stephen N. and Yoshioka, Dawn T. (2007). Clinical assessment applications of ambulatory biosensors. Psychological Assessment, 19, 44--57. https://doi.org/10.1037/1040-3590.19.1.44"
+  },
+  {
+    "key": "Shiffman2008",
+    "text": "Shiffman, Saul and Stone, Arthur A. and Hufford, Michael R. (2008). Ecological momentary assessment. Annual Review of Clinical Psychology, 4, 1--32. https://doi.org/10.1146/annurev.clinpsy.3.022806.091415"
+  },
+  {
+    "key": "Trull2013",
+    "text": "Trull, Timothy J. and Ebner-Priemer, Ulrich (2013). Ambulatory assessment. Annual Review of Clinical Psychology, 9, 151--176. https://doi.org/10.1146/annurev-clinpsy-050212-185510"
+  },
+  {
+    "key": "Stone2023",
+    "text": "Stone, Arthur A. and Schneider, Stefan and Smyth, Joshua M. (2023). Evaluation of pressing issues in ecological momentary assessment. Annual Review of Clinical Psychology, 19, 107--131. https://doi.org/10.1146/annurev-clinpsy-080921-083128"
+  },
+  {
+    "key": "Himmelstein2019",
+    "text": "Himmelstein, Philip H. and Woods, William C. and Wright, Aidan G. C. (2019). A comparison of signal- and event-contingent ambulatory assessment of interpersonal behavior and affect in social situations. Psychological Assessment, 31, 952--960. https://doi.org/10.1037/pas0000718"
+  },
+  {
+    "key": "Wright2019c",
+    "text": "Wright, Aidan G. C. and Zimmermann, Johannes (2019). Applied ambulatory assessment: Integrating idiographic and nomothetic principles of measurement. Psychological Assessment, 31, 1467--1480. https://doi.org/10.1037/pas0000685"
+  },
+  {
+    "key": "Staples2019",
+    "text": "Staples, Angela D. and Bates, John E. and Petersen, Isaac T. and McQuillan, Maureen E. and Hoyniak, Caroline (2019). Measuring sleep in young children and their mothers: Identifying actigraphic sleep composites. International Journal of Behavioral Development, 43, 278--285. https://doi.org/10.1177/0165025419830236"
+  },
+  {
+    "key": "Holmlund2019",
+    "text": "Holmlund, Terje B. and Foltz, Peter W. and Cohen, Alex S. and Johansen, Håvard D. and Sigurdsen, Randi and Fugelli, Pål and Bergsager, Dagfinn and Cheng, Jian and Bernstein, Jared and Rosenfeld, Elizabeth and Elvevåg, Brita (2019). Moving psychological assessment out of the controlled laboratory setting: Practical challenges. Psychological Assessment, 31, 292--303. https://doi.org/10.1037/pas0000647"
+  },
+  {
+    "key": "Raugh2019",
+    "text": "Raugh, Ian M. and Chapman, Hannah C. and Bartolomeo, Lisa A. and Gonzalez, Cristina and Strauss, Gregory P. (2019). A comprehensive review of psychophysiological applications for ecological momentary assessment in psychiatric populations. Psychological Assessment, 31, 304--317. https://doi.org/10.1037/pas0000651"
+  },
+  {
+    "key": "Roberts2019",
+    "text": "Roberts, Adam C. and Yeap, You Win and Seah, Hock Soon and Chan, Elliot and Soh, Chee-Kiong and Christopoulos, George I. (2019). Assessing the suitability of virtual reality for psychological testing. Psychological Assessment, 31, 318--328. https://doi.org/10.1037/pas0000663"
+  },
+  {
+    "key": "Patrick2019",
+    "text": "Patrick, Christopher J. and Iacono, William G. and Venables, Noah C. (2019). Incorporating neurophysiological measures into clinical assessments: Fundamental challenges and a strategy for addressing them. Psychological Assessment, 31, 952--960. https://doi.org/10.1037/pas0000713"
+  },
+  {
+    "key": "Trull2020",
+    "text": "Trull, Timothy J. and Ebner-Priemer, Ulrich W. (2020). Ambulatory assessment in psychopathology research: A review of recommended reporting guidelines and current practices. Journal of Abnormal Psychology, 129, 56--63. https://doi.org/10.1037/abn0000473"
+  }
+]

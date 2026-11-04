@@ -16,13 +16,13 @@ The supplied curriculum is a coverage map rather than an exhaustive syllabus. Ea
 
 ## Book Register
 
-Production follows the order below. CAC.901 is complete in `deliverables/CAC-901-advanced-developmental-psychology.pdf`, and CAC.902 is complete in `deliverables/CAC-902-theories-of-counseling-and-psychotherapy.pdf`; both have passed the individual-PDF verification checks. The other 30 filenames identify future deliverables, not completed files.
+Production follows the order below. CAC.901 is complete in `deliverables/CAC-901-advanced-developmental-psychology.pdf`, CAC.902 is complete in `deliverables/CAC-902-theories-of-counseling-and-psychotherapy.pdf`, and CAC.903 is complete in `deliverables/CAC-903-child-and-adolescent-assessment-techniques.pdf`; all three have passed the individual-PDF verification checks. The other 29 filenames identify future deliverables, not completed files.
 
 | Order | Group | Course Code | Exact Course Title | Planned PDF Filename | Minimum Words | Status |
 | --- | --- | --- | --- | --- | ---: | --- |
 | 1 | Year 1 core | CAC.901 | Advanced Developmental Psychology | CAC-901-advanced-developmental-psychology.pdf | 150,000 | Complete — 153,737 conservative body-prose words verified |
 | 2 | Year 1 core | CAC.902 | Theories of Counseling and Psychotherapy | CAC-902-theories-of-counseling-and-psychotherapy.pdf | 150,000 | Complete — 245,750 conservative body-prose words verified |
-| 3 | Year 1 core | CAC.903 | Child and Adolescent Assessment Techniques | CAC-903-child-and-adolescent-assessment-techniques.pdf | 150,000 | Not started |
+| 3 | Year 1 core | CAC.903 | Child and Adolescent Assessment Techniques | CAC-903-child-and-adolescent-assessment-techniques.pdf | 150,000 | Complete — 170,150 conservative body-prose words verified |
 | 4 | Year 1 core | CAC.904 | Ethics in Counseling Children and Adolescents | CAC-904-ethics-in-counseling-children-and-adolescents.pdf | 150,000 | Not started |
 | 5 | Year 1 core | CAC.905 | Cultural Competence in Counseling | CAC-905-cultural-competence-in-counseling.pdf | 150,000 | Not started |
 | 6 | Year 1 core | CAC.906 | Trauma-Informed Care Practices | CAC-906-trauma-informed-care-practices.pdf | 150,000 | Not started |
@@ -125,4 +125,6 @@ Curriculum saved; PDF-only format confirmed; 32-book structure confirmed. **CAC.
 
 **CAC.902 — Theories of Counseling and Psychotherapy is complete:** 522 pages, 20 lecture chapters, 20 original vector diagrams, 20 applied workbook exercises, and 245,750 conservative body-prose words verified from the delivered PDF. The broader instructional-text count is 252,080 words; references, front matter, running headers, and page numbers are excluded from both counts. The conservative count also excludes sans-serif notes, tables, headings, captions, URLs, and diagram labels. The PDF includes newly written course material and clearly attributed adaptations of CC-BY-4.0 open educational readings; it is not represented as an entirely original textbook or an independently peer-reviewed clinical guideline. The verification record is `books/CAC-902/verification-report.json`.
 
-The next book is **CAC.903 — Child and Adolescent Assessment Techniques**. The remaining 30 books have not yet been produced.
+**CAC.903 — Child and Adolescent Assessment Techniques is complete:** 445 pages, 20 lecture chapters, 20 original vector diagrams, 20 applied workbook exercises, a 20-case clinical casebook, and 170,150 conservative body-prose words verified from the delivered PDF. The broader instructional-text count is 177,603 words; references, front matter, running headers, and page numbers are excluded from both counts. The conservative count also excludes sans-serif notes, tables, headings, captions, URLs, and diagram labels. The PDF includes newly written course material and clearly attributed adaptations of CC-BY-4.0 open educational readings from Petersen and OpenStax; it is not represented as an entirely original textbook or an independently peer-reviewed clinical guideline. The verification record is `books/CAC-903/verification-report.json`.
+
+The next book is **CAC.904 — Ethics in Counseling Children and Adolescents**. The remaining 29 books have not yet been produced.

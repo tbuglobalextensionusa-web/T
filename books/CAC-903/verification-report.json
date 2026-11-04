@@ -1,0 +1,1909 @@
+{
+  "status": "PASS",
+  "course_code": "CAC.903",
+  "course_title": "Child and Adolescent Assessment Techniques",
+  "pdf": "deliverables/CAC-903-child-and-adolescent-assessment-techniques.pdf",
+  "pdf_bytes": 1304108,
+  "sha256": "accd1fd178aa5cf051f8407fa19a6b811a67e50aa491d39f8a88279ad1ceb013",
+  "page_count": 445,
+  "minimum_required_words": 150000,
+  "conservative_serif_prose_words": 170150,
+  "instructional_words_including_notes_tables_headings": 177603,
+  "count_range_pages": [
+    4,
+    414
+  ],
+  "count_method": "Lexical words containing at least one letter; contractions and hyphenated words count once; pure numbers excluded. Count extracted text from the actual delivered PDF. Front matter, contents, references, attribution register, running headers and footers are outside the counted page range. The conservative measure further restricts to serif body-prose spans, excluding sans-serif notes, tables, headings, captions, URLs and diagram labels.",
+  "references_excluded": true,
+  "lecture_chapters": 20,
+  "original_vector_diagrams": 20,
+  "figure_pages": [
+    {
+      "chapter": 1,
+      "page": 6,
+      "title": "Assessment as a decision loop"
+    },
+    {
+      "chapter": 2,
+      "page": 28,
+      "title": "Ethical assessment container"
+    },
+    {
+      "chapter": 3,
+      "page": 38,
+      "title": "Cultural formulation questions"
+    },
+    {
+      "chapter": 4,
+      "page": 58,
+      "title": "From construct to indicator"
+    },
+    {
+      "chapter": 5,
+      "page": 65,
+      "title": "Score interpretation ladder"
+    },
+    {
+      "chapter": 6,
+      "page": 73,
+      "title": "Observed score, true score, and error"
+    },
+    {
+      "chapter": 7,
+      "page": 116,
+      "title": "Validity evidence"
+    },
+    {
+      "chapter": 8,
+      "page": 147,
+      "title": "Fairness safeguards"
+    },
+    {
+      "chapter": 9,
+      "page": 188,
+      "title": "Interview layers"
+    },
+    {
+      "chapter": 10,
+      "page": 213,
+      "title": "ABC functional assessment"
+    },
+    {
+      "chapter": 11,
+      "page": 223,
+      "title": "Cognitive demand match"
+    },
+    {
+      "chapter": 12,
+      "page": 233,
+      "title": "Intellectual and adaptive assessment"
+    },
+    {
+      "chapter": 13,
+      "page": 261,
+      "title": "Multi-informant symptom assessment"
+    },
+    {
+      "chapter": 14,
+      "page": 277,
+      "title": "Expressive methods guardrails"
+    },
+    {
+      "chapter": 15,
+      "page": 288,
+      "title": "Judgment and structure"
+    },
+    {
+      "chapter": 16,
+      "page": 303,
+      "title": "Screening errors"
+    },
+    {
+      "chapter": 17,
+      "page": 352,
+      "title": "Progress monitoring loop"
+    },
+    {
+      "chapter": 18,
+      "page": 376,
+      "title": "Digital assessment safeguards"
+    },
+    {
+      "chapter": 19,
+      "page": 403,
+      "title": "Report to action"
+    },
+    {
+      "chapter": 20,
+      "page": 405,
+      "title": "Integrated assessment"
+    }
+  ],
+  "workbook_exercises": 20,
+  "chapter_bookmarks": 20,
+  "total_bookmarks": 45,
+  "empty_pages": [],
+  "text_outside_page_bounds": [],
+  "text_outside_body_frame": [],
+  "source_reading_blocks": 28,
+  "source_license": "CC BY 4.0 (Petersen and OpenStax); attribution and changes recorded in the PDF",
+  "editorial_limitations": "Complete educational course volume, not an official university publication or current clinical guideline. Includes newly written counseling material and attributed adaptations of CC BY open educational texts, including general psychological assessment science. No independent clinical peer review is claimed.",
+  "chapter_pages": {
+    "ch01": 4,
+    "ch01-reading": 7,
+    "ch02": 26,
+    "ch02-reading": 28,
+    "ch03": 36,
+    "ch03-reading": 38,
+    "ch04": 57,
+    "ch04-reading": 59,
+    "ch05": 64,
+    "ch05-reading": 66,
+    "ch06": 72,
+    "ch06-reading": 74,
+    "ch07": 115,
+    "ch07-reading": 117,
+    "ch08": 146,
+    "ch08-reading": 148,
+    "ch09": 187,
+    "ch09-reading": 189,
+    "ch10": 212,
+    "ch10-reading": 214,
+    "ch11": 222,
+    "ch11-reading": 223,
+    "ch12": 232,
+    "ch12-reading": 233,
+    "ch13": 260,
+    "ch13-reading": 261,
+    "ch14": 276,
+    "ch14-reading": 277,
+    "ch15": 287,
+    "ch15-reading": 288,
+    "ch16": 302,
+    "ch16-reading": 303,
+    "ch17": 351,
+    "ch17-reading": 352,
+    "ch18": 375,
+    "ch18-reading": 376,
+    "ch19": 402,
+    "ch20": 404
+  },
+  "section_pages": {
+    "front-how": 2,
+    "front-toc": 3,
+    "ch01": 4,
+    "ch01_start": 4,
+    "ch01_diagram": 6,
+    "ch01-reading": 7,
+    "ch02": 26,
+    "ch02_start": 26,
+    "ch02_diagram": 28,
+    "ch02-reading": 28,
+    "ch03": 36,
+    "ch03_start": 36,
+    "ch03_diagram": 38,
+    "ch03-reading": 38,
+    "ch04": 57,
+    "ch04_start": 57,
+    "ch04_diagram": 58,
+    "ch04-reading": 59,
+    "ch05": 64,
+    "ch05_start": 64,
+    "ch05_diagram": 65,
+    "ch05-reading": 66,
+    "ch06": 72,
+    "ch06_start": 72,
+    "ch06_diagram": 73,
+    "ch06-reading": 74,
+    "ch07": 115,
+    "ch07_start": 115,
+    "ch07_diagram": 116,
+    "ch07-reading": 117,
+    "ch08": 146,
+    "ch08_start": 146,
+    "ch08_diagram": 147,
+    "ch08-reading": 148,
+    "ch09": 187,
+    "ch09_start": 187,
+    "ch09_diagram": 188,
+    "ch09-reading": 189,
+    "ch10": 212,
+    "ch10_start": 212,
+    "ch10_diagram": 213,
+    "ch10-reading": 214,
+    "ch11": 222,
+    "ch11_start": 222,
+    "ch11_diagram": 223,
+    "ch11-reading": 223,
+    "ch12": 232,
+    "ch12_start": 232,
+    "ch12_diagram": 233,
+    "ch12-reading": 233,
+    "ch13": 260,
+    "ch13_start": 260,
+    "ch13_diagram": 261,
+    "ch13-reading": 261,
+    "ch14": 276,
+    "ch14_start": 276,
+    "ch14_diagram": 277,
+    "ch14-reading": 277,
+    "ch15": 287,
+    "ch15_start": 287,
+    "ch15_diagram": 288,
+    "ch15-reading": 288,
+    "ch16": 302,
+    "ch16_start": 302,
+    "ch16_diagram": 303,
+    "ch16-reading": 303,
+    "ch17": 351,
+    "ch17_start": 351,
+    "ch17_diagram": 352,
+    "ch17-reading": 352,
+    "ch18": 375,
+    "ch18_start": 375,
+    "ch18_diagram": 376,
+    "ch18-reading": 376,
+    "ch19": 402,
+    "ch19_start": 402,
+    "ch19_diagram": 403,
+    "ch20": 404,
+    "ch20_start": 404,
+    "ch20_diagram": 405,
+    "glossary": 406,
+    "glossary_start": 406,
+    "workbook": 408,
+    "workbook_start": 408,
+    "casebook": 411,
+    "casebook_start": 411,
+    "references": 415,
+    "references_start": 415,
+    "attribution": 440,
+    "attribution_start": 440
+  },
+  "page_word_counts": [
+    {
+      "page": 4,
+      "words": 506
+    },
+    {
+      "page": 5,
+      "words": 456
+    },
+    {
+      "page": 6,
+      "words": 251
+    },
+    {
+      "page": 7,
+      "words": 419
+    },
+    {
+      "page": 8,
+      "words": 349
+    },
+    {
+      "page": 9,
+      "words": 489
+    },
+    {
+      "page": 10,
+      "words": 499
+    },
+    {
+      "page": 11,
+      "words": 488
+    },
+    {
+      "page": 12,
+      "words": 339
+    },
+    {
+      "page": 13,
+      "words": 463
+    },
+    {
+      "page": 14,
+      "words": 492
+    },
+    {
+      "page": 15,
+      "words": 555
+    },
+    {
+      "page": 16,
+      "words": 565
+    },
+    {
+      "page": 17,
+      "words": 390
+    },
+    {
+      "page": 18,
+      "words": 432
+    },
+    {
+      "page": 19,
+      "words": 434
+    },
+    {
+      "page": 20,
+      "words": 418
+    },
+    {
+      "page": 21,
+      "words": 499
+    },
+    {
+      "page": 22,
+      "words": 491
+    },
+    {
+      "page": 23,
+      "words": 569
+    },
+    {
+      "page": 24,
+      "words": 415
+    },
+    {
+      "page": 25,
+      "words": 78
+    },
+    {
+      "page": 26,
+      "words": 466
+    },
+    {
+      "page": 27,
+      "words": 447
+    },
+    {
+      "page": 28,
+      "words": 259
+    },
+    {
+      "page": 29,
+      "words": 336
+    },
+    {
+      "page": 30,
+      "words": 508
+    },
+    {
+      "page": 31,
+      "words": 484
+    },
+    {
+      "page": 32,
+      "words": 406
+    },
+    {
+      "page": 33,
+      "words": 439
+    },
+    {
+      "page": 34,
+      "words": 579
+    },
+    {
+      "page": 35,
+      "words": 199
+    },
+    {
+      "page": 36,
+      "words": 443
+    },
+    {
+      "page": 37,
+      "words": 368
+    },
+    {
+      "page": 38,
+      "words": 281
+    },
+    {
+      "page": 39,
+      "words": 457
+    },
+    {
+      "page": 40,
+      "words": 542
+    },
+    {
+      "page": 41,
+      "words": 309
+    },
+    {
+      "page": 42,
+      "words": 366
+    },
+    {
+      "page": 43,
+      "words": 559
+    },
+    {
+      "page": 44,
+      "words": 532
+    },
+    {
+      "page": 45,
+      "words": 539
+    },
+    {
+      "page": 46,
+      "words": 342
+    },
+    {
+      "page": 47,
+      "words": 425
+    },
+    {
+      "page": 48,
+      "words": 309
+    },
+    {
+      "page": 49,
+      "words": 529
+    },
+    {
+      "page": 50,
+      "words": 466
+    },
+    {
+      "page": 51,
+      "words": 513
+    },
+    {
+      "page": 52,
+      "words": 464
+    },
+    {
+      "page": 53,
+      "words": 400
+    },
+    {
+      "page": 54,
+      "words": 543
+    },
+    {
+      "page": 55,
+      "words": 497
+    },
+    {
+      "page": 56,
+      "words": 367
+    },
+    {
+      "page": 57,
+      "words": 428
+    },
+    {
+      "page": 58,
+      "words": 228
+    },
+    {
+      "page": 59,
+      "words": 445
+    },
+    {
+      "page": 60,
+      "words": 520
+    },
+    {
+      "page": 61,
+      "words": 548
+    },
+    {
+      "page": 62,
+      "words": 446
+    },
+    {
+      "page": 63,
+      "words": 400
+    },
+    {
+      "page": 64,
+      "words": 408
+    },
+    {
+      "page": 65,
+      "words": 259
+    },
+    {
+      "page": 66,
+      "words": 305
+    },
+    {
+      "page": 67,
+      "words": 512
+    },
+    {
+      "page": 68,
+      "words": 512
+    },
+    {
+      "page": 69,
+      "words": 473
+    },
+    {
+      "page": 70,
+      "words": 376
+    },
+    {
+      "page": 71,
+      "words": 125
+    },
+    {
+      "page": 72,
+      "words": 407
+    },
+    {
+      "page": 73,
+      "words": 230
+    },
+    {
+      "page": 74,
+      "words": 481
+    },
+    {
+      "page": 75,
+      "words": 562
+    },
+    {
+      "page": 76,
+      "words": 473
+    },
+    {
+      "page": 77,
+      "words": 523
+    },
+    {
+      "page": 78,
+      "words": 423
+    },
+    {
+      "page": 79,
+      "words": 394
+    },
+    {
+      "page": 80,
+      "words": 454
+    },
+    {
+      "page": 81,
+      "words": 480
+    },
+    {
+      "page": 82,
+      "words": 503
+    },
+    {
+      "page": 83,
+      "words": 495
+    },
+    {
+      "page": 84,
+      "words": 483
+    },
+    {
+      "page": 85,
+      "words": 587
+    },
+    {
+      "page": 86,
+      "words": 187
+    },
+    {
+      "page": 87,
+      "words": 567
+    },
+    {
+      "page": 88,
+      "words": 421
+    },
+    {
+      "page": 89,
+      "words": 556
+    },
+    {
+      "page": 90,
+      "words": 435
+    },
+    {
+      "page": 91,
+      "words": 462
+    },
+    {
+      "page": 92,
+      "words": 466
+    },
+    {
+      "page": 93,
+      "words": 453
+    },
+    {
+      "page": 94,
+      "words": 394
+    },
+    {
+      "page": 95,
+      "words": 364
+    },
+    {
+      "page": 96,
+      "words": 490
+    },
+    {
+      "page": 97,
+      "words": 463
+    },
+    {
+      "page": 98,
+      "words": 429
+    },
+    {
+      "page": 99,
+      "words": 512
+    },
+    {
+      "page": 100,
+      "words": 358
+    },
+    {
+      "page": 101,
+      "words": 320
+    },
+    {
+      "page": 102,
+      "words": 456
+    },
+    {
+      "page": 103,
+      "words": 439
+    },
+    {
+      "page": 104,
+      "words": 426
+    },
+    {
+      "page": 105,
+      "words": 361
+    },
+    {
+      "page": 106,
+      "words": 514
+    },
+    {
+      "page": 107,
+      "words": 564
+    },
+    {
+      "page": 108,
+      "words": 417
+    },
+    {
+      "page": 109,
+      "words": 395
+    },
+    {
+      "page": 110,
+      "words": 450
+    },
+    {
+      "page": 111,
+      "words": 450
+    },
+    {
+      "page": 112,
+      "words": 509
+    },
+    {
+      "page": 113,
+      "words": 531
+    },
+    {
+      "page": 114,
+      "words": 63
+    },
+    {
+      "page": 115,
+      "words": 395
+    },
+    {
+      "page": 116,
+      "words": 191
+    },
+    {
+      "page": 117,
+      "words": 462
+    },
+    {
+      "page": 118,
+      "words": 135
+    },
+    {
+      "page": 119,
+      "words": 226
+    },
+    {
+      "page": 120,
+      "words": 569
+    },
+    {
+      "page": 121,
+      "words": 497
+    },
+    {
+      "page": 122,
+      "words": 552
+    },
+    {
+      "page": 123,
+      "words": 531
+    },
+    {
+      "page": 124,
+      "words": 594
+    },
+    {
+      "page": 125,
+      "words": 558
+    },
+    {
+      "page": 126,
+      "words": 458
+    },
+    {
+      "page": 127,
+      "words": 531
+    },
+    {
+      "page": 128,
+      "words": 402
+    },
+    {
+      "page": 129,
+      "words": 534
+    },
+    {
+      "page": 130,
+      "words": 427
+    },
+    {
+      "page": 131,
+      "words": 552
+    },
+    {
+      "page": 132,
+      "words": 528
+    },
+    {
+      "page": 133,
+      "words": 560
+    },
+    {
+      "page": 134,
+      "words": 467
+    },
+    {
+      "page": 135,
+      "words": 482
+    },
+    {
+      "page": 136,
+      "words": 576
+    },
+    {
+      "page": 137,
+      "words": 394
+    },
+    {
+      "page": 138,
+      "words": 396
+    },
+    {
+      "page": 139,
+      "words": 516
+    },
+    {
+      "page": 140,
+      "words": 503
+    },
+    {
+      "page": 141,
+      "words": 393
+    },
+    {
+      "page": 142,
+      "words": 375
+    },
+    {
+      "page": 143,
+      "words": 394
+    },
+    {
+      "page": 144,
+      "words": 460
+    },
+    {
+      "page": 145,
+      "words": 461
+    },
+    {
+      "page": 146,
+      "words": 363
+    },
+    {
+      "page": 147,
+      "words": 176
+    },
+    {
+      "page": 148,
+      "words": 514
+    },
+    {
+      "page": 149,
+      "words": 498
+    },
+    {
+      "page": 150,
+      "words": 499
+    },
+    {
+      "page": 151,
+      "words": 536
+    },
+    {
+      "page": 152,
+      "words": 396
+    },
+    {
+      "page": 153,
+      "words": 443
+    },
+    {
+      "page": 154,
+      "words": 485
+    },
+    {
+      "page": 155,
+      "words": 537
+    },
+    {
+      "page": 156,
+      "words": 499
+    },
+    {
+      "page": 157,
+      "words": 513
+    },
+    {
+      "page": 158,
+      "words": 592
+    },
+    {
+      "page": 159,
+      "words": 543
+    },
+    {
+      "page": 160,
+      "words": 445
+    },
+    {
+      "page": 161,
+      "words": 539
+    },
+    {
+      "page": 162,
+      "words": 564
+    },
+    {
+      "page": 163,
+      "words": 478
+    },
+    {
+      "page": 164,
+      "words": 460
+    },
+    {
+      "page": 165,
+      "words": 448
+    },
+    {
+      "page": 166,
+      "words": 487
+    },
+    {
+      "page": 167,
+      "words": 390
+    },
+    {
+      "page": 168,
+      "words": 468
+    },
+    {
+      "page": 169,
+      "words": 374
+    },
+    {
+      "page": 170,
+      "words": 428
+    },
+    {
+      "page": 171,
+      "words": 488
+    },
+    {
+      "page": 172,
+      "words": 468
+    },
+    {
+      "page": 173,
+      "words": 486
+    },
+    {
+      "page": 174,
+      "words": 510
+    },
+    {
+      "page": 175,
+      "words": 210
+    },
+    {
+      "page": 176,
+      "words": 414
+    },
+    {
+      "page": 177,
+      "words": 444
+    },
+    {
+      "page": 178,
+      "words": 384
+    },
+    {
+      "page": 179,
+      "words": 386
+    },
+    {
+      "page": 180,
+      "words": 377
+    },
+    {
+      "page": 181,
+      "words": 349
+    },
+    {
+      "page": 182,
+      "words": 428
+    },
+    {
+      "page": 183,
+      "words": 490
+    },
+    {
+      "page": 184,
+      "words": 445
+    },
+    {
+      "page": 185,
+      "words": 594
+    },
+    {
+      "page": 186,
+      "words": 81
+    },
+    {
+      "page": 187,
+      "words": 360
+    },
+    {
+      "page": 188,
+      "words": 196
+    },
+    {
+      "page": 189,
+      "words": 509
+    },
+    {
+      "page": 190,
+      "words": 536
+    },
+    {
+      "page": 191,
+      "words": 503
+    },
+    {
+      "page": 192,
+      "words": 524
+    },
+    {
+      "page": 193,
+      "words": 333
+    },
+    {
+      "page": 194,
+      "words": 337
+    },
+    {
+      "page": 195,
+      "words": 591
+    },
+    {
+      "page": 196,
+      "words": 554
+    },
+    {
+      "page": 197,
+      "words": 560
+    },
+    {
+      "page": 198,
+      "words": 435
+    },
+    {
+      "page": 199,
+      "words": 488
+    },
+    {
+      "page": 200,
+      "words": 543
+    },
+    {
+      "page": 201,
+      "words": 390
+    },
+    {
+      "page": 202,
+      "words": 569
+    },
+    {
+      "page": 203,
+      "words": 367
+    },
+    {
+      "page": 204,
+      "words": 333
+    },
+    {
+      "page": 205,
+      "words": 516
+    },
+    {
+      "page": 206,
+      "words": 577
+    },
+    {
+      "page": 207,
+      "words": 549
+    },
+    {
+      "page": 208,
+      "words": 337
+    },
+    {
+      "page": 209,
+      "words": 544
+    },
+    {
+      "page": 210,
+      "words": 418
+    },
+    {
+      "page": 211,
+      "words": 265
+    },
+    {
+      "page": 212,
+      "words": 380
+    },
+    {
+      "page": 213,
+      "words": 171
+    },
+    {
+      "page": 214,
+      "words": 422
+    },
+    {
+      "page": 215,
+      "words": 371
+    },
+    {
+      "page": 216,
+      "words": 471
+    },
+    {
+      "page": 217,
+      "words": 434
+    },
+    {
+      "page": 218,
+      "words": 552
+    },
+    {
+      "page": 219,
+      "words": 530
+    },
+    {
+      "page": 220,
+      "words": 529
+    },
+    {
+      "page": 221,
+      "words": 328
+    },
+    {
+      "page": 222,
+      "words": 369
+    },
+    {
+      "page": 223,
+      "words": 291
+    },
+    {
+      "page": 224,
+      "words": 423
+    },
+    {
+      "page": 225,
+      "words": 447
+    },
+    {
+      "page": 226,
+      "words": 295
+    },
+    {
+      "page": 227,
+      "words": 350
+    },
+    {
+      "page": 228,
+      "words": 455
+    },
+    {
+      "page": 229,
+      "words": 491
+    },
+    {
+      "page": 230,
+      "words": 505
+    },
+    {
+      "page": 231,
+      "words": 339
+    },
+    {
+      "page": 232,
+      "words": 363
+    },
+    {
+      "page": 233,
+      "words": 172
+    },
+    {
+      "page": 234,
+      "words": 421
+    },
+    {
+      "page": 235,
+      "words": 427
+    },
+    {
+      "page": 236,
+      "words": 503
+    },
+    {
+      "page": 237,
+      "words": 496
+    },
+    {
+      "page": 238,
+      "words": 368
+    },
+    {
+      "page": 239,
+      "words": 427
+    },
+    {
+      "page": 240,
+      "words": 385
+    },
+    {
+      "page": 241,
+      "words": 482
+    },
+    {
+      "page": 242,
+      "words": 626
+    },
+    {
+      "page": 243,
+      "words": 434
+    },
+    {
+      "page": 244,
+      "words": 499
+    },
+    {
+      "page": 245,
+      "words": 525
+    },
+    {
+      "page": 246,
+      "words": 494
+    },
+    {
+      "page": 247,
+      "words": 432
+    },
+    {
+      "page": 248,
+      "words": 297
+    },
+    {
+      "page": 249,
+      "words": 583
+    },
+    {
+      "page": 250,
+      "words": 567
+    },
+    {
+      "page": 251,
+      "words": 601
+    },
+    {
+      "page": 252,
+      "words": 428
+    },
+    {
+      "page": 253,
+      "words": 591
+    },
+    {
+      "page": 254,
+      "words": 232
+    },
+    {
+      "page": 255,
+      "words": 541
+    },
+    {
+      "page": 256,
+      "words": 586
+    },
+    {
+      "page": 257,
+      "words": 496
+    },
+    {
+      "page": 258,
+      "words": 463
+    },
+    {
+      "page": 259,
+      "words": 176
+    },
+    {
+      "page": 260,
+      "words": 356
+    },
+    {
+      "page": 261,
+      "words": 180
+    },
+    {
+      "page": 262,
+      "words": 487
+    },
+    {
+      "page": 263,
+      "words": 582
+    },
+    {
+      "page": 264,
+      "words": 561
+    },
+    {
+      "page": 265,
+      "words": 462
+    },
+    {
+      "page": 266,
+      "words": 519
+    },
+    {
+      "page": 267,
+      "words": 355
+    },
+    {
+      "page": 268,
+      "words": 449
+    },
+    {
+      "page": 269,
+      "words": 486
+    },
+    {
+      "page": 270,
+      "words": 426
+    },
+    {
+      "page": 271,
+      "words": 424
+    },
+    {
+      "page": 272,
+      "words": 371
+    },
+    {
+      "page": 273,
+      "words": 390
+    },
+    {
+      "page": 274,
+      "words": 419
+    },
+    {
+      "page": 275,
+      "words": 361
+    },
+    {
+      "page": 276,
+      "words": 356
+    },
+    {
+      "page": 277,
+      "words": 282
+    },
+    {
+      "page": 278,
+      "words": 462
+    },
+    {
+      "page": 279,
+      "words": 366
+    },
+    {
+      "page": 280,
+      "words": 483
+    },
+    {
+      "page": 281,
+      "words": 524
+    },
+    {
+      "page": 282,
+      "words": 390
+    },
+    {
+      "page": 283,
+      "words": 290
+    },
+    {
+      "page": 284,
+      "words": 470
+    },
+    {
+      "page": 285,
+      "words": 352
+    },
+    {
+      "page": 286,
+      "words": 209
+    },
+    {
+      "page": 287,
+      "words": 379
+    },
+    {
+      "page": 288,
+      "words": 255
+    },
+    {
+      "page": 289,
+      "words": 515
+    },
+    {
+      "page": 290,
+      "words": 549
+    },
+    {
+      "page": 291,
+      "words": 462
+    },
+    {
+      "page": 292,
+      "words": 429
+    },
+    {
+      "page": 293,
+      "words": 513
+    },
+    {
+      "page": 294,
+      "words": 454
+    },
+    {
+      "page": 295,
+      "words": 531
+    },
+    {
+      "page": 296,
+      "words": 367
+    },
+    {
+      "page": 297,
+      "words": 284
+    },
+    {
+      "page": 298,
+      "words": 307
+    },
+    {
+      "page": 299,
+      "words": 532
+    },
+    {
+      "page": 300,
+      "words": 582
+    },
+    {
+      "page": 301,
+      "words": 285
+    },
+    {
+      "page": 302,
+      "words": 387
+    },
+    {
+      "page": 303,
+      "words": 190
+    },
+    {
+      "page": 304,
+      "words": 471
+    },
+    {
+      "page": 305,
+      "words": 433
+    },
+    {
+      "page": 306,
+      "words": 462
+    },
+    {
+      "page": 307,
+      "words": 512
+    },
+    {
+      "page": 308,
+      "words": 565
+    },
+    {
+      "page": 309,
+      "words": 557
+    },
+    {
+      "page": 310,
+      "words": 525
+    },
+    {
+      "page": 311,
+      "words": 558
+    },
+    {
+      "page": 312,
+      "words": 427
+    },
+    {
+      "page": 313,
+      "words": 594
+    },
+    {
+      "page": 314,
+      "words": 568
+    },
+    {
+      "page": 315,
+      "words": 562
+    },
+    {
+      "page": 316,
+      "words": 610
+    },
+    {
+      "page": 317,
+      "words": 620
+    },
+    {
+      "page": 318,
+      "words": 488
+    },
+    {
+      "page": 319,
+      "words": 459
+    },
+    {
+      "page": 320,
+      "words": 463
+    },
+    {
+      "page": 321,
+      "words": 449
+    },
+    {
+      "page": 322,
+      "words": 473
+    },
+    {
+      "page": 323,
+      "words": 515
+    },
+    {
+      "page": 324,
+      "words": 369
+    },
+    {
+      "page": 325,
+      "words": 463
+    },
+    {
+      "page": 326,
+      "words": 486
+    },
+    {
+      "page": 327,
+      "words": 329
+    },
+    {
+      "page": 328,
+      "words": 566
+    },
+    {
+      "page": 329,
+      "words": 361
+    },
+    {
+      "page": 330,
+      "words": 339
+    },
+    {
+      "page": 331,
+      "words": 404
+    },
+    {
+      "page": 332,
+      "words": 407
+    },
+    {
+      "page": 333,
+      "words": 460
+    },
+    {
+      "page": 334,
+      "words": 351
+    },
+    {
+      "page": 335,
+      "words": 441
+    },
+    {
+      "page": 336,
+      "words": 492
+    },
+    {
+      "page": 337,
+      "words": 369
+    },
+    {
+      "page": 338,
+      "words": 439
+    },
+    {
+      "page": 339,
+      "words": 452
+    },
+    {
+      "page": 340,
+      "words": 355
+    },
+    {
+      "page": 341,
+      "words": 479
+    },
+    {
+      "page": 342,
+      "words": 436
+    },
+    {
+      "page": 343,
+      "words": 436
+    },
+    {
+      "page": 344,
+      "words": 443
+    },
+    {
+      "page": 345,
+      "words": 464
+    },
+    {
+      "page": 346,
+      "words": 425
+    },
+    {
+      "page": 347,
+      "words": 568
+    },
+    {
+      "page": 348,
+      "words": 467
+    },
+    {
+      "page": 349,
+      "words": 540
+    },
+    {
+      "page": 350,
+      "words": 442
+    },
+    {
+      "page": 351,
+      "words": 383
+    },
+    {
+      "page": 352,
+      "words": 170
+    },
+    {
+      "page": 353,
+      "words": 447
+    },
+    {
+      "page": 354,
+      "words": 439
+    },
+    {
+      "page": 355,
+      "words": 499
+    },
+    {
+      "page": 356,
+      "words": 572
+    },
+    {
+      "page": 357,
+      "words": 515
+    },
+    {
+      "page": 358,
+      "words": 463
+    },
+    {
+      "page": 359,
+      "words": 525
+    },
+    {
+      "page": 360,
+      "words": 558
+    },
+    {
+      "page": 361,
+      "words": 453
+    },
+    {
+      "page": 362,
+      "words": 356
+    },
+    {
+      "page": 363,
+      "words": 435
+    },
+    {
+      "page": 364,
+      "words": 355
+    },
+    {
+      "page": 365,
+      "words": 468
+    },
+    {
+      "page": 366,
+      "words": 492
+    },
+    {
+      "page": 367,
+      "words": 511
+    },
+    {
+      "page": 368,
+      "words": 393
+    },
+    {
+      "page": 369,
+      "words": 439
+    },
+    {
+      "page": 370,
+      "words": 480
+    },
+    {
+      "page": 371,
+      "words": 546
+    },
+    {
+      "page": 372,
+      "words": 515
+    },
+    {
+      "page": 373,
+      "words": 471
+    },
+    {
+      "page": 374,
+      "words": 167
+    },
+    {
+      "page": 375,
+      "words": 368
+    },
+    {
+      "page": 376,
+      "words": 268
+    },
+    {
+      "page": 377,
+      "words": 444
+    },
+    {
+      "page": 378,
+      "words": 386
+    },
+    {
+      "page": 379,
+      "words": 176
+    },
+    {
+      "page": 380,
+      "words": 384
+    },
+    {
+      "page": 381,
+      "words": 373
+    },
+    {
+      "page": 382,
+      "words": 463
+    },
+    {
+      "page": 383,
+      "words": 445
+    },
+    {
+      "page": 384,
+      "words": 367
+    },
+    {
+      "page": 385,
+      "words": 364
+    },
+    {
+      "page": 386,
+      "words": 485
+    },
+    {
+      "page": 387,
+      "words": 517
+    },
+    {
+      "page": 388,
+      "words": 596
+    },
+    {
+      "page": 389,
+      "words": 388
+    },
+    {
+      "page": 390,
+      "words": 338
+    },
+    {
+      "page": 391,
+      "words": 402
+    },
+    {
+      "page": 392,
+      "words": 460
+    },
+    {
+      "page": 393,
+      "words": 445
+    },
+    {
+      "page": 394,
+      "words": 472
+    },
+    {
+      "page": 395,
+      "words": 508
+    },
+    {
+      "page": 396,
+      "words": 552
+    },
+    {
+      "page": 397,
+      "words": 391
+    },
+    {
+      "page": 398,
+      "words": 471
+    },
+    {
+      "page": 399,
+      "words": 385
+    },
+    {
+      "page": 400,
+      "words": 385
+    },
+    {
+      "page": 401,
+      "words": 254
+    },
+    {
+      "page": 402,
+      "words": 335
+    },
+    {
+      "page": 403,
+      "words": 106
+    },
+    {
+      "page": 404,
+      "words": 339
+    },
+    {
+      "page": 405,
+      "words": 116
+    },
+    {
+      "page": 406,
+      "words": 264
+    },
+    {
+      "page": 407,
+      "words": 285
+    },
+    {
+      "page": 408,
+      "words": 244
+    },
+    {
+      "page": 409,
+      "words": 216
+    },
+    {
+      "page": 410,
+      "words": 27
+    },
+    {
+      "page": 411,
+      "words": 384
+    },
+    {
+      "page": 412,
+      "words": 444
+    },
+    {
+      "page": 413,
+      "words": 405
+    },
+    {
+      "page": 414,
+      "words": 219
+    }
+  ]
+}

@@ -51,4 +51,5 @@ The full book register, integration plan, and acceptance checks are recorded in 
 - Book production plan saved.
 - CAC.901 is complete: the delivered PDF passed the 150,000-word minimum with 153,737 conservative body-prose words, excluding references and front matter. It includes attributed OpenStax adaptations alongside new course lectures and diagrams.
 - CAC.902 is complete: the delivered PDF passed the 150,000-word minimum with 245,750 conservative body-prose words, excluding references and front matter. It includes attributed CC BY adaptations alongside new course lectures, diagrams, and exercises.
-- The remaining 30 course books have not yet been produced.
+- CAC.903 is complete: the delivered PDF passed the 150,000-word minimum with 170,150 conservative body-prose words, excluding references and front matter. It includes attributed CC BY adaptations from Petersen and OpenStax alongside new course lectures, diagrams, exercises, and a clinical casebook.
+- The remaining 29 course books have not yet been produced.
