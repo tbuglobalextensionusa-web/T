@@ -12,8 +12,9 @@ Completed books:
 
 - **CAC.901 — Advanced Developmental Psychology:** [PDF](deliverables/CAC-901-advanced-developmental-psychology.pdf), 437 pages, 153,737 conservative body-prose words verified from the PDF, excluding references and front matter.
 - **CAC.902 — Theories of Counseling and Psychotherapy:** [PDF](deliverables/CAC-902-theories-of-counseling-and-psychotherapy.pdf), 522 pages, 245,750 conservative body-prose words verified from the PDF, excluding references and front matter.
+- **CAC.903 — Child and Adolescent Assessment Techniques:** [PDF](deliverables/CAC-903-child-and-adolescent-assessment-techniques.pdf), 445 pages, 170,150 conservative body-prose words verified from the PDF, excluding references and front matter.
 
-Both books include new course lectures, diagrams, and exercises alongside attributed CC BY open educational adaptations. The remaining 30 books are pending; next is CAC.903.
+These books include new course lectures, diagrams, and exercises alongside attributed CC BY open educational adaptations. The remaining 29 books are pending; next is CAC.904.
 
 ## Existing Repository Utility: Edge TTS
 

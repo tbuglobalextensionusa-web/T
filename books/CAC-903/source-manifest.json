@@ -1,0 +1,38 @@
+{
+  "sources": [
+    {
+      "key": "petersen",
+      "repo": "isaactpetersen/Principles-Psychological-Assessment",
+      "commit": "a424bfcbad1860a746411c6934b06c3c95b2a089",
+      "title": "Principles of Psychological Assessment: With Applied Examples in R",
+      "authors": "Isaac T. Petersen",
+      "publisher": "University of Iowa Libraries",
+      "year": "2026",
+      "version": "1.0.9",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "url": "https://isaactpetersen.github.io/Principles-Psychological-Assessment/",
+      "doi": "10.25820/work.007199",
+      "retrieved": "2026-11-04",
+      "license_verified": true,
+      "modifications": "Quarto/R code and original figures omitted; prose reformatted for PDF; formal equations replaced with adaptation notes or plain-text symbols; citations reformatted; new child-adolescent lectures and diagrams added."
+    },
+    {
+      "key": "openstax",
+      "repo": "cnx-user-books/cnxbook-psychology-2e",
+      "commit": "f5c9cf50686749d28cc5a594e0fdc487398f8307",
+      "title": "Psychology 2e",
+      "authors": "Rose M. Spielman, William J. Jenkins, and Marilyn D. Lovett",
+      "publisher": "OpenStax, Rice University",
+      "year": "2020",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved": "2026-11-04",
+      "license_verified": true,
+      "modifications": "Selected CNXML modules reformatted for PDF; original figures omitted; new child-adolescent lectures and diagrams added."
+    }
+  ],
+  "blocks": 28,
+  "source_words": 163912,
+  "references": 502
+}
